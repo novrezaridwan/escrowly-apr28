@@ -30,9 +30,9 @@ const AMLKYCPolicy = () => (
                         <h1>AML & KYC Policy</h1>
                         <div className="post-meta">
                             <ul className="post-categories">
-                                <li>Finance & Security</li>
+                                <li>Anti Money Laundering & Know Your Customer Policy</li>
                             </ul>
-                            <span className="post-date">31st March 2024</span>
+                            <span className="post-date">March 30, 2024</span>
                             <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />7 min read</div>
                         </div>
                         <div className="blog-article-content">
