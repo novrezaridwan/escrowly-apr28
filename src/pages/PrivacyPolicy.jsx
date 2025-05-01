@@ -5,12 +5,12 @@ import Breadcrumbs from "../components/Breadcrumbs/Breadcrumbs";
 const PrivacyPolicy = () => (
     <>
         <Helmet>
-            <title>Best Crypto Escrow - Escrowly</title>
-            <meta name="description" content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders." />
-            <meta name="keywords" content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate" />
+            <title>Privacy Policy – Escrow Crypto | Escrowly.com</title>
+            <meta name="description" content="Read the Privacy Policy of Escrowly.com, the crypto-only escrow platform. Learn how we collect, use, and protect your personal data under AML and KYC compliance." />
+            <meta name="keywords" content="Escrowly privacy policy, crypto escrow data policy, secure crypto platform, AML compliance, KYC regulations, crypto user data, blockchain privacy, FinCEN MSB, secure crypto transactions, crypto data protection, identity verification, blockchain compliance, crypto-only escrow service" />
             <meta name="author" content="Escrowly Crypto Escrow Team" />
-            <meta property="og:title" content="Escrowly – Buy & Sell Online Safely with Crypto" />
-            <meta property="og:description" content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets." />
+            <meta property="og:title" content="Privacy Policy – Escrowly Crypto Escrow" />
+            <meta property="og:description" content="Escrowly's Privacy Policy outlines how we securely handle your personal and transaction data under AML and KYC standards. Trusted worldwide as a crypto-only escrow solution." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
             <meta property="og:url" content="https://escrowly.com" />
             <meta name="twitter:card" content="summary_large_image" />
