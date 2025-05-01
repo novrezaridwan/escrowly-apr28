@@ -65,20 +65,48 @@ const AMLKYCPolicy = () => (
                                 <li>3. Clients who made complex or unusual transactions</li>
                             </ol>
                             <p>Additional verification procedures, such a video call, the submission of more documents, or continuing transaction evaluations, might be included in EDD.</p>
-                            <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
-                            <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
-                            <h4>Benefits of Using Escrowly</h4>
-                            <p>Escrowly offers a reliable and secure platform for businesses and individuals engaged in online transactions. By utilizing advanced technologies and best practices, Escrowly ensures that all parties involved in a transaction can have peace of mind. Here’s how Escrowly protects your interests:</p>
+                            <blockquote>This AML/KYC Policy reflects our commitment to our customers by ensuring compliance with the relevant regulation and maintaining the integrity of our platform</blockquote>
+                            <h3>5. Measures to Promote Anti-Money Laundering (AML)</h3>
+                            <p>In addition to actively monitoring transactions to identify and stop questionable activity, Escrowly also ensures that the platform is being utilized in compliance with the company's terms and conditions.</p>
+                            <h4>Transaction Tracking</h4>
+                            <ol>
+                                <li>1. Every transaction is examined for odd trends.</li>
+                                <li>2. Transactions that seem suspicious and are large or quick will be marked for evaluation.</li>
+                                <li>3. There are both automated and manual screening systems in place to identify transactions that pose a high risk.</li>
+                            </ol>
+                            <h4>Reporting Questionable Behavior</h4>
+                            <p>Escrowly is required by law to notify the appropriate authorities of any suspicious activity. This comprises:</p>
                             <ul>
-                                <li>Fraud Prevention: Ensures that payments are only processed when conditions are met.</li>
-                                <li>Secure Crypto Transactions: Reduces the risks of scams in the volatile crypto market.</li>
-                                <li>Trust & Transparency: Builds confidence between buyers and sellers, fostering long-term business relationships.</li>
-                                <li>Global Reach: Allows businesses and freelancers to operate securely across international borders.</li>
-                                <li>Automated Process: Simplifies complex transactions with a user-friendly system.</li>
+                                <li>When a transaction seems phony or includes unlawful activity, a Suspicious Activity Report (SAR) is filed.</li>
+                                <li>Currency Transaction Reports (CTRs): These are submitted for transactions that total more than US $10,000.</li>
                             </ul>
-                            <h6>Future-Proof Your Transactions with Escrowly</h6>
-                            <p>As digital transactions continue to evolve, businesses and individuals need a secure and reliable payment system that adapts to changing financial landscapes. Escrowly is committed to providing the highest level of security for cryptocurrency transactions, ensuring that your payments are protected every step of the way.</p>
-                            <p>Ready to safeguard your digital transactions? Explore Escrowly today and experience the future of secure online payments.</p>
+                            <p>Users might be requested for more details about their purchases. Escrowly accounts that don't comply risk being suspended, terminated, or placed on hold</p>
+                            <h4>Escrowly Maintains Data Records</h4>
+                            <ul>
+                                <li>All transaction data, client identification information, and compliance documentation are kept on file for a minimum of five years.</li>
+                                <li>Regulatory bodies may receive access to these records upon request.</li>
+                            </ul>
+                            <h3>6. Activities That Are Restricted</h3>
+                            <p>Escrowly.com forbids the following uses of our escrow services:</p>
+                            <ol>
+                                <li>Illegal Activities: Any transaction involving funds from criminal activity.</li>
+                                <li>Payments connected to darknet markets, also known as "dark web transactions."</li>
+                                <li>Token sales or unregistered initial coin offerings (ICOs): uncontrolled cryptocurrency investments.</li>
+                                <li>Financing terrorist organizations or operations, otherwise known as terrorism financing.</li>
+                            </ol>
+                            <p>Any attempt to break these guidelines will result in you being immediately blocked from your account and reported to the appropriate authorities.</p>
+                            <h3>7. Obligations of Customers</h3>
+                            <p>As a customer of Escrowly.com, you must:</p>
+                            <ol>
+                                <li>Provide Accurate Information: Send in legitimate and genuine documentation.</li>
+                                <li>Update Your Information: Notify us of any modifications to your business or personal data.</li>
+                                <li>Adhere to AML Laws: Make use of Escrowly.com in compliance with all relevant rules.</li>
+                                <li>Report Suspicious Activity: If you believe any transactions are unlawful or fraudulent, let us know.</li>
+                            </ol>
+                            <h3>8. Compliance & Policy Updates</h3>
+                                <p>Escrowly is constant to revise and update this policy in response to new legal and regulation. Any substantial changes made to our AML & KYC policies will be communicated to our customers. If you have any questions or concerns about compliance, please contact us.</p>
+                                <p>Your compliance with our AML/KYC policies and procedures is required by your use of Escrowly. Account restrictions or legal action may apply for continued violations.</p>
+                                <p>Thank you for helping us create a safe and secure crypto escrow service</p>
                         </div>
                     </div>
                 </section> 
