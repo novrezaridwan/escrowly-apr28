@@ -52,11 +52,34 @@ const PrivacyPolicy = () => (
                             <h3>3. How We Use Your Information</h3>
                             <p>The collected data has multiple purposes for our business operations.</p>
                             <ol>
-                                <li>a. Transaction Agreement – The buyer and seller agree to the terms of the deal, ensuring clarity and mutual understanding</li>
-                                <li>b. Funds Secured – The buyer deposits cryptocurrency into our escrow system, keeping it securely stored</li>
-                                <li>c.Delivery & Confirmation – The seller delivers the product or service, and the buyer verifies satisfaction</li>
-                                <li>d. Funds Released – Once both parties confirm the terms are met, Escrowly transfers the funds to the seller, completing the transaction securely</li>
-                                <li>e. Funds Released – Once both parties confirm the terms are met, Escrowly transfers the funds to the seller, completing the transaction securely</li>
+                                <li>a. Our company provides two main purposes for the data we collect: we deliver crypto escrow services while protecting transaction security.</li>
+                                <li>b. Identity Verification & Compliance consists of identity checks that follow AML/KYC regulations for user verification.</li>
+                                <li>c. Our platform implements security measures to discover fraudulent patterns while defending against financial manipulation alongside financial regulatory adherence.</li>
+                                <li>d. The team delivers user support by answering questions while providing transaction updates together with security alert notifications.</li>
+                                <li>e. We perform platform optimization by studying user behaviors to develop website functionality and increase user satisfaction.</li>
+                            </ol>
+                            <h3>4. How We Share Your Information</h3>
+                            <p>Your personal information remains private as we do not distribute it for sale or rent purposes or conduct any type of trading activities with your data. Our platform follows specified data-sharing protocols that apply under three conditions:</p>
+                            <ol>
+                                <li>a. We must provide your information to FinCEN along with other regulatory bodies when law requires it.</li>
+                                <li>b. The company uses third-party providers for all aspects of identity verification and fraud prevention together with blockchain analysis and customer support functions.</li>
+                                <li>c. The Legal and Dispute Resolution section enables us to share data when we need to enforce our policies along with dispute resolution and legal compliance.</li>
+                            </ol>
+                            <h3>5. Data Security Measures</h3>
+                            <p>The organization implements standard encryption procedures that ensure the protection of user information through:</p>
+                            <ol>
+                                <li>a. End-to-End Encryption: It protects sensitive information by securing it through encryption methods.</li>
+                                <li>b. Two-Factor Authentication (2FA): Mandatory for user account security.</li>
+                                <li>c. The company maintains secure wallet architecture through combination of multi-signature wallets and cold storage solutions for protecting escrowed crypto funds.</li>
+                                <li>d. Authorized personnel alone receive access permissions to sensitive user data through our data access control system.</li>
+                                <li>e. The organization executes periodic security reviews to optimize system resilience.</li>
+                            </ol>
+                            <h3>6. Policy on Data Retention</h3>
+                            <p>We maintain user data for as long as is required to:</p>
+                            <ol>
+                                <li>a. Adhere to legal requirements (such as the FinCEN MSB record-keeping responsibilities).</li>
+                                <li>b. Handle disagreements and implement platform regulations.</li>
+                                <li>c. Enhance our offerings while upholding compliance and security.</li>
                             </ol>
                             <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
                             <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
