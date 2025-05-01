@@ -5,12 +5,12 @@ import Breadcrumbs from "../components/Breadcrumbs/Breadcrumbs";
 const RegulatoryCompliance = () => (
     <>
         <Helmet>
-            <title>Best Crypto Escrow - Escrowly</title>
-            <meta name="description" content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders." />
-            <meta name="keywords" content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate" />
+            <title>Regulatory Compliance – Escrowly Crypto Escrow Legal Standards</title>
+            <meta name="description" content="Explore how Escrowly complies with global financial regulations as a registered Money Services Business under FinCEN. Learn about our AML, KYC, and risk management practices." />
+            <meta name="keywords" content="crypto regulatory compliance, FinCEN MSB registration, Escrowly legal compliance, AML standards, KYC policy, OFAC screening, FATF compliance, MSB crypto platform, financial risk management, secure crypto services, crypto transaction monitoring, suspicious activity reports, regulatory crypto escrow" />
             <meta name="author" content="Escrowly Crypto Escrow Team" />
-            <meta property="og:title" content="Escrowly – Buy & Sell Online Safely with Crypto" />
-            <meta property="og:description" content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets." />
+            <meta property="og:title" content="Regulatory Compliance – Escrowly Crypto Escrow Legal Standards" />
+            <meta property="og:description" content="Escrowly operates under full FinCEN MSB registration and global AML/KYC compliance. See our policies for legal, secure, and fraud-free crypto transactions." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
             <meta property="og:url" content="https://escrowly.com" />
             <meta name="twitter:card" content="summary_large_image" />
@@ -30,7 +30,7 @@ const RegulatoryCompliance = () => (
                         <h1>Regulatory Compliance</h1>
                         <div className="post-meta">
                             <ul className="post-categories">
-                                <li>Finance & Security</li>
+                                <li>Regulatory Compliance</li>
                             </ul>
                             <span className="post-date">February 10, 2024</span>
                             <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
