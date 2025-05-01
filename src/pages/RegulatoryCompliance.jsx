@@ -36,7 +36,7 @@ const RegulatoryCompliance = () => (
                             <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
                         </div>
                         <div className="blog-article-content">
-                            <p>In today’s fast-paced digital economy, security in financial transactions is more critical than ever. Whether you're a freelancer, business owner, or online seller, ensuring that payments are processed safely and fairly is essential. Escrowly offers a cutting-edge escrow service designed to protect both buyers and sellers in cryptocurrency transactions, eliminating risks and fostering trust.</p>
+                            <p>Effective Date: [07st December 2024]</p>
                             <h3>How Escrowly Ensures Safe Transactions</h3>
                             <p>Our platform follows a straightforward process to guarantee security for both buyers and sellers:</p>   
                             <ol>
