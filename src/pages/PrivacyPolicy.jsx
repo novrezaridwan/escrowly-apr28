@@ -36,9 +36,12 @@ const PrivacyPolicy = () => (
                             <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
                         </div>
                         <div className="blog-article-content">
-                            <p>In today’s fast-paced digital economy, security in financial transactions is more critical than ever. Whether you're a freelancer, business owner, or online seller, ensuring that payments are processed safely and fairly is essential. Escrowly offers a cutting-edge escrow service designed to protect both buyers and sellers in cryptocurrency transactions, eliminating risks and fostering trust.</p>
-                            <h3>How Escrowly Ensures Safe Transactions</h3>
-                            <p>Our platform follows a straightforward process to guarantee security for both buyers and sellers:</p>   
+                            <h3>1. Introduction</h3>
+                            <p>Welcome to Escrowly.com ("Escrowly," "we," "us," or "our"). Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your data when you use our website and services.</p>
+                            <p>The crypto-only online escrow platform Escrowly.com enables users to perform safe transactions by omitting traditional monetary transactions. FinCEN has recognized our company as a Money Services Business (MSB) while we operate worldwide.</p>
+                            <p>We handle personal data in accordance with AML (Anti-Money Laundering) and KYC (Know Your Customer) regulations through this policy framework.</p>
+                            <p>All users who access Escrowly.com agree to the practices specified in this Privacy Policy. We request all users to cease our services if the policies do not match their expectations.</p>
+                            <h3>2. Information We Collect</h3>
                             <ol>
                                 <li>1. Transaction Agreement – The buyer and seller agree to the terms of the deal, ensuring clarity and mutual understanding</li>
                                 <li>2. Funds Secured – The buyer deposits cryptocurrency into our escrow system, keeping it securely stored</li>
