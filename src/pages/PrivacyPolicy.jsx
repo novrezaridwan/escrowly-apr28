@@ -30,7 +30,7 @@ const PrivacyPolicy = () => (
                         <h1>Privacy Policy</h1>
                         <div className="post-meta">
                             <ul className="post-categories">
-                                <li>Finance & Security</li>
+                                <li>Privacy & Policies</li>
                             </ul>
                             <span className="post-date">February 11, 2024</span>
                             <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />7 min read</div>
