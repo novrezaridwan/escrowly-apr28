@@ -103,20 +103,12 @@ const PrivacyPolicy = () => (
                             <p>This Privacy Policy may be updated or modified at any time by us. We will send you an email or post a noticeable notice on our website if we make any major changes. Users are urged to often examine this policy.</p>
                             <h3>13. D-U-N-S Number & Business Verification</h3>
                             <p>Escrowly LLC is a verified business entity with a registered D-U-N-S® Number, which helps establish credibility and transparency in business transactions. Our D-U-N-S Number is 136876298. This registration enhances trust with partners, regulatory authorities, and financial institutions.</p>
+                            <h3>14. Contact Information</h3>
                             <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
-                            <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
-                            <h4>Benefits of Using Escrowly</h4>
-                            <p>Escrowly offers a reliable and secure platform for businesses and individuals engaged in online transactions. By utilizing advanced technologies and best practices, Escrowly ensures that all parties involved in a transaction can have peace of mind. Here’s how Escrowly protects your interests:</p>
-                            <ul>
-                                <li>Fraud Prevention: Ensures that payments are only processed when conditions are met.</li>
-                                <li>Secure Crypto Transactions: Reduces the risks of scams in the volatile crypto market.</li>
-                                <li>Trust & Transparency: Builds confidence between buyers and sellers, fostering long-term business relationships.</li>
-                                <li>Global Reach: Allows businesses and freelancers to operate securely across international borders.</li>
-                                <li>Automated Process: Simplifies complex transactions with a user-friendly system.</li>
-                            </ul>
-                            <h6>Future-Proof Your Transactions with Escrowly</h6>
-                            <p>As digital transactions continue to evolve, businesses and individuals need a secure and reliable payment system that adapts to changing financial landscapes. Escrowly is committed to providing the highest level of security for cryptocurrency transactions, ensuring that your payments are protected every step of the way.</p>
-                            <p>Ready to safeguard your digital transactions? Explore Escrowly today and experience the future of secure online payments.</p>
+                            <p>If you have any questions or concerns about this Privacy Policy, you can contact us at:</p>
+                            <p><strong>Escrowly LLC</strong></p>
+                            <p>701 Tillery Street Unit 12 STE 2962 Austin, TX 78702, USA</p>
+                            <p>Thank you for choosing Escrowly.com for your secure crypto escrow transactions. Your privacy and security are our top priorities.</p>
                         </div>
                     </div>
                 </section> 
