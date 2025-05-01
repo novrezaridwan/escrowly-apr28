@@ -5,12 +5,12 @@ import Breadcrumbs from "../components/Breadcrumbs/Breadcrumbs";
 const AMLKYCPolicy = () => (
     <>
         <Helmet>
-            <title>Best Crypto Escrow - Escrowly</title>
-            <meta name="description" content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders." />
-            <meta name="keywords" content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate" />
+            <title>AML & KYC Policy – Escrowly Crypto Escrow Compliance</title>
+            <meta name="description" content="Read Escrowly's AML and KYC Policy. Learn how we prevent fraud, money laundering, and financial crimes with secure identity verification and compliance protocols." />
+            <meta name="keywords" content="AML policy, KYC policy, Escrowly compliance, crypto AML regulations, KYC verification crypto, secure crypto escrow, anti-money laundering, crypto identity check, beneficial ownership, PEPs, FATF high-risk countries, crypto compliance policy, blockchain due diligence" />
             <meta name="author" content="Escrowly Crypto Escrow Team" />
-            <meta property="og:title" content="Escrowly – Buy & Sell Online Safely with Crypto" />
-            <meta property="og:description" content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets." />
+            <meta property="og:title" content="AML & KYC Policy – Escrowly Crypto Escrow Compliance" />
+            <meta property="og:description" content="Escrowly's AML/KYC Policy outlines how we verify identities and monitor transactions to fight fraud and financial crimes. Stay compliant and secure with crypto escrow." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
             <meta property="og:url" content="https://escrowly.com" />
             <meta name="twitter:card" content="summary_large_image" />
@@ -32,19 +32,39 @@ const AMLKYCPolicy = () => (
                             <ul className="post-categories">
                                 <li>Finance & Security</li>
                             </ul>
-                            <span className="post-date">February 10, 2024</span>
-                            <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
+                            <span className="post-date">31st March 2024</span>
+                            <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />7 min read</div>
                         </div>
                         <div className="blog-article-content">
-                            <p>In today’s fast-paced digital economy, security in financial transactions is more critical than ever. Whether you're a freelancer, business owner, or online seller, ensuring that payments are processed safely and fairly is essential. Escrowly offers a cutting-edge escrow service designed to protect both buyers and sellers in cryptocurrency transactions, eliminating risks and fostering trust.</p>
-                            <h3>How Escrowly Ensures Safe Transactions</h3>
-                            <p>Our platform follows a straightforward process to guarantee security for both buyers and sellers:</p>   
+                            <h3>1. Introduction</h3>
+                            <p>Welcome to Escrowly.com. We, at Escrowly, are a group of people who have been working on online transactions, who believe in secure crypto transactions and to do so we have adapted a complete AML and KYC policy to stop fraud, laundering, and financial crimes This policy is applicable to all our customers and users of our Escrowly platform.</p>
+                            <h3>2. Why is compliance with AML and KYC important?</h3>
+                            <p>The purpose of AML/KYC legislation is to forbid unlawful activities such as money laundering, identity theft, fraud, terrorist financing, and other financial crimes. By verifying client identities and keeping an eye on transactions, we contribute to the creation of a safe and secure ecosystem for all end users.</p>
+                            <h3>3. Identity Checking (KYC Conditions)</h3>
+                            <p>Before using our crypto escrow services, every Escrowly client base that exceeds the threshold amount must finish our KYC verification process. This comprises:</p>
+                            <h4>Individual Users</h4>
                             <ol>
-                                <li>1. Transaction Agreement – The buyer and seller agree to the terms of the deal, ensuring clarity and mutual understanding</li>
-                                <li>2. Funds Secured – The buyer deposits cryptocurrency into our escrow system, keeping it securely stored</li>
-                                <li>3.Delivery & Confirmation – The seller delivers the product or service, and the buyer verifies satisfaction</li>
-                                <li>4. Funds Released – Once both parties confirm the terms are met, Escrowly transfers the funds to the seller, completing the transaction securely</li>
+                                <li>1. Date of Birth</li>
+                                <li>2. Government-Issued Identification (passport, driver's license, or national ID)</li>
+                                <li>3. Proof of Address (utility bill, bank statement, or official document, no more than three months old)</li>
+                                <li>4. Selfie Verification (a live photo or video with the submitted ID)</li>
+                                <li>5. Full Name (matching government-issued ID)</li>
                             </ol>
+                            <h4>Businesses or companies</h4>
+                            <ol>
+                                <li>1. List of Beneficial Owners & Directors (together with their KYC information)</li>
+                                <li>2. Legal Entity Type (LLC, Corporation, etc)</li>
+                                <li>3. Business Address Verification</li>
+                                <li>4. Articles of Incorporation or Business License</li>
+                            </ol>
+                            <h3>4. EDD, or Enhanced Due Diligence</h3>
+                            <p>Some clients could need Enhanced Due Diligence (EDD) because they are deemed high-risk. This pertains to:</p>
+                            <ol>
+                                <li>1. People who are politically exposed (PEPs) and users from high-risk countries (as determined by FATF)</li>
+                                <li>2. Deals worth more than $10,000</li>
+                                <li>3. Clients who made complex or unusual transactions</li>
+                            </ol>
+                            <p>Additional verification procedures, such a video call, the submission of more documents, or continuing transaction evaluations, might be included in EDD.</p>
                             <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
                             <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
                             <h4>Benefits of Using Escrowly</h4>
