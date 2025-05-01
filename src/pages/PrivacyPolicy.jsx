@@ -81,6 +81,28 @@ const PrivacyPolicy = () => (
                                 <li>b. Handle disagreements and implement platform regulations.</li>
                                 <li>c. Enhance our offerings while upholding compliance and security.</li>
                             </ol>
+                            <p>Any personal information that is no longer needed is anonymized or safely erased.</p>
+                            <h3>7. International Data Transfer</h3>
+                            <p>Due to our worldwide operations, your data may be processed and kept in countries with various data protection regulations. We take the appropriate precautions to guarantee that your data is safe while being sent internationally.</p>
+                            <h3>8. Your Choices & Rights</h3>
+                            <p>Your jurisdiction may grant you the following rights:</p>
+                            <ul>
+                                <li>Portability & Access: Get a copy of the data you've saved.</li>
+                                <li>Correction & Deletion: Ask for your information to be deleted or for erroneous data to be corrected.</li>
+                                <li>Limit Processing: Under some circumstances, restrict how we use your data.</li>
+                                <li>Opt-Out of Communications: Control marketing subscriptions and email settings.</li>
+                            </ul>
+                            <p>You can get in touch with us at any moment to exercise your rights.</p>
+                            <h3>9. Privacy and Blockchain Issues</h3>
+                            <p>Certain operations (such as transaction reversals or complete data deletion) might not be feasible since blockchain transactions are immutable. We do, however, take the appropriate precautions to reduce the vulnerability of personal data on open blockchain ledgers.</p>
+                            <h3>10. Privacy of Children</h3>
+                            <p>Users under the age of eighteen are not permitted to use Escrowly.com. We do not intentionally gather personal information from children. We will take the necessary steps to remove any information given by minors if discovered.</p>
+                            <h3>11. Links & Services from Third Parties</h3>
+                            <p>There may be links to external services on our platform. We advise you to read their privacy policies before engaging with them, as we have no control over their privacy practices.</p>
+                            <h3>12. Modifications to This Privacy Statement</h3>
+                            <p>This Privacy Policy may be updated or modified at any time by us. We will send you an email or post a noticeable notice on our website if we make any major changes. Users are urged to often examine this policy.</p>
+                            <h3>13. D-U-N-S Number & Business Verification</h3>
+                            <p>Escrowly LLC is a verified business entity with a registered D-U-N-S® Number, which helps establish credibility and transparency in business transactions. Our D-U-N-S Number is 136876298. This registration enhances trust with partners, regulatory authorities, and financial institutions.</p>
                             <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
                             <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
                             <h4>Benefits of Using Escrowly</h4>
