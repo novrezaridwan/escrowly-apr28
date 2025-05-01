@@ -49,6 +49,7 @@ const PrivacyPolicy = () => (
                             <p>Our platform collects Information about the device and recorded user interactions through IP address logging together with browser technical details and operating system and device type identification. The website tracks information through cookies and monitoring technologies which help to offer personalized content along with traffic analysis. The browser settings provide users the ability to handle their cookie preferences.</p>
                             <h4>2.3 Information from Third Parties</h4>
                             <p>Additional data we obtain originates from identity verification services or blockchain analytics providers and regulatory authorities to uphold standards of Anti-Money Laundering and Know Your Customer guidelines.</p>
+                            <blockquote>Certain operations (such as transaction reversals or complete data deletion) might not be feasible since blockchain transactions are immutable. We do, however, take the appropriate precautions to reduce the vulnerability of personal data on open blockchain ledgers.</blockquote>
                             <h3>3. How We Use Your Information</h3>
                             <p>The collected data has multiple purposes for our business operations.</p>
                             <ol>
@@ -104,7 +105,6 @@ const PrivacyPolicy = () => (
                             <h3>13. D-U-N-S Number & Business Verification</h3>
                             <p>Escrowly LLC is a verified business entity with a registered D-U-N-S® Number, which helps establish credibility and transparency in business transactions. Our D-U-N-S Number is 136876298. This registration enhances trust with partners, regulatory authorities, and financial institutions.</p>
                             <h3>14. Contact Information</h3>
-                            <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
                             <p>If you have any questions or concerns about this Privacy Policy, you can contact us at:</p>
                             <p><strong>Escrowly LLC</strong></p>
                             <p>701 Tillery Street Unit 12 STE 2962 Austin, TX 78702, USA</p>
