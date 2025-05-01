@@ -42,11 +42,21 @@ const PrivacyPolicy = () => (
                             <p>We handle personal data in accordance with AML (Anti-Money Laundering) and KYC (Know Your Customer) regulations through this policy framework.</p>
                             <p>All users who access Escrowly.com agree to the practices specified in this Privacy Policy. We request all users to cease our services if the policies do not match their expectations.</p>
                             <h3>2. Information We Collect</h3>
+                            <p>Our secure and efficient escrow service utilizes various information including.</p>
+                            <h4>2.1 Information You Provide Directly</h4>
+                            <p>When users register for an account, we require their full name together with email address and contact information and their KYC/AML-required documents such as government-issued identification and proof of residence. We receive information about escrow crypto assets such as wallet addresses and transaction numbers and amounts from users who create escrow transactions. We also collect data about the participating parties. When you seek customer support, our system collects all your contact information together with the documentation needed for your case.</p>
+                            <h4>2.2 Information Collected Automatically</h4>
+                            <p>Our platform collects Information about the device and recorded user interactions through IP address logging together with browser technical details and operating system and device type identification. The website tracks information through cookies and monitoring technologies which help to offer personalized content along with traffic analysis. The browser settings provide users the ability to handle their cookie preferences.</p>
+                            <h4>2.3 Information from Third Parties</h4>
+                            <p>Additional data we obtain originates from identity verification services or blockchain analytics providers and regulatory authorities to uphold standards of Anti-Money Laundering and Know Your Customer guidelines.</p>
+                            <h3>3. How We Use Your Information</h3>
+                            <p>The collected data has multiple purposes for our business operations.</p>
                             <ol>
-                                <li>1. Transaction Agreement – The buyer and seller agree to the terms of the deal, ensuring clarity and mutual understanding</li>
-                                <li>2. Funds Secured – The buyer deposits cryptocurrency into our escrow system, keeping it securely stored</li>
-                                <li>3.Delivery & Confirmation – The seller delivers the product or service, and the buyer verifies satisfaction</li>
-                                <li>4. Funds Released – Once both parties confirm the terms are met, Escrowly transfers the funds to the seller, completing the transaction securely</li>
+                                <li>a. Transaction Agreement – The buyer and seller agree to the terms of the deal, ensuring clarity and mutual understanding</li>
+                                <li>b. Funds Secured – The buyer deposits cryptocurrency into our escrow system, keeping it securely stored</li>
+                                <li>c.Delivery & Confirmation – The seller delivers the product or service, and the buyer verifies satisfaction</li>
+                                <li>d. Funds Released – Once both parties confirm the terms are met, Escrowly transfers the funds to the seller, completing the transaction securely</li>
+                                <li>e. Funds Released – Once both parties confirm the terms are met, Escrowly transfers the funds to the seller, completing the transaction securely</li>
                             </ol>
                             <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
                             <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
