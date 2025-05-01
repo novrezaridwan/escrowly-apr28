@@ -30,9 +30,9 @@ const RegulatoryCompliance = () => (
                         <h1>Regulatory Compliance</h1>
                         <div className="post-meta">
                             <ul className="post-categories">
-                                <li>Effective Date: [07st December 2024]</li>
+                                <li>Effective Date: [03 August 2024]</li>
                             </ul>
-                            <span className="post-date">February 10, 2024</span>
+                            <span className="post-date">Last Updated: 19 Jan 2025</span>
                             <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
                         </div>
                         <div className="blog-article-content">
