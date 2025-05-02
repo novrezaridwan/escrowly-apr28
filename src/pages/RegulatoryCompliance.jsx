@@ -33,7 +33,7 @@ const RegulatoryCompliance = () => (
                                 <li>Effective Date: [03 August 2024]</li>
                             </ul>
                             <span className="post-date">Last Updated: 19 Jan 2025</span>
-                            <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
+                            <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />5 min read</div>
                         </div>
                         <div className="blog-article-content">
                             <h3>1. Introduction</h3>
