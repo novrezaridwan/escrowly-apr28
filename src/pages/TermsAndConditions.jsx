@@ -108,6 +108,7 @@ const TermsAndConditions = () => (
                                 <li>3. D-U-N-S® Number: 136876298 – Registered business identification for compliance.</li>
                             </ol>
                             <p>All users must familiarize themselves with their local crypto laws before utilizing Escrowly's services.</p>
+                            <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-terms-conditions3.webp" alt="Escrowly Terms & Conditions"/>
                             <h3>11. Security & Platform Protection</h3>
                             <p>Escrowly has implemented the following security features to provide secure crypto transactions:</p>
                             <ol>
