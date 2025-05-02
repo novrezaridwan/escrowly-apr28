@@ -40,6 +40,7 @@ const RegulatoryCompliance = () => (
                             <p>Escrowly.com ("Escrowly," "we," "us," or "our") is a crypto only escrow platform committed to maintaining full regulatory compliance with financial authorities and legal frameworks worldwide. As a Money Services Business (MSB) registered with FinCEN, we adhere to strict Anti-Money Laundering (AML) and Know Your Customer (KYC) regulations to ensure the highest standards of security and legal compliance.</p>
                             <p>This document outlines our regulatory obligations, compliance measures, and risk management policies that govern our operations.</p>
                             <h3>2. Regulatory Compliance Framework</h3>
+                            <img className="w-full h-auto my-4 rounded-lg" src="/images/regulatory-compliance.webp" alt="Escrolwy Regulatory Compliance"/>
                             <p>Escrowly operates under full compliance with international financial regulations which include all applicable standards.</p>
                             <ol>
                                 <li>a. As an MSB under FinCEN regulation Escrowly meets all needs of federal financial reporting in addition to Anti-Money Laundering requirements</li>
