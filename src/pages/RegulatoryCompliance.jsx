@@ -71,8 +71,29 @@ const RegulatoryCompliance = () => (
                                 <li>b. Our platform denies access to both high-risk jurisdictions and politically exposed persons (PEPs).</li>
                             </ul>
                             <h3>5. Licensing & Legal Considerations</h3>
-                            <p>As digital transactions continue to evolve, businesses and individuals need a secure and reliable payment system that adapts to changing financial landscapes. Escrowly is committed to providing the highest level of security for cryptocurrency transactions, ensuring that your payments are protected every step of the way.</p>
-                            <p>Ready to safeguard your digital transactions? Explore Escrowly today and experience the future of secure online payments.</p>
+                            <p>Escrowly.com serves exclusively as a crypto escrow platform since it deals with cryptocurrency escrow transactions between its users. We DO NOT offer any service involving fiat currencies or conventional banking operations or payment processing. The platform handles only cryptocurrency asset escrow operations that connect users in their transactions.</p>
+                            <p>Compliance with state-specific money transmission laws where required.</p>
+                            <h3>6. Data Security & Privacy Compliance</h3>
+                            <p>Our user information protection relies on strict data security protocols which follow multiple privacy regulations including:</p>
+                            <ul>
+                                <li>a. GDPR (General Data Protection Regulation): User data protection and privacy for EU-based users.</li>
+                                <li>b. CCPA: California residents must provide clear information about data collection as well as user rights.</li>
+                                <li>c. Blockchain Privacy Considerations: Ensuring minimal personal data exposure on public blockchain ledgers.</li>
+                            </ul>
+                            <h3>7. Risk Management & Internal Controls</h3>
+                            <p>The service implements risk-based compliance rules to protect the business from financial offenses and maintain organizational integrity.</p>
+                            <ul>
+                                <li>- Regular assessment of regulatory compliance effectiveness.</li>
+                                <li>- Employee Training Programs conduct regular AML/KYC compliance training sessions for the entire staff workforce.</li>
+                                <li>- The company maintains firm procedures for non-compliant situations with both user account deactivation and full support to law enforcement teams.</li>
+                            </ul>
+                            <h3>8. Regulatory Reporting & Cooperation</h3>
+                            <p>The service implements risk-based compliance rules to protect the business from financial offenses and maintain organizational integrity.</p>
+                            <ul>
+                                <li>- Regular assessment of regulatory compliance effectiveness.</li>
+                                <li>- Employee Training Programs conduct regular AML/KYC compliance training sessions for the entire staff workforce.</li>
+                                <li>- The company maintains firm procedures for non-compliant situations with both user account deactivation and full support to law enforcement teams.</li>
+                            </ul>
                         </div>
                     </div>
                 </section> 
