@@ -36,15 +36,23 @@ const RegulatoryCompliance = () => (
                             <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
                         </div>
                         <div className="blog-article-content">
-                            <p>Effective Date: [07st December 2024]</p>
-                            <h3>How Escrowly Ensures Safe Transactions</h3>
-                            <p>Our platform follows a straightforward process to guarantee security for both buyers and sellers:</p>   
+                            <h3>1. Introduction</h3>
+                            <p>Escrowly.com ("Escrowly," "we," "us," or "our") is a crypto only escrow platform committed to maintaining full regulatory compliance with financial authorities and legal frameworks worldwide. As a Money Services Business (MSB) registered with FinCEN, we adhere to strict Anti-Money Laundering (AML) and Know Your Customer (KYC) regulations to ensure the highest standards of security and legal compliance.</p>
+                            <p>This document outlines our regulatory obligations, compliance measures, and risk management policies that govern our operations.</p>
+                            <h3>2. Regulatory Compliance Framework</h3>
+                            <p>Escrowly operates under full compliance with international financial regulations which include all applicable standards.</p>
                             <ol>
-                                <li>1. Transaction Agreement – The buyer and seller agree to the terms of the deal, ensuring clarity and mutual understanding</li>
-                                <li>2. Funds Secured – The buyer deposits cryptocurrency into our escrow system, keeping it securely stored</li>
-                                <li>3.Delivery & Confirmation – The seller delivers the product or service, and the buyer verifies satisfaction</li>
-                                <li>4. Funds Released – Once both parties confirm the terms are met, Escrowly transfers the funds to the seller, completing the transaction securely</li>
+                                <li>a. As an MSB under FinCEN regulation Escrowly meets all needs of federal financial reporting in addition to Anti-Money Laundering requirements</li>
+                                <li>b. The company implements vigorous AML/KYC policies through the Bank Secrecy Act to avoid financial crimes</li>
+                                <li>c. The company adheres to OFAC screening procedures which help detect transactions involving sanctioned people and organizations</li>
+                                <li>d. The company upholds global AML/KYC standards through its commitment to FATF (Financial Action Task Force) anti-money laundering and anti-terrorist financing recommendations</li>
                             </ol>
+                            <h3>3. Money Services Business (MSB) Registration</h3>
+                            <p>The business entity Escrowly LLC is currently working on FinCEN Money Services Business (MSB) registration at their United States headquarters. The registration process protects Escrowly from violations of federal cryptocurrency laws and aids in fraud prevention and reporting requirements.</p>
+                            <p>D-U-N-S® Number: 136876298</p>
+                            <p>Effective Date: [07st December 2024]</p>
+                            <p>Effective Date: [07st December 2024]</p>
+                            <p>Effective Date: [07st December 2024]</p>
                             <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
                             <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
                             <h4>Benefits of Using Escrowly</h4>
