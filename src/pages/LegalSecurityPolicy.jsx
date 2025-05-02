@@ -42,67 +42,50 @@ const LegalSecurityPolicy = () => (
                             <h3>2. Security & Compliance Framework</h3>
                             <p>Escrowly conforms to stringent security laws and industry norms, such as:</p>
                             <ol>
-                                <li>1. </li>
-                                <li>2. </li>
-                                <li>3. </li>
-                                <li>4. </li>
-                                <li>5. </li>
+                                <li>a. ISO/IEC 27001 (Information Security Management System): Application of international security best practices, among others.</li>
+                                <li>b. General Data Protection Regulation (GDPR): Protecting EU users' data security and privacy.</li>
+                                <li>c. California Consumer Privacy Act (CCPA): Ensuring user rights and transparency in data collecting.</li>
+                                <li>d. The Financial Crimes Enforcement Network (FinCEN) AML/KYC Regulations: Enforcing transaction monitoring and identity verification.</li>
+                                <li>e. Financial Action Task Force (FATF) Guidelines: Preventing illegal financial activity associated with transactions involving cryptocurrencies.</li>
                             </ol>
                             <h3>3. Encryption & Data Protection</h3>
-                            <p>To </p>
+                            <p>Escrowly implements robust encryption procedures and safeguards data, such as:</p>
                             <ol>
-                                <li>1. </li>
-                                <li>2. </li>
-                                <li>3. </li>
-                                <li>4. </li>
-                                <li>5. </li>
+                                <li>a. End-to-end encryption: AES-256 encryption is used to protect all sensitive data.</li>
+                                <li>b. MFA: All user logins and transaction approvals require multi-factor authentication.</li>
+                                <li>c. Cold Wallet Storage: For further security, the majority of money are kept offline.</li>
+                                <li>d. Frequent Security Audits: To guarantee platform security, third-party audits and penetration tests are conducted.</li>
+                                <li>e. DDoS and Firewall Protection: State-of-the-art cybersecurity instruments to stop illegal access and hacking.</li>
                             </ol>
                             <h3>4. Security Measures for Users</h3>
-                            <p>To </p>
+                            <p>In order to safeguard their accounts and transactions, we provide consumers the following security features:</p>
                             <ol>
-                                <li>1. </li>
-                                <li>2. </li>
-                                <li>3. </li>
-                                <li>4. </li>
+                                <li>a. Secure Login Processes: 2FA and the need for a strong password.</li>
+                                <li>b. Real-time monitoring: identifying attempts by unauthorized users to access accounts.</li>
+                                <li>c. Account Recovery Protocols: Safe practices for restoring lost access.</li>
+                                <li>d. Phishing and Fraud Protection: Proactive fraud detection and educational resources.</li>
                             </ol>
                             <h3>5. Liability Protection & Legal Compliance</h3>
-                            <p>To </p>
+                            <p>Escrowly follows stringent legal requirements to guarantee adherence and reduce liability risks:</p>
                             <ol>
-                                <li>1. </li>
-                                <li>2. </li>
-                                <li>3. </li>
-                                <li>4. </li>
+                                <li>a. Terms of Service & User Agreement: Describes users' obligations and rights.</li>
+                                <li>b. Dispute Resolution Mechanism: An open procedure for settling disagreements over transactions.</li>
+                                <li>c. Legal Protection Against Fraud: Assisting law enforcement when fraudulent activity occurs.</li>
+                                <li>d. Regulatory Compliance: Respect for all relevant data security and financial regulations.</li>
                             </ol>
                             <h3>6. Risk Management & Incident Response</h3>
-                            <p>To </p>
+                            <p>When a security breach or suspicious behavior occurs, Escrowly has an extensive incident response process in place.</p>
                             <ol>
-                                <li>1. </li>
-                                <li>2. </li>
-                                <li>3. </li>
-                                <li>4. </li>
+                                <li>a. Prompt Investigation: Every security event is examined and evaluated.</li>
+                                <li>b. User Notification: Users who are impacted are swiftly notified.</li>
+                                <li>c. Regulatory Reporting: If necessary, incidents are reported to the appropriate authorities.</li>
+                                <li>d. Mitigation Strategies: System updates and security patches to stop future intrusions.</li>
                             </ol>
                             <h3>7. Contact & Security Officer Information</h3>
-                            <p>To </p>
-                            <ol>
-                                <li>1. </li>
-                                <li>2. </li>
-                                <li>3. </li>
-                                <li>4. </li>
-                            </ol>
-                            <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
-                            <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
-                            <h4>Benefits of Using Escrowly</h4>
-                            <p>Escrowly offers a reliable and secure platform for businesses and individuals engaged in online transactions. By utilizing advanced technologies and best practices, Escrowly ensures that all parties involved in a transaction can have peace of mind. Here’s how Escrowly protects your interests:</p>
-                            <ul>
-                                <li>Fraud Prevention: Ensures that payments are only processed when conditions are met.</li>
-                                <li>Secure Crypto Transactions: Reduces the risks of scams in the volatile crypto market.</li>
-                                <li>Trust & Transparency: Builds confidence between buyers and sellers, fostering long-term business relationships.</li>
-                                <li>Global Reach: Allows businesses and freelancers to operate securely across international borders.</li>
-                                <li>Automated Process: Simplifies complex transactions with a user-friendly system.</li>
-                            </ul>
-                            <h6>Future-Proof Your Transactions with Escrowly</h6>
-                            <p>As digital transactions continue to evolve, businesses and individuals need a secure and reliable payment system that adapts to changing financial landscapes. Escrowly is committed to providing the highest level of security for cryptocurrency transactions, ensuring that your payments are protected every step of the way.</p>
-                            <p>Ready to safeguard your digital transactions? Explore Escrowly today and experience the future of secure online payments.</p>
+                            <p>For any security-related inquiries, You can contact us via online form or via regular US mail at:</p>
+                            <p>Escrowly LLC</p>
+                            <p>701 Tillery Street Unit 12 STE 2962, Austin, TX 78702, USA</p>
+                            <blockquote>Escrowly is committed to maintaining a fully secure, compliant, and legally protected online platform for cryptocurrency escrow transactions. Our continuous security enhancements ensure a safe experience for all users.</blockquote>
                         </div>
                     </div>
                 </section> 
