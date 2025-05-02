@@ -27,19 +27,19 @@ const TermsAndConditions = () => (
                 
                 <section className="section-blog-article">
                     <div className="container">
-                        <h1>Terms And Conditions</h1>
+                        <h1>Escrowly Terms And Conditions</h1>
                         <div className="post-meta">
                             <ul className="post-categories">
                                 <li>Effective Date: [23 June 2024]</li>
                             </ul>
                             <span className="post-date">Last Updated: 02 May 2025</span>
-                            <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />4 min read</div>
+                            <div className="span time-to-read"><img src="/img/icon-time.svg" alt="" />11 min read</div>
                         </div>
                         <div className="blog-article-content">
                             <h3>1. Introduction</h3>
                             <p>Welcome to Escrowly.com ("Escrowly," "we," "us," or "our"). By accessing or using our crypto escrow services, you ("User," "you," or "your") agree to be bound by these Terms & Conditions. Our platform requires your agreement with these terms to allow access for users.</p>
                             <p>Escrowly operates as a only Crypto Based Escrow Service and does not provide fiat transactions, banking services, or traditional payment processing. Our services are designed to facilitate secure cryptocurrency transactions between parties while adhering to global regulatory standards.</p>
-                            <blockquote>EMPTY</blockquote>
+                            <blockquote>Escrowly allows users to conduct secure crypto escrow transactions. Escrowly maintains a neutral role during transactions while acting exclusively as a facilitator of escrow services but does not perform processing duties nor extend fund storage beyond escrow periods nor guarantee transaction success or loss prevention. Furthermore, the service allows users to maintain escrow funds after a transaction is concluded. Escrowly acts as an intermediary safeguarding both transaction success and loss prevention during escrow processes.</blockquote>
                             <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-terms-conditions.webp" alt="Escrowly Terms & Conditions"/>
                             <h3>2. Key Policies & Agreements</h3>
                             <p>As an Escrowly user, you must follow all policies incorporated into these Terms & Conditions:</p>   
