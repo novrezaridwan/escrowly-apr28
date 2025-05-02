@@ -40,6 +40,7 @@ const RegulatoryCompliance = () => (
                             <p>Escrowly.com ("Escrowly," "we," "us," or "our") is a crypto only escrow platform committed to maintaining full regulatory compliance with financial authorities and legal frameworks worldwide. As a Money Services Business (MSB) registered with FinCEN, we adhere to strict Anti-Money Laundering (AML) and Know Your Customer (KYC) regulations to ensure the highest standards of security and legal compliance.</p>
                             <p>This document outlines our regulatory obligations, compliance measures, and risk management policies that govern our operations.</p>
                             <h3>2. Regulatory Compliance Framework</h3>
+                            <blockquote>Escrowly is committed to providing a secure, legally compliant, and transparent crypto escrow service. We continuously enhance our compliance measures to align with evolving global regulations and industry best practices.</blockquote>
                             <img className="w-full h-auto my-4 rounded-lg" src="/images/regulatory-compliance.webp" alt="Escrowly Regulatory Compliance"/>
                             <p>Escrowly operates under full compliance with international financial regulations which include all applicable standards.</p>
                             <ol>
@@ -48,7 +49,6 @@ const RegulatoryCompliance = () => (
                                 <li>c. The company adheres to OFAC screening procedures which help detect transactions involving sanctioned people and organizations</li>
                                 <li>d. The company upholds global AML/KYC standards through its commitment to FATF (Financial Action Task Force) anti-money laundering and anti-terrorist financing recommendations</li>
                             </ol>
-                            <blockquote>Escrowly is committed to providing a secure, legally compliant, and transparent crypto escrow service. We continuously enhance our compliance measures to align with evolving global regulations and industry best practices.</blockquote>
                             <h3>3. Money Services Business (MSB) Registration</h3>
                             <p>The business entity Escrowly LLC is currently working on FinCEN Money Services Business (MSB) registration at their United States headquarters. The registration process protects Escrowly from violations of federal cryptocurrency laws and aids in fraud prevention and reporting requirements.</p>
                             <p>D-U-N-S® Number: 136876298</p>

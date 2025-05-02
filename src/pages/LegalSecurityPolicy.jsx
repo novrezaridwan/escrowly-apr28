@@ -40,6 +40,7 @@ const LegalSecurityPolicy = () => (
                             <p>Escrowly.com ("Escrowly," "we," "us," or "our") is a crypto only escrow services platform that prioritizes the security and legal integrity of transactions. This Legal Security Policy outlines our measures to protect users, data, and transactions from fraud, cyber threats, and unauthorized access.</p>
                             <p>To guarantee that Escrowly continues to be a secure and law-abiding escrow service for cryptocurrency transactions, we employ cutting-edge security measures and abide by international cybersecurity and legal compliance standards.</p>
                             <blockquote>Escrowly is committed to maintaining a fully secure, compliant, and legally protected online platform for cryptocurrency escrow transactions. Our continuous security enhancements ensure a safe experience for all users.</blockquote>
+                            <img className="w-full h-auto my-4 rounded-lg" src="/images/legal-security-policy.webp" alt="Escrowly Legal Security Policy"/>
                             <h3>2. Security & Compliance Framework</h3>
                             <p>Escrowly conforms to stringent security laws and industry norms, such as:</p>
                             <ol>
@@ -49,7 +50,6 @@ const LegalSecurityPolicy = () => (
                                 <li>d. The Financial Crimes Enforcement Network (FinCEN) AML/KYC Regulations: Enforcing transaction monitoring and identity verification.</li>
                                 <li>e. Financial Action Task Force (FATF) Guidelines: Preventing illegal financial activity associated with transactions involving cryptocurrencies.</li>
                             </ol>
-                            <img className="w-full h-auto my-4 rounded-lg" src="/images/legal-security-policy.webp" alt="Escrowly Legal Security Policy"/>
                             <h3>3. Encryption & Data Protection</h3>
                             <p>Escrowly implements robust encryption procedures and safeguards data, such as:</p>
                             <ol>
