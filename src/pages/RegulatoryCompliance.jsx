@@ -47,24 +47,30 @@ const RegulatoryCompliance = () => (
                                 <li>c. The company adheres to OFAC screening procedures which help detect transactions involving sanctioned people and organizations</li>
                                 <li>d. The company upholds global AML/KYC standards through its commitment to FATF (Financial Action Task Force) anti-money laundering and anti-terrorist financing recommendations</li>
                             </ol>
+                            <blockquote>Escrowly is committed to providing a secure, legally compliant, and transparent crypto escrow service. We continuously enhance our compliance measures to align with evolving global regulations and industry best practices.</blockquote>
                             <h3>3. Money Services Business (MSB) Registration</h3>
                             <p>The business entity Escrowly LLC is currently working on FinCEN Money Services Business (MSB) registration at their United States headquarters. The registration process protects Escrowly from violations of federal cryptocurrency laws and aids in fraud prevention and reporting requirements.</p>
                             <p>D-U-N-S® Number: 136876298</p>
-                            <p>Effective Date: [07st December 2024]</p>
-                            <p>Effective Date: [07st December 2024]</p>
-                            <p>Effective Date: [07st December 2024]</p>
-                            <blockquote>At Escrowly, we prioritize security and transparency in digital transactions. By leveraging cutting-edge escrow technology, we protect buyers and sellers from fraud, ensuring every payment is safe, verified, and reliable. Join us in building a more secure digital economy</blockquote>
-                            <p>Escrowly provides a seamless and transparent way to conduct financial transactions, ensuring that funds are held securely until both parties fulfill their agreed-upon terms. By integrating an escrow system with cryptocurrency, we make digital payments safer, more efficient, and more reliable.</p>
-                            <h4>Benefits of Using Escrowly</h4>
-                            <p>Escrowly offers a reliable and secure platform for businesses and individuals engaged in online transactions. By utilizing advanced technologies and best practices, Escrowly ensures that all parties involved in a transaction can have peace of mind. Here’s how Escrowly protects your interests:</p>
+                            <h3>4. Anti-Money Laundering (AML) & Know Your Customer (KYC) Policy</h3>
+                            <p>Escrowly protects itself from financial crime risks through an advanced AML/KYC compliance system that follows these steps:</p>
+                            <h4>4.1 Customer Identification Program (CIP)</h4>
                             <ul>
-                                <li>Fraud Prevention: Ensures that payments are only processed when conditions are met.</li>
-                                <li>Secure Crypto Transactions: Reduces the risks of scams in the volatile crypto market.</li>
-                                <li>Trust & Transparency: Builds confidence between buyers and sellers, fostering long-term business relationships.</li>
-                                <li>Global Reach: Allows businesses and freelancers to operate securely across international borders.</li>
-                                <li>Automated Process: Simplifies complex transactions with a user-friendly system.</li>
+                                <li>a. Users must conduct identity verification prior to beginning any escrow process. This requirement applies to everyone at Escrowly.</li>
+                                <li>b. Escrowly requires verification through government IDs and proof of residence in addition to additional requested documentation from users during the signup process.</li>
+                                <li>c. The company performs continuous transaction surveillance to detect abnormal behaviors.</li>
                             </ul>
-                            <h6>Future-Proof Your Transactions with Escrowly</h6>
+                            <h4>4.2 Transaction Monitoring & Reporting</h4>
+                            <ul>
+                                <li>a. The system has automated tools that identify irregular deals or transactions showing high risk.</li>
+                                <li>b. Under the policy, we must file suspicious activity reports (SARs) to FinCEN whenever it becomes necessary.</li>
+                                <li>c. Blockchain analytics technologies provide real-time tracking functionality to identify and prevent fraudulent transactions.</li>
+                            </ul>
+                            <h4>4.3 Sanctions & Restricted Users Screening</h4>
+                            <ul>
+                                <li>a. Escrowly evaluates users and transactions through checks against United States Treasury Office of Foreign Assets Control (OFAC) sanctions lists together with international watchlist criteria.</li>
+                                <li>b. Our platform denies access to both high-risk jurisdictions and politically exposed persons (PEPs).</li>
+                            </ul>
+                            <h3>5. Licensing & Legal Considerations</h3>
                             <p>As digital transactions continue to evolve, businesses and individuals need a secure and reliable payment system that adapts to changing financial landscapes. Escrowly is committed to providing the highest level of security for cryptocurrency transactions, ensuring that your payments are protected every step of the way.</p>
                             <p>Ready to safeguard your digital transactions? Explore Escrowly today and experience the future of secure online payments.</p>
                         </div>
