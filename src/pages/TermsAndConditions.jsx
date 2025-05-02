@@ -40,7 +40,6 @@ const TermsAndConditions = () => (
                             <p>Welcome to Escrowly.com ("Escrowly," "we," "us," or "our"). By accessing or using our crypto escrow services, you ("User," "you," or "your") agree to be bound by these Terms & Conditions. Our platform requires your agreement with these terms to allow access for users.</p>
                             <p>Escrowly operates as a only Crypto Based Escrow Service and does not provide fiat transactions, banking services, or traditional payment processing. Our services are designed to facilitate secure cryptocurrency transactions between parties while adhering to global regulatory standards.</p>
                             <blockquote>Escrowly allows users to conduct secure crypto escrow transactions. Escrowly maintains a neutral role during transactions while acting exclusively as a facilitator of escrow services but does not perform processing duties nor extend fund storage beyond escrow periods nor guarantee transaction success or loss prevention. Furthermore, the service allows users to maintain escrow funds after a transaction is concluded. Escrowly acts as an intermediary safeguarding both transaction success and loss prevention during escrow processes.</blockquote>
-                            <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-terms-conditions.webp" alt="Escrowly Terms & Conditions"/>
                             <h3>2. Key Policies & Agreements</h3>
                             <p>As an Escrowly user, you must follow all policies incorporated into these Terms & Conditions:</p>   
                             <ol>
@@ -59,6 +58,7 @@ const TermsAndConditions = () => (
                                 <li>4. The Escrowly platform should be used exclusively for lawful financial transactions.</li>
                                 <li>5. Users maintain full responsibility for keeping their accounts secure along with strict adherence to all existing legal requirements.</li>
                             </ol>
+                            <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-terms-conditions.webp" alt="Escrowly Terms & Conditions"/>
                             <h3>4. Services Provided</h3>
                             <p>The platform allows users to conduct secure crypto escrow transactions. Escrowly maintains a neutral role during transactions while acting exclusively as a facilitator of escrow services but does not perform processing duties nor extend fund storage beyond escrow periods nor guarantee transaction success or loss prevention. Furthermore, the service allows users to maintain escrow funds after a transaction is concluded. Escrowly acts as an intermediary safeguarding both transaction success and loss prevention during escrow processes.</p>
                             <h3>5. Prohibited Activities</h3>
@@ -85,6 +85,7 @@ const TermsAndConditions = () => (
                                 <li>3. Users may require arbitration services while the process continues which will result in separate arbitration fee payment. Each party will receive information about fees as well as the arbitration process before arbitration starts.</li>
                                 <li>4. Any decision made by Escrowly.com becomes both mandatory and legally enforceable for all parties.</li>
                             </ol>
+                            <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-terms-conditions2.webp" alt="Escrowly Terms & Conditions"/>
                             <h3>8. Limitation of Liability</h3>
                             <ol>
                                 <li>1. Users will not hold Escrowly accountable for any financial losses or market movement or transaction delays that occur during servicing.</li>
