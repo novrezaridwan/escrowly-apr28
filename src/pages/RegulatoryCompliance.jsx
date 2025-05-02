@@ -83,17 +83,21 @@ const RegulatoryCompliance = () => (
                             <h3>7. Risk Management & Internal Controls</h3>
                             <p>The service implements risk-based compliance rules to protect the business from financial offenses and maintain organizational integrity.</p>
                             <ul>
-                                <li>- Regular assessment of regulatory compliance effectiveness.</li>
-                                <li>- Employee Training Programs conduct regular AML/KYC compliance training sessions for the entire staff workforce.</li>
-                                <li>- The company maintains firm procedures for non-compliant situations with both user account deactivation and full support to law enforcement teams.</li>
+                                <li>Regular assessment of regulatory compliance effectiveness.</li>
+                                <li>Employee Training Programs conduct regular AML/KYC compliance training sessions for the entire staff workforce.</li>
+                                <li>The company maintains firm procedures for non-compliant situations with both user account deactivation and full support to law enforcement teams.</li>
                             </ul>
                             <h3>8. Regulatory Reporting & Cooperation</h3>
-                            <p>The service implements risk-based compliance rules to protect the business from financial offenses and maintain organizational integrity.</p>
+                            <p>Escrowly works with international financial organizations through these joint efforts.</p>
                             <ul>
-                                <li>- Regular assessment of regulatory compliance effectiveness.</li>
-                                <li>- Employee Training Programs conduct regular AML/KYC compliance training sessions for the entire staff workforce.</li>
-                                <li>- The company maintains firm procedures for non-compliant situations with both user account deactivation and full support to law enforcement teams.</li>
+                                <li>The company submits necessary FinCEN and AML compliance reports according to the regulatory requirements.</li>
+                                <li>Escrowly assists law enforcement agencies through its cooperation during investigations of financial crime and fraud cases.</li>
+                                <li>Escrowly maintains total transparency in all reporting activities with established regulatory organizations.</li>
                             </ul>
+                            <h3>9. Contact & Compliance Officer Information</h3>
+                            <p>For any regulatory compliance inquiries, You may contact us via online form or via regular mail at.</p>
+                            <p>Escrowly LLC</p>
+                            <p>701 Tillery Street Unit 12 STE 2962, Austin, TX 78702, USA</p>
                         </div>
                     </div>
                 </section> 
