@@ -40,8 +40,9 @@ const AMLKYCPolicy = () => (
                             <p>Welcome to Escrowly.com. We, at Escrowly, are a group of people who have been working on online transactions, who believe in secure crypto transactions and to do so we have adapted a complete AML and KYC policy to stop fraud, laundering, and financial crimes This policy is applicable to all our customers and users of our Escrowly platform.</p>
                             <h3>2. Why is compliance with AML and KYC important?</h3>
                             <p>The purpose of AML/KYC legislation is to forbid unlawful activities such as money laundering, identity theft, fraud, terrorist financing, and other financial crimes. By verifying client identities and keeping an eye on transactions, we contribute to the creation of a safe and secure ecosystem for all end users.</p>
-                            <h3>3. Identity Checking (KYC Conditions)</h3>
+                            <blockquote>This AML/KYC Policy reflects our commitment to our customers by ensuring compliance with the relevant regulation and maintaining the integrity of our platform</blockquote>
                             <img className="w-full h-auto my-4 rounded-lg" src="/images/kyc-data.webp" alt="Escrowly KYC"/>
+                            <h3>3. Identity Checking (KYC Conditions)</h3>
                             <p>Before using our crypto escrow services, every Escrowly client base that exceeds the threshold amount must finish our KYC verification process. This comprises:</p>
                             <h4>Individual Users</h4>
                             <ol>
@@ -66,7 +67,6 @@ const AMLKYCPolicy = () => (
                                 <li>3. Clients who made complex or unusual transactions</li>
                             </ol>
                             <p>Additional verification procedures, such a video call, the submission of more documents, or continuing transaction evaluations, might be included in EDD.</p>
-                            <blockquote>This AML/KYC Policy reflects our commitment to our customers by ensuring compliance with the relevant regulation and maintaining the integrity of our platform</blockquote>
                             <h3>5. Measures to Promote Anti-Money Laundering (AML)</h3>
                             <p>In addition to actively monitoring transactions to identify and stop questionable activity, Escrowly also ensures that the platform is being utilized in compliance with the company's terms and conditions.</p>
                             <h4>Transaction Tracking</h4>

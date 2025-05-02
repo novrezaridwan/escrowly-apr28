@@ -41,6 +41,8 @@ const PrivacyPolicy = () => (
                             <p>The crypto-only online escrow platform Escrowly.com enables users to perform safe transactions by omitting traditional monetary transactions. FinCEN has recognized our company as a Money Services Business (MSB) while we operate worldwide.</p>
                             <p>We handle personal data in accordance with AML (Anti-Money Laundering) and KYC (Know Your Customer) regulations through this policy framework.</p>
                             <p>All users who access Escrowly.com agree to the practices specified in this Privacy Policy. We request all users to cease our services if the policies do not match their expectations.</p>
+                            <blockquote>Certain operations (such as transaction reversals or complete data deletion) might not be feasible since blockchain transactions are immutable. We do, however, take the appropriate precautions to reduce the vulnerability of personal data on open blockchain ledgers.</blockquote>
+                            <img className="w-full h-auto my-4 rounded-lg" src="/images/privacy-policy.webp" alt="Escrowly Privacy Policy"/>
                             <h3>2. Information We Collect</h3>
                             <p>Our secure and efficient escrow service utilizes various information including.</p>
                             <h4>2.1 Information You Provide Directly</h4>
@@ -48,9 +50,7 @@ const PrivacyPolicy = () => (
                             <h4>2.2 Information Collected Automatically</h4>
                             <p>Our platform collects Information about the device and recorded user interactions through IP address logging together with browser technical details and operating system and device type identification. The website tracks information through cookies and monitoring technologies which help to offer personalized content along with traffic analysis. The browser settings provide users the ability to handle their cookie preferences.</p>
                             <h4>2.3 Information from Third Parties</h4>
-                            <img className="w-full h-auto my-4 rounded-lg" src="/images/privacy-policy.webp" alt="Escrowly Privacy Policy"/>
                             <p>Additional data we obtain originates from identity verification services or blockchain analytics providers and regulatory authorities to uphold standards of Anti-Money Laundering and Know Your Customer guidelines.</p>
-                            <blockquote>Certain operations (such as transaction reversals or complete data deletion) might not be feasible since blockchain transactions are immutable. We do, however, take the appropriate precautions to reduce the vulnerability of personal data on open blockchain ledgers.</blockquote>
                             <h3>3. How We Use Your Information</h3>
                             <p>The collected data has multiple purposes for our business operations.</p>
                             <ol>
