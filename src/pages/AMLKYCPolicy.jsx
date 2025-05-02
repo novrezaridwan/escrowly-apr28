@@ -41,7 +41,7 @@ const AMLKYCPolicy = () => (
                             <h3>2. Why is compliance with AML and KYC important?</h3>
                             <p>The purpose of AML/KYC legislation is to forbid unlawful activities such as money laundering, identity theft, fraud, terrorist financing, and other financial crimes. By verifying client identities and keeping an eye on transactions, we contribute to the creation of a safe and secure ecosystem for all end users.</p>
                             <h3>3. Identity Checking (KYC Conditions)</h3>
-                            <img className="w-full h-auto my-4 rounded-lg" src="/images/kyc-data.webp" alt="Escrolwy KYC"/>
+                            <img className="w-full h-auto my-4 rounded-lg" src="/images/kyc-data.webp" alt="Escrowly KYC"/>
                             <p>Before using our crypto escrow services, every Escrowly client base that exceeds the threshold amount must finish our KYC verification process. This comprises:</p>
                             <h4>Individual Users</h4>
                             <ol>
