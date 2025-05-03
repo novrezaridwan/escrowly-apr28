@@ -78,7 +78,7 @@ const TermsAndConditions = () => (
                                 <li>2. After all conditions become satisfied, the crypto escrow service releases payment to the recipient.</li>
                                 <li>3. Escrowly provides dispute mediation services yet makes no promises to resolve disputes in favor of any party.</li>
                             </ol>
-                            <h3>7.2 Dispute Handling & Arbitration</h3>
+                            <h4>7.2 Dispute Handling & Arbitration</h4>
                             <ol>
                                 <li>1. Before Escrowly considers intervention, users need to try independently solving their disputes on their own.</li>
                                 <li>2. Escrowly will make the decision on unresolved disputes but its discretion depends on reviewing available evidence.</li>
