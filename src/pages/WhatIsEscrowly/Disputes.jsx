@@ -57,6 +57,7 @@ const Disputes = () => {
                                         </ol>
                                         <blockquote>Dubito provides escrow management services for all types of markets, including heavy machinery and freelance work payments.</blockquote>
                                         <h3>How Our Dispute Process Works</h3>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/delivery-disputes2.webp" alt="Escrowly Minimize Disputes"/>
                                         <p>Our process maintains a straightforward and fast system that stays transparent at all times.</p>
                                         <p><strong>1. Initiate the Dispute</strong></p>
                                         <p>Either party may initiate a dispute to address problems that occur during the inspection time. Customers can initiate disputes through the escrow system across various transactions starting from marketplace escrow and including crypto mining rigs escrow.</p>
