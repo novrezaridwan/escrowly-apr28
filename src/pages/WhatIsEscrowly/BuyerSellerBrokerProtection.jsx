@@ -74,6 +74,7 @@ const BuyerSellerBrokerProtection = () => {
                                             <li>Audit trail for every transaction</li>
                                         </ul>
                                         <p>Individuals who broker and need escrow for car lease payments, escrow for machinery sales, and escrow for corporate mergers should use Escrowly to protect their financial role in transactions.</p>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/buyer-seller-broker2.webp" alt="Escrowly Buyer Seller and Broker"/>
                                         <h3>Why Only USDT & USDC? Stability = Safety</h3>
                                         <p>You might wondering what spurred our decision to accept payments only USDT and USDC. Escrowly supports only Stablecoins USDT and USDC since we believe that transactional safety needs consistent value stability.</p>
                                         <ul>
