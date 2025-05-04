@@ -49,7 +49,7 @@ const AllowedGoodsAndServices = () => {
                                         <p>In this age of trading digital assets, the need for a secure exchange platform has become higher than ever. With Escrowly, you can safely trade all major cryptocurrencies through smart contract system tracking, which provides maximum protection. Escrowly enables Bitcoin escrow service along with Stable coins escrow service between individuals and businesses and among peer-to-peer entities:</p>
                                         <p></p>
                                         <p></p>
-                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/allowed-goods.webp" alt="Escrolwy Allowed Goods & Services"/>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/allowed-goods.webp" alt="Escrowly Allowed Goods & Services"/>
                                         <ul>
                                             <li>Ethereum escrow service for dApps, ICOs, and token launches.</li>
                                             <li>USDT escrow service for stable, fast crypto payments.</li>
@@ -87,7 +87,7 @@ const AllowedGoodsAndServices = () => {
                                             <li>Escrow for yacht and boat sales</li>
                                         </ul>
                                         <p>Our blockchain escrow service protection system safeguards everyone, especially when shipping, inspecting, or when releases require a specific product condition.</p>
-                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/allowed-goods2.webp" alt="Escrolwy Allowed Goods More"/>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/allowed-goods2.webp" alt="Escrowly Allowed Goods More"/>
                                         <h3>eCommerce, Wholesale & Online Marketplaces</h3>
                                         <p>Are you running a business or marketplace? Escrowly.com enables simple transactions between vendors and their customers.</p>
                                         <ul>

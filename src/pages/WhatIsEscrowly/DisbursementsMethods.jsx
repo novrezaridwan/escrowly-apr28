@@ -46,7 +46,7 @@ const DisbursementsMethods = () => {
                                         <p>Escrowly provides secure fund storage, coupled with fast and swift dissemination to the right recipients. The crypto escrow service at Escrowly ensures fund disbursement to the correct destinations after completing any transaction for freelancers, investors, business owners, and crypto traders. Our disbursement model uses instant crypto-native and decentralized operations through escrow smart contract crypto technology for fraud elimination and instantaneous financial settlement.</p>
                                         <h3>How Does Escrowly.com Disburse Funds?</h3>
                                         <p>At Escrowly, we achieve secure crypto transactions by taking the smart contract escrow approach. Escrowly processes crypto payouts through an automated system after all pre-defined conditions like asset verification and service completion become validated. The blockchain escrow service from Escrowly ensures secure payouts that include Bitcoin escrow service, Ethereum escrow service, and USDT escrow service, together with any other supported coin.</p>
-                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/disbursements-methods.webp" alt="Escrolwy Disbursements Methods"/>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/disbursements-methods.webp" alt="Escrowly Disbursements Methods"/>
                                         <ul>
                                             <li>Instant and confirmed on-chain</li>
                                             <li>Your preferred cryptocurrency wallet receives the payment</li>
@@ -79,7 +79,7 @@ const DisbursementsMethods = () => {
                                         <p><strong>Single-Payout:</strong> You get all your payments once customers approve the job delivery. This is common in escrow for second-hand car sales, escrow for land auctions, and escrow for art and collectibles.</p>
                                         <p><strong>Milestone-Based:</strong> Money can flow out in phases, making it ideal for escrow for contractor payments, crypto escrow for ICOs, and escrow for film production financing.</p>
                                         <p><strong>Multi-Party Disbursement:</strong> You can opt to split payments between multiple parties. The payment system helps with escrow for franchise business purchases, escrow for corporate mergers, and escrow for professional sports contracts.</p>
-                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/disbursements-methods2.webp" alt="Escrolwy Instant Disbursements"/>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/disbursements-methods2.webp" alt="Escrowly Instant Disbursements"/>
                                         <h3>Enjoy Integrated Disbursement with Escrowly.com API</h3>
                                         <p>Thanks to our Escrowly API, developers and companies can automate payments to initiate when specific criteria are fulfilled without needing human input.</p>
                                         <p>Our API system works well with platforms such as:</p>

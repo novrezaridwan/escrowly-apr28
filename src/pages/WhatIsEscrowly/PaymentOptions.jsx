@@ -52,7 +52,7 @@ const PaymentOptions = () => {
                                             <li><strong>USDC Coin (USDC):</strong> This payment option is fast, reliable, and enterprise-ready. Our USDT escrow service is a great fit for the protection of crypto escrow and corporate payments.</li>
                                             <li>More Stablecoins are being added - Escrowly aims to add BNB, DAI, MATIC, and other main tokens into its secure P2P crypto escrow system so users can store their assets all in one place.</li>
                                         </ol>
-                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/payment-options.webp" alt="Escrolwy Payment Options"/>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/payment-options.webp" alt="Escrowly Payment Options"/>
                                         <blockquote>Escrowly's mission is to empower small and mid-size businesses to have crypto payments enabled and making sure to give them the liberty to use digital payments to grow business without boundaries.</blockquote>
                                         <h3>Meet Our Clientele</h3>
                                         <p>Escrowly’s users include professionals across various industries and users on all platforms. The Escrowly platform serves the trading needs of everyday traders and corporate clients.</p>
@@ -69,7 +69,7 @@ const PaymentOptions = () => {
                                             <li><strong>Secure:</strong> Smart contract escrow, blockchain escrow service, and innovative escrow wallet for crypto infrastructure</li>
                                             <li><strong>Global:</strong> No geographic restrictions, banking intermediaries, or currency conversion hassles</li>
                                         </ul>
-                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/payment-options2.webp" alt="Escrolwy Crypto Only Payments"/>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/payment-options2.webp" alt="Escrowly Crypto Only Payments"/>
                                         <p>This makes Escrowly the top choice for those seeking the best crypto escrow service provider in today’s digital economy.</p> 
                                         <h3>Looking for Trusted Crypto Payments? Think of Escrowly</h3>   
                                         <p>Escrowly isn’t just another crypto escrow service - we are a comprehensive platform built to handle every crypto deal safely, reliably, and without complications. From escrow for NFT marketplaces to escrow for online marketplace transactions, from cross-border crypto escrow to escrow payment for Bitcoin, we provide users with unmatched payment options—exclusively in crypto.</p>
