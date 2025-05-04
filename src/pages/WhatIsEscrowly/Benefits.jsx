@@ -82,11 +82,12 @@ const Benefits = () => {
                                         <ul>
                                             <li>Escrow for USDC sales</li>
                                             <li>Escrow for DeFi transactions</li>
-                                            <li>Escrow for crypto mining rigs</li>
+                                            <li>Escrow for domain name sales</li>
                                             <li>Escrow for crypto exchanges</li>
                                             <li>Escrow for USDT purchase</li>
                                         </ul>
                                         <p>Escrowly’s structure is in line with the principles of the decentralized environment. Conventional cash is the past. Crypto is now.</p>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-benefits2.webp" alt="Escrolwy More Benefits"/>
                                         <h3>Full Integration via Escrowly API</h3>
                                         <p>Escrowly API assists developers who build DeFi services or platforms that sell cryptocurrency products or manage vehicle lease payments.</p>
                                         <p>With Escrowly, you can automate:</p>
