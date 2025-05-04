@@ -68,7 +68,8 @@ const PaymentOptions = () => {
                                             <li><strong>Transparent:</strong> On-chain records and automated checks</li>
                                             <li><strong>Secure:</strong> Smart contract escrow, blockchain escrow service, and innovative escrow wallet for crypto infrastructure</li>
                                             <li><strong>Global:</strong> No geographic restrictions, banking intermediaries, or currency conversion hassles</li>
-                                        </ul>  
+                                        </ul>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/payment-options2.webp" alt="Escrolwy Crypto Only Payments"/>
                                         <p>This makes Escrowly the top choice for those seeking the best crypto escrow service provider in today’s digital economy.</p> 
                                         <h3>Looking for Trusted Crypto Payments? Think of Escrowly</h3>   
                                         <p>Escrowly isn’t just another crypto escrow service - we are a comprehensive platform built to handle every crypto deal safely, reliably, and without complications. From escrow for NFT marketplaces to escrow for online marketplace transactions, from cross-border crypto escrow to escrow payment for Bitcoin, we provide users with unmatched payment options—exclusively in crypto.</p>
