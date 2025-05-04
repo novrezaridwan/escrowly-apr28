@@ -55,6 +55,7 @@ const InspectionPeriod = () => {
                                             <li>4. The transaction reaches its end when the buyer chooses to release funds following their approval. The dispute resolution team from Escrowly will intervene when buyers do not approve the transaction.</li>
                                         </ol>
                                         <p>Enterprises using decentralized escrow services and escrow for business acquisition benefit from this basic process, which delivers equilibrium and unbiased treatment to the deals.</p>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-inspection-period2.webp" alt="Escrowly Inspetion Period More"/>
                                         <blockquote>Crypto payments have an irreversible nature, which makes the inspection period one of the maximum protection layers for sellers and buyers.</blockquote>
                                         <h3>What if the Buyer Does Not Click on “Confirm Receipt”?</h3>
                                         <p>If the buyer does not click on “Confirm Receipt” the payment will still be automatically released to the seller at the end of the inspection period agreed upon when the deal was opened.</p>
