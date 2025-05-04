@@ -63,6 +63,7 @@ const FraudPrevention = () => {
                                         <p>Our dispute resolution system provides objective reviews to help resolve errors that may occur. Parties present evidence to an expert team which quickly handles disputes with impartiality.</p>
                                         <p><strong>4. Verified Users & Activity Logs</strong></p>
                                         <p>Every user undergoes verification before participating, and all transactions carry timestamps for full traceability and accountability across dealership payments through escrow and service provider or freelancer escrow processes.</p>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/escrowly-prevent-fraud3.webp" alt="Escrowly Fraud Prevention Fully"/>
                                         <h3>Industry-Leading Security Layers</h3>
                                         <p>The crypto escrow services offered by Escrowly.com operates a bit dissimilar to standard services. Customers gain protection for their crypto transactions through the combined use of multi-factor authentication, SSL encryption, and blockchain tracking systems. All security layers exist to protect users! Our platform remains the first and the best platform that operates only for crypto escrow functions rather than traditional services with crypto attachments. Escrowly incorporates fraud prevention at all stages of operation.</p>
                                         <h3>Safety First. Always Escrowly.com!</h3>
