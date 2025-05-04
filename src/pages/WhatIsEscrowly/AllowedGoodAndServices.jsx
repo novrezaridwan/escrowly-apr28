@@ -87,6 +87,7 @@ const AllowedGoodsAndServices = () => {
                                             <li>Escrow for yacht and boat sales</li>
                                         </ul>
                                         <p>Our blockchain escrow service protection system safeguards everyone, especially when shipping, inspecting, or when releases require a specific product condition.</p>
+                                        <img className="w-full h-auto my-4 rounded-lg" src="/images/allowed-goods2.webp" alt="Escrolwy Allowed Goods More"/>
                                         <h3>eCommerce, Wholesale & Online Marketplaces</h3>
                                         <p>Are you running a business or marketplace? Escrowly.com enables simple transactions between vendors and their customers.</p>
                                         <ul>
