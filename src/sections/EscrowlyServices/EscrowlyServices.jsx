@@ -25,7 +25,7 @@ const EscrowlyServices = () => (
                     <ServiceCard
                         icon="/img/service-2.svg"
                         title="Domain Name Escrow"
-                        text="Ensure a safe and smooth transfer of domain ownership with escrow protection"
+                        text="Guarantee a safe and smooth transfer of domain ownership with escrow protection"
                         url="/service-page"
                     />
                 </div>
@@ -33,7 +33,7 @@ const EscrowlyServices = () => (
                     <ServiceCard
                         icon="/img/service-3.svg"
                         title="Motor Vehicle Escrow "
-                        text="Buy or sell vehicles confidently with funds securely held until transfer"
+                        text="Buy or sell vehicles confidently with crypto funds securely held until transfer"
                         url="/service-page3"
                     />
                 </div>
@@ -41,7 +41,7 @@ const EscrowlyServices = () => (
                     <ServiceCard
                         icon="/img/service-4.svg"
                         title="Milestone Transactions"
-                        text="Release payments in stages for large projects, ensuring trust and accountability"
+                        text="Release payments in stages for large projects with escrow, ensuring trust and accountability"
                         url="/service-page4"
                     />
                 </div>
@@ -49,7 +49,7 @@ const EscrowlyServices = () => (
                     <ServiceCard
                         icon="/img/service-5.svg"
                         title="Online Goods & Digital Items"
-                        text="Secure online purchases, including software, NFTs, virtual assets, and other digital goods"
+                        text="Secure online purchases by using crypto escrow, including software and other digital goods"
                         url="/service-page5"
                     />
                 </div>
@@ -57,7 +57,7 @@ const EscrowlyServices = () => (
                     <ServiceCard
                         icon="/img/service-6.svg"
                         title="Stock & Investment Escrow "
-                        text="Secure stock trades and investment agreements with trusted escrow services"
+                        text="Secure stock trades and investments agreements with trusted crypto escrow services"
                         url="/service-page6"
                     />
                 </div>
@@ -65,7 +65,7 @@ const EscrowlyServices = () => (
                     <ServiceCard
                         icon="/img/service-7.svg"
                         title="Luxury Items Escrow "
-                        text="Buy and sell high-value items like jewelry, watches, and collectibles with confidence"
+                        text="Buy and sell high-value items like jewelry, watches, and collectibles with assurance"
                         url="/service-page7"
                     />
                 </div>
@@ -73,7 +73,7 @@ const EscrowlyServices = () => (
                     <ServiceCard
                         icon="/img/service-8.svg"
                         title="Real Estate Escrow"
-                        text="Protect real estate transactions by securely holding funds until all conditions are met"
+                        text="Protect real estate transfers with crypto escrow until all terms are fulfilled"
                         url="/service-page8"
                     />
                 </div>
