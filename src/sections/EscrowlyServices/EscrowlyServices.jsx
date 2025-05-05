@@ -9,15 +9,15 @@ const EscrowlyServices = () => (
         <div className="container">
             <SectionHeader 
                 label="Escrowly Services"
-                title="Secure & Transparent Crypto Transactions"
+                title="Secure & Transparent Crypto Escrow Services"
                 className=""
             />
             <div className="escrowly-services-list row">
                 <div className="col">
                     <ServiceCard
                         icon="/img/service-1.svg"
-                        title="General Escrow Services "
-                        text="Secure transactions for goods, services, and contracts with full protection"
+                        title="Crypto Escrow Services"
+                        text="Secure crypto escrow transactions for goods, services, and contracts with full protection"
                         url="/crypto-escrow-services"
                     />
                 </div>
