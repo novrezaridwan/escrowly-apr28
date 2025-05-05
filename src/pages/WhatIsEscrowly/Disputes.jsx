@@ -55,7 +55,7 @@ const Disputes = () => {
                                             <li>4. Payment discrepancies</li>
                                             <li>5. Quality issues for high-value transactions</li>
                                         </ol>
-                                        <blockquote>Dubito provides escrow management services for all types of markets, including heavy machinery and freelance work payments.</blockquote>
+                                        <blockquote>Dubito provides escrow management services for all types of markets, including heavy machinery and freelance work payments</blockquote>
                                         <img className="w-full h-auto my-4 rounded-lg" src="/images/delivery-disputes2.webp" alt="Escrowly Minimize Disputes"/>
                                         <h3>How Our Dispute Process Works</h3>
                                         <p>Our process maintains a straightforward and fast system that stays transparent at all times.</p>

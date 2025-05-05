@@ -54,7 +54,7 @@ const BuyerSellerBrokerProtection = () => {
                                             <li>Instant refunds in case of disputes</li>
                                             <li>Every deal on Escrowly incorporates dispute resolution features which provide customers with peace of mind</li>
                                         </ul>
-                                        <blockquote>Escrowly.com protects your money securely in escrow wallets until all conditions for satisfaction are achieved across different transaction types. You can use it for escrow for car dealership payments, escrow for business acquisitions, escrow for wholesale transactions, escrow for online business and many more.</blockquote>
+                                        <blockquote>Escrowly.com protects your money securely in escrow wallets until all conditions for satisfaction are achieved across different transaction types. You can use it for escrow for car dealership payments, escrow for business acquisitions, escrow for wholesale transactions, escrow for online business and many more</blockquote>
                                         <h3>For Sellers: Get Paid Without the Risk</h3>
                                         <p>Crypto sellers encounter several additional difficulties because they must manage fake buyers as well as bounced payments and delayed payment settlements. With Escrowly, you can be rest assured that you will get the money you are owed because buyers must place their funds in escrow upon making their transaction.</p>
                                         <ul>
