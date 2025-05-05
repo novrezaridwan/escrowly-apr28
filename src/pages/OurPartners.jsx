@@ -43,6 +43,7 @@ const OurPartners = () => (
                                 <li>Web3 Platforms & DeFi Protocols</li>
                                 <li>Brokers and Agents</li>
                                 <li>E-commerce Platforms</li>
+                                <li>Domain Broker</li>
                                 <li>Real Estate Marketplaces</li>
                                 <li>Freelancer Networks</li>
                                 <li>Business Acquisition Platforms, and Many more</li>
