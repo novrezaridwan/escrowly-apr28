@@ -8,7 +8,7 @@ import EscrowlyServices from "../../sections/EscrowlyServices/EscrowlyServices";
 const Services = () => (
     <>
         <Helmet>
-            <title>Secure Crypto Escrow Services | Escrowly.com</title>
+            <title>SSecure Crypto Escrow Services | Escrowly.com</title>
             <meta name="description" content="Escrowly.com offers secure and transparent crypto escrow services for domains, vehicles, real estate, luxury goods, milestone projects, digital items, and more. Start safe crypto transactions now." />
             <meta name="keywords" content="crypto escrow, secure crypto payments, escrow for domains, motor vehicle escrow, milestone escrow, digital item escrow, luxury item escrow, real estate escrow, stock investment escrow, safe crypto deals" />
             <meta name="author" content="Escrowly Crypto Escrow Team" />
