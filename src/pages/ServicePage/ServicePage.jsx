@@ -76,11 +76,35 @@ const ServicePage = () => (
                                 <p>Escrowly harnesses a premium set of features best suited for domain transactions in the crypto economy, particularly when handling important or cross-border crypto escrow transactions.</p>
                                 <h3>Why Only USDT and USDC?</h3>
                                 <p>At Escrowly, we have made a conscious choice: no Bitcoin, no Ethereum, no volatile coins. Here’s why we only support USDT and USDC:</p>
-                                <p>1. Price Stability: Volatility is the enemy of fair value. With stablecoins pegged to the US Dollar, both parties lock in a clear, consistent value.</p>
-                                <p>2. Fast Transactions: Unlike ETH or BTC with variable gas fees and slow confirmations, USDT/USDC offer fast, low-cost transactions.</p>
-                                <p>3. Reduced Risk for Sellers: Sellers don’t need to worry about a sudden dip in value between when the buyer pays and when the domain is transferred.</p>
-                                <p>4. Greater Adoption: USDT and USDC are widely accepted across wallets, exchanges, and DeFi platforms, offering liquidity on demand.</p>
+                                <ol>
+                                    <li>Price Stability: Volatility is the enemy of fair value. With stablecoins pegged to the US Dollar, both parties lock in a clear, consistent value.</li>
+                                    <li>Fast Transactions: Unlike ETH or BTC with variable gas fees and slow confirmations, USDT/USDC offer fast, low-cost transactions.</li>
+                                    <li>Reduced Risk for Sellers: Sellers don’t need to worry about a sudden dip in value between when the buyer pays and when the domain is transferred.</li>
+                                    <li>Greater Adoption: USDT and USDC are widely accepted across wallets, exchanges, and DeFi platforms, offering liquidity on demand.</li>
+                                </ol>
                                 <p>In a world where crypto payments are irreversible, stablecoins provide the clarity, speed, and control that make escrow for crypto not just safer, but smarter.</p>
+                                <h3>Broker Support for Complex Domain Sales</h3>
+                                <p>Does your deal involve a domain broker? Escrowly provides broker escrow services through which brokers can receive secure commission payments. Brokers can:</p>
+                                <ol>
+                                    <li>Set custom commission rates</li>
+                                    <li>View transaction progress</li>
+                                    <li>Receive immediate payment in the form of stablecoins when the deal is complete</li>
+                                </ol>
+                                <p>This structure is ideal for:</p>
+                                <ol>
+                                    <li>Escrow for business acquisitions</li>
+                                    <li>Escrow for second-hand digital assets</li>
+                                    <li>Escrow for online marketplace transactions</li>
+                                </ol>
+                                <h3>Built-In Fraud Protection</h3>
+                                <p>Through its crypto escrow service, Escrowly provides users with peace of mind when doing irreversible transactions with cryptocurrency. How?</p>
+                                <ol>
+                                    <li>The funds stay frozen until each participant finishes what they were supposed to do.</li>
+                                    <li>During inspection, the buyer can verify that the domain functions as previously agreed.</li>
+                                    <li>Disputes? The blockchain-auditable dispute resolution system at Escrowly provides fast and fair resolution processes.</li>
+                                </ol>
+                                <p>The service from Escrowly removes the possibility of disappearing or ghosting after a crypto transaction.</p>
+
                                 <p className="note">Note: Domain holding transactions require a minimum holding period of three months and a maximum of five years.</p>
                                 <p>Escrowly provides a trusted way to conduct domain transactions in the crypto space. Whether leasing or purchasing, our platform ensures fair, secure, and transparent deals—reducing risks in high-value domain transactions.</p>
                                 <Button 
