@@ -38,14 +38,14 @@ const ServicePage = () => (
                     <div className="container">
                         <SectionHeader 
                             label="Domain Name Escrow"
-                            title="Domain Name Escrow With Escrowly"
+                            title="The First Fully Crypto-Native Solution for Safe, Seamless Domain Transfers"
                             className="centered"
                         />
                         <p className="service-page-description">Due to the large payments involved, domain name transactions with cryptocurrency can be high-risk initiatives. Escrowly acting as a neutral third-party custodian provides domain name escrow services that protect buyers and sellers through blockchain payment transactions, which cannot be reversed. Escrowly operates as the first blockchain-based escrow platform registered with FinCEN to execute fast transactions through stablecoins, including USDT and USDC.</p>
                         <img className="service-page-image" src="/images/domain-escrow-1.jpg" alt="Domain Escrow" />
                         <div className="service-page-content row">
                             <div className="col col-left">
-                                <h2>The First Fully Crypto-Native Solution for Safe, Seamless Domain Transfers</h2>
+                                <h2>Domain Name Escrow With Escrowly</h2>
                                 <h3>Why Use Escrowly for Domain Name Escrow?</h3>
                                 <p>The market for domain names continues to evolve at an alarming rate. Premium domain names carry extreme value that ranges from several thousand dollars up to millions of dollars. However, crypto transactions are a double-edged sword because they are permanent, yet they are vulnerable to fraudulent activities. Therefore, the solution for business domain transactions is Escrowly’s crypto escrow service.</p>
                                 <ol>
