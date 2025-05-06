@@ -106,7 +106,7 @@ const ServicePage = () => (
                                 <p>The service from Escrowly removes the possibility of disappearing or ghosting after a crypto transaction.</p>
                                 <h3>How Domain Name Escrow Helps in Everyday Scenarios</h3>
                                 <ol>
-                                    <li><strong>Web3 Startups Acquiring Premium Domains</strong>You have got the next big dApp idea. You found the perfect domain. But the seller wants crypto, and you’re worried about getting scammed. Escrowly steps in, locking the funds securely until the transfer is verified, giving your Web3 venture a safe launchpad.</li>
+                                    <li><strong>Web3 Startups Acquiring Premium Domains</strong> You have got the next big dApp idea. You found the perfect domain. But the seller wants crypto, and you’re worried about getting scammed. Escrowly steps in, locking the funds securely until the transfer is verified, giving your Web3 venture a safe launchpad.</li>
                                     <li> - </li>
                                     <li> - </li>
                                 </ol>
