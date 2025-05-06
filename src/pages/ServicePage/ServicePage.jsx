@@ -82,7 +82,6 @@ const ServicePage = () => (
                                     <li>Reduced Risk for Sellers: Sellers don’t need to worry about a sudden dip in value between when the buyer pays and when the domain is transferred.</li>
                                     <li>Greater Adoption: USDT and USDC are widely accepted across wallets, exchanges, and DeFi platforms, offering liquidity on demand.</li>
                                 </ol>
-                                <p>In a world where crypto payments are irreversible, stablecoins provide the clarity, speed, and control that make escrow for crypto not just safer, but smarter.</p>
                                 <p className="note">In a world where crypto payments are irreversible, stablecoins provide the clarity, speed, and control that make escrow for crypto not just safer, but smarter.</p>
                                 <h3>Broker Support for Complex Domain Sales</h3>
                                 <p>Does your deal involve a domain broker? Escrowly provides broker escrow services through which brokers can receive secure commission payments. Brokers can:</p>
