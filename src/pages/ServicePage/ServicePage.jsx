@@ -49,10 +49,10 @@ const ServicePage = () => (
                                 <h3>Why Use Escrowly for Domain Name Escrow?</h3>
                                 <p>The market for domain names continues to evolve at an alarming rate. Premium domain names carry extreme value that ranges from several thousand dollars up to millions of dollars. However, crypto transactions are a double-edged sword because they are permanent, yet they are vulnerable to fraudulent activities. Therefore, the solution for business domain transactions is Escrowly’s crypto escrow service.</p>
                                 <ol>
-                                    <li>1. During domain transfer procedures, funds stay locked in place at all times.</li>
-                                    <li>2. The system ensures full commitment by all involved parties to their contractual agreements.</li>
-                                    <li>3. Escrowly enables users to receive instant payments through USDT or USDC.</li>
-                                    <li>4. Businesses can defend themselves from fraud using blockchain-validated receipts along with other verifiable features.</li>
+                                    <li>During domain transfer procedures, funds stay locked in place at all times.</li>
+                                    <li>The system ensures full commitment by all involved parties to their contractual agreements.</li>
+                                    <li>Escrowly enables users to receive instant payments through USDT or USDC.</li>
+                                    <li>Businesses can defend themselves from fraud using blockchain-validated receipts along with other verifiable features.</li>
                                 </ol>
                                 <p>Secure crypto transactions provided by Escrowly protect all parties, whether you are establishing startups, investing in domain flips, or mediating deals between online businesses.</p>
                                 <h3>How Domain Escrow with Escrowly Works</h3>
@@ -67,12 +67,12 @@ const ServicePage = () => (
                                 <h3>What Makes Escrowly Unique?</h3>
                                 <p>The existing escrow providers operate on different systems, but Escrowly introduces a complete crypto-oriented solution that did not exist before.</p>
                                 <p>Escrowly is:</p>
-                                <ul>
-                                    <li>1. Crypto-first: No fiat, no banks. Just secure P2P crypto escrow.</li>
-                                    <li>2. The platform provides security through stablecoins, which include only USDT and USDC to maintain price stability.</li>
-                                    <li>3. The platform is officially registered as a Verified Money Services Business by FinCEN in accordance with U.S. regulations.</li>
-                                    <li>4. Escrowly uses escrow smart contract crypto technology with customizable features to offer trustless operations.</li>
-                                </ul>
+                                <ol>
+                                    <li>Crypto-first: No fiat, no banks. Just secure P2P crypto escrow.</li>
+                                    <li>The platform provides security through stablecoins, which include only USDT and USDC to maintain price stability.</li>
+                                    <li>The platform is officially registered as a Verified Money Services Business by FinCEN in accordance with U.S. regulations.</li>
+                                    <li>Escrowly uses escrow smart contract crypto technology with customizable features to offer trustless operations.</li>
+                                </ol>
                                 <p>Escrowly harnesses a premium set of features best suited for domain transactions in the crypto economy, particularly when handling important or cross-border crypto escrow transactions.</p>
                                 <h3>Why Only USDT and USDC?</h3>
                                 <p>At Escrowly, we have made a conscious choice: no Bitcoin, no Ethereum, no volatile coins. Here’s why we only support USDT and USDC:</p>
