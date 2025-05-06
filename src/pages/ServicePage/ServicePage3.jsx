@@ -50,12 +50,47 @@ const ServicePage3 = () => (
                                 <h3>Why Use Crypto Escrow for Car Transactions?</h3>
                                 <p>The process of vehicle transactions carries substantial risks to both buyers and sellers. Crypto payments speed up transactions and create worldwide accessibility but become non-reversible transactions when escrow services are not utilized. A secure crypto escrow system for vehicle transactions functions as the key transformation in this buying process. The benefits of using Escrowly include:</p>
                                 <ul>
-                                    <li><strong>Buyer and Seller Agree on Terms</strong> – Both parties establish the conditions of the transaction, including payment, shipping, and inspection period.</li>
-                                    <li><strong>Buyer Deposits Funds with Escrowly</strong> – The buyer submits the payment using cryptocurrency or other approved methods into our secure escrow account.</li>
-                                    <li><strong>Seller Ships the Vehicle</strong> – Once Escrowly verifies the funds, the seller ships the car and provides tracking details.</li>
-                                    <li><strong>Buyer Inspects the Vehicle</strong> – Upon delivery, the buyer has a predetermined inspection period to ensure the car matches the agreed conditions.</li>
-                                    <li><strong>Escrowly Releases Payment to Seller</strong> – If the buyer approves the vehicle, Escrowly transfers the funds to the seller. If issues arise, the buyer can return the vehicle for a refund.</li>
+                                    <li>When using Escrowly customers can make irreversible crypto payments while their funds exist in the Escrow wallet until all outlined conditions are met. No one walks away empty-handed.</li>
+                                    <li>The crypto payment protection escrow features of Escrowly give users peace of mind because crypto payments cannot be canceled despite having no risk of chargebacks.</li>
+                                    <li>Escrowly establishes a global reach for seamless execution of local confidence-based cross-border crypto escrow services. Escrowly allows international motor vehicle transactions between parties with full transparency and security features included.</li>
                                 </ul>
+                                <p>As a crypto escrow platform, Escrowly caters to the specific needs of both business and individual users who act as buyers, sellers or brokers.</p>
+                                <h3>How Does Escrowly Secure Motor Vehicle Deals?</h3>
+                                <p>Our smart contract escrow system at Escrowly provides bulletproof security to car transactions throughout the entire transaction process. Here's how our protection works:</p>
+                                <ul>
+                                    <li>The buyer and seller finalize the terms about vehicle condition standards along with delivery methods and payment terms during deal creation. Escrowly transactions begin when buyers start the purchase process on the platform.</li>
+                                    <li>Users send their funds using USDT or USDC to a blockchain escrow service which maintains secure fund storage. A secure P2P crypto escrow wallet protects payments that the seller or buyer places there.</li>
+                                    <li>The seller delivers the car but the buyer gets an inspection window to verify that the vehicle remains as described in the agreement.</li>
+                                    <li>After the buyer approves or the inspection deadline elapses, Escrowly distributes the funds to the seller.</li>
+                                </ul>
+                                <p>This arrangement safeguards both buyer and seller against deceitful activities and unforeseen events. You can relax because Escrowly features automatic dispute resolution and fraud prevention functionality that safeguards you throughout your transactions.</p>
+                                <h3>Benefits for Buyers and Sellers</h3>
+                                <p>Escrowly defines itself as more than just another crypto platform due to its role as a trust foundation for executing high-value exchanges. Our vehicle escrow service provides several benefits to both buying and selling customers who use our platform.</p>
+                                <h6>For Buyers</h6>
+                                <ul>
+                                    <li>Your payment will be released only when you verify that the vehicle matches its description after delivery.</li>
+                                    <li>The Escrowly platform safeguards users from fraud because it executes transactions only after all specified conditions have been fulfilled.</li>
+                                    <li>USDT and USDC payments allow users to maintain payment stability by avoiding currency value fluctuations between payment and delivery.</li>
+                                </ul>
+                                <h6>For Sellers</h6>
+                                <ul>
+                                    <li>The vehicle funds remain in escrow until you verify the delivery of the vehicle to your satisfaction. Sellers no longer face the problem of outdated checks or disappearing payment methods which result in unpaid deliveries.</li>
+                                    <li>The protection Escrowly enables from chargebacks stands as a strong advantage over traditional payment methods through credit cards and standard processors.</li>
+                                    <li>Transactions using Escrowly take less time to close from the initial deal through distribution than traditional bank transfer methods.</li>
+                                </ul>
+                                <p>Every party involved achieves successful results when trust becomes integrated into their business transactions.</p>
+                                <h3>Types of Vehicles Supported</h3>
+                                <p>Escrowly supports diverse motor vehicle sales featuring individual purchases alongside dealership vehicle fleet transactions.</p>
+                                <ul>
+                                    <li><strong>Cars and Sedans:</strong> Perfect for individual sellers or dealerships.</li>
+                                    <li><strong>Motorcycles and Scooters:</strong> Escrowly provides coverage for both high-end bikes like Ducati and delivery bikes.</li>
+                                    <li><strong>Trucks and Vans:</strong> The platform caters to businesses who need upgraded fleets or entities conducting distance-based logistics operations.</li>
+                                    <li><strong>Luxury & Collector Vehicles:</strong> Escrowly provides security for valuable transactions through its complementary payments system based on cryptocurrencies.</li>
+                                    <li><strong>Electric Vehicles (EVs):</strong> Our organization follows the global transition toward electric energy. The service provided by Escrowly extends equal security protection across every EV transaction.</li>
+                                </ul>
+
+
+
 
                                 <h6>Lease Only</h6>
 
