@@ -91,9 +91,20 @@ const ServicePage3 = () => (
                                 <p>No matter which vehicle you wish to acquire, from a classic Mustang to a Tesla Model X, our crypto vehicle escrow service handles the process with complete ease.</p>
                                 <h3>How to Use Escrowly for your Car Transactions in 7 Easy Steps!</h3>
                                 <p>Escrowly provides a smooth interface that welcomes experienced crypto users while making it simple for new users to start. Here is how it works:</p>
-
-
-
+                                <h6>1. Create an Account</h6>
+                                <p>.</p>
+                                <h6>2. Set Up Your Vehicle Transaction</h6>
+                                <p>.</p>
+                                <h6>3. Buyer Deposits Funds</h6>
+                                <p>.</p>
+                                <h6>4. Seller Delivers Vehicle</h6>
+                                <p>.</p>
+                                <h6>5. Buyer Reviews and Confirms</h6>
+                                <p>.</p>
+                                <h6>6. Funds Released to Seller</h6>
+                                <p>.</p>
+                                <h6>7. Disputes? We've Got You</h6>
+                                <p>.</p>
 
                                 <h6>For Sellers</h6>
                                 <ul>
