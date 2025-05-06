@@ -104,6 +104,7 @@ const ServicePage = () => (
                                     <li>Disputes? The blockchain-auditable dispute resolution system at Escrowly provides fast and fair resolution processes.</li>
                                 </ol>
                                 <p>The service from Escrowly removes the possibility of disappearing or ghosting after a crypto transaction.</p>
+                                <h3>How Domain Name Escrow Helps in Everyday Scenarios</h3>
 
                                 <p className="note">Note: Domain holding transactions require a minimum holding period of three months and a maximum of five years.</p>
                                 <p>Escrowly provides a trusted way to conduct domain transactions in the crypto space. Whether leasing or purchasing, our platform ensures fair, secure, and transparent deals—reducing risks in high-value domain transactions.</p>
