@@ -15,12 +15,12 @@ import Innovate from "../../sections/Innovate/Innovate";
 const ServicePage3 = () => (
     <>
         <Helmet>
-            <title>Best Crypto Escrow - Escrowly</title>
-            <meta name="description" content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders." />
-            <meta name="keywords" content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate" />
+            <title>Motor Vehicle Escrow with Crypto | Escrowly.com</title>
+            <meta name="description" content="Buy or sell cars, motorcycles, or luxury vehicles securely with USDT or USDC using Escrowly – the world’s first fully crypto-native vehicle escrow platform." />
+            <meta name="keywords" content="motor vehicle escrow, car escrow, crypto car transactions, USDT vehicle escrow, USDC auto escrow, motorcycle escrow crypto, luxury vehicle escrow, secure car buying crypto, blockchain escrow for vehicles, Escrowly, FinCEN registered escrow" />
             <meta name="author" content="Escrowly Crypto Escrow Team" />
-            <meta property="og:title" content="Escrowly – Buy & Sell Online Safely with Crypto" />
-            <meta property="og:description" content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets." />
+            <meta property="og:title" content="Escrowly – Secure Crypto Escrow for Cars and Vehicles" />
+            <meta property="og:description" content="Make car deals safe and borderless. Escrowly lets you buy or sell motor vehicles using stablecoins with full protection and smart contract security." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
             <meta property="og:url" content="https://escrowly.com" />
             <meta name="twitter:card" content="summary_large_image" />
