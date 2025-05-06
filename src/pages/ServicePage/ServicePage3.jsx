@@ -37,25 +37,25 @@ const ServicePage3 = () => (
                 <section className="section-service-page">
                     <div className="container">
                         <SectionHeader 
-                            label="Motor Vehicle Escrow "
-                            title="Secure Your Vehicle Purchase with Escrowly’s Motor Vehicle Escrow Service"
+                            label="Motor Vehicle Escrow"
+                            title="Motor Vehicle Escrow from Escrowly.com"
                             className="centered"
                         />
-                        <p className="service-page-description">When making large purchases or sales online, ensuring the security of the transaction is crucial. In the case of cryptocurrency deals, the risk is even higher due to the irreversible nature of crypto transactions and the potential for fraud. This is where our General Escrow Services come in.</p>
-                        <img className="service-page-image" src="/images/service-page-3.jpg" alt="" />
+                        <p className="service-page-description">The experience of buying your dream car and selling a collector’s vehicle should be exciting rather than full of stress. Conventional motor vehicle trades suffer from fundamental problems which include payment fraud, difficulties in title transfer difficulties, and inadequate communication between sellers and buyers. Crypto escrow services act as the solution to resolve these risks.</p>
+                        <img className="service-page-image" src="/images/motor-vehicle-escrow-1.jpg" alt="Motor Vehicle Escrow" />
                         <div className="service-page-content row">
                             <div className="col col-left">
-                                <h3>Why You Need Protection When Buying a Used Car Online</h3>
-                                <p>Many used cars may appear to be in excellent condition, but hidden mechanical issues could cost you more than the vehicle itself. A personal inspection might not be enough, and hiring a mechanic before purchase isn't always feasible. Moreover, shipping concerns add another layer of risk—what if the car arrives in a different condition than advertised? Without proper buyer protection, securing a refund can be nearly impossible.</p>
-                                <h6>How Escrowly Eliminates Fraud in 5 Simple Steps</h6>
-                                <p>Escrowly ensures that buyers only release funds once they receive the exact vehicle they paid for. If the car doesn’t meet expectations, you can return it and get a full refund. Here’s how it works:</p>
-                                <ol>
+                                <h3>Buying and Selling Cars Shouldn’t Be Risky</h3>
+                                <p>The Escrowly platform stands as the first complete crypto-native escrow solution which offers vehicle deals that combine transparency with speed and resistance to fraud. Our platform accepts only USDC and USDT, to provide stable peer-to-peer vehicle transactions that are completely secure across the world. The blockchain escrow service from Escrowly provides complete protection to all parties throughout the sale process regardless of the vehicles involved including sedans, luxury SUVs or motorcycles.</p>
+                                <h3>Why Use Crypto Escrow for Car Transactions?</h3>
+                                <p>The process of vehicle transactions carries substantial risks to both buyers and sellers. Crypto payments speed up transactions and create worldwide accessibility but become non-reversible transactions when escrow services are not utilized. A secure crypto escrow system for vehicle transactions functions as the key transformation in this buying process. The benefits of using Escrowly include:</p>
+                                <ul>
                                     <li><strong>Buyer and Seller Agree on Terms</strong> – Both parties establish the conditions of the transaction, including payment, shipping, and inspection period.</li>
                                     <li><strong>Buyer Deposits Funds with Escrowly</strong> – The buyer submits the payment using cryptocurrency or other approved methods into our secure escrow account.</li>
                                     <li><strong>Seller Ships the Vehicle</strong> – Once Escrowly verifies the funds, the seller ships the car and provides tracking details.</li>
                                     <li><strong>Buyer Inspects the Vehicle</strong> – Upon delivery, the buyer has a predetermined inspection period to ensure the car matches the agreed conditions.</li>
                                     <li><strong>Escrowly Releases Payment to Seller</strong> – If the buyer approves the vehicle, Escrowly transfers the funds to the seller. If issues arise, the buyer can return the vehicle for a refund.</li>
-                                </ol>
+                                </ul>
 
                                 <h6>Lease Only</h6>
 
