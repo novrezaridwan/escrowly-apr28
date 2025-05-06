@@ -38,27 +38,30 @@ const ServicePage = () => (
                     <div className="container">
                         <SectionHeader 
                             label="Domain Name Escrow"
-                            title="Secure Domain Name Holding with Escrowly"
+                            title="Domain Name Escrow With Escrowly"
                             className="centered"
                         />
-                        <p className="service-page-description">Escrowly is domain holding service provides a secure way for buyers and sellers to transact domain names using cryptocurrency. The buyer locks funds on our platform, while the seller transfers the domain. Only when both parties fulfill the agreed conditions, the buyer receives the domain, and the seller gets paid—eliminating risks and ensuring a seamless transaction.</p>
-                        <img className="service-page-image" src="/images/service-page-1.jpg" alt="" />
+                        <p className="service-page-description">Due to the large payments involved, domain name transactions with cryptocurrency can be high-risk initiatives. Escrowly acting as a neutral third-party custodian provides domain name escrow services that protect buyers and sellers through blockchain payment transactions, which cannot be reversed. Escrowly operates as the first blockchain-based escrow platform registered with FinCEN to execute fast transactions through stablecoins, including USDT and USDC.</p>
+                        <img className="service-page-image" src="/images/domain-escrow-1.jpg" alt="Domain Escrow" />
                         <div className="service-page-content row">
                             <div className="col col-left">
-                                <h3>Standard Fees</h3>
-                                <p>The service includes a Domain Holding Fee along with a standard escrow fee. The holding fee is based on the domain’s value and the holding period.</p>
-                                <h6>Lease with Purchase</h6>
+                                <h2>The First Fully Crypto-Native Solution for Safe, Seamless Domain Transfers</h2>
+                                <h3>Why Use Escrowly for Domain Name Escrow?</h3>
+                                <p>The market for domain names continues to evolve at an alarming rate. Premium domain names carry extreme value that ranges from several thousand dollars up to millions of dollars. However, crypto transactions are a double-edged sword because they are permanent, yet they are vulnerable to fraudulent activities. Therefore, the solution for business domain transactions is Escrowly’s crypto escrow service.</p>
                                 <ul>
-                                    <li>0.01% of the domain’s value (minimum $100) × holding period (in months).</li>
+                                    <li>1. During domain transfer procedures, funds stay locked in place at all times.</li>
+                                    <li>2. The system ensures full commitment by all involved parties to their contractual agreements.</li>
+                                    <li>3. Escrowly enables users to receive instant payments through USDT or USDC.</li>
+                                    <li>4. Businesses can defend themselves from fraud using blockchain-validated receipts along with other verifiable features.</li>
                                 </ul>
-                                <h6>Lease Only</h6>
-                                <ul>
-                                    <li>0.02% of the domain’s value (minimum $200) × holding period (in months).</li>
-                                </ul>
-                                <h3>Payment Schedule Change Fee</h3>
-                                <p>Once the initial payment schedule is set, any requested modifications will incur a $250 fee.</p>
-                                <h3>DNS Administrative Fee</h3>
-                                <p>Each request for DNS-related administrative changes will be charged an $85 fee.</p>
+                                <p>Secure crypto transactions provided by Escrowly protect all parties, whether you are establishing startups, investing in domain flips, or mediating deals between online businesses.</p>
+                                <h3>How Domain Escrow with Escrowly Works</h3>
+                                <h6>1. Agreement</h6>
+                                <p>The parties involved confirm both the price amount and the conditions of the domain purchase. Broker participation is optional.</p>
+                                <h6>2. Deposit Funds</h6>
+                                <p>Next, the buyer stores their funds in an escrow wallet for crypto designed by Escrowly. You should note that the available currency options in Escrowly transactions are restricted to USDT and USDC. This helps to eliminate the volatility associated with other cryptocurrencies and reduce fluctuations in the value of your digital assets.</p>
+                                <h6>3. Transfer Domain</h6>
+                                <p>When the transaction is complete, the domain name is transferred officially from the seller to the buyer. Afterwards, Escrowly verifies the completion of the transfer.</p>
                                 <p className="note">Note: Domain holding transactions require a minimum holding period of three months and a maximum of five years.</p>
                                 <h3>How Domain Name Holding works</h3>
                                 <ul>
