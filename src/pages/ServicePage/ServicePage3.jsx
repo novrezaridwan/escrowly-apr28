@@ -92,21 +92,24 @@ const ServicePage3 = () => (
                                 <h3>How to Use Escrowly for your Car Transactions in 7 Easy Steps!</h3>
                                 <p>Escrowly provides a smooth interface that welcomes experienced crypto users while making it simple for new users to start. Here is how it works:</p>
                                 <h6>1. Create an Account</h6>
-                                <p>.</p>
+                                <p>To begin, you need to register an account on the platform and then verify your profile. The MSB-registered and FinCEN-listed platform meets the very best compliance benchmarks for cryptocurrency operations.</p>
                                 <h6>2. Set Up Your Vehicle Transaction</h6>
-                                <p>.</p>
+                                <p>Find the "Motor Vehicle Escrow" option and provide transaction details such as vehicle specifics and payment terms. Afterwards, you need to invite the opposite party to join the process.</p>
                                 <h6>3. Buyer Deposits Funds</h6>
-                                <p>.</p>
+                                <p>The buyer safely deposits the agreed funds through USDT or USDC. The secured funds in a non-custodial escrow wallet remain safe until all participants successfully meet their contractual obligations.</p>
                                 <h6>4. Seller Delivers Vehicle</h6>
-                                <p>.</p>
+                                <p>The seller must provide the motor vehicle together with all vital paperwork including the car's title, registration information, and inspection reports.</p>
                                 <h6>5. Buyer Reviews and Confirms</h6>
-                                <p>.</p>
+                                <p>During an inspection period lasting between 24–72 hours, the buyer can confirm that all terms match what was originally agreed. The process ends with the disbursement of funds upon approval from both parties.</p>
                                 <h6>6. Funds Released to Seller</h6>
-                                <p>.</p>
+                                <p>Escrowly transfers the crypto payment securely to the seller’s wallet right at the time of transaction with zero third-party involvement.</p>
                                 <h6>7. Disputes? We've Got You</h6>
-                                <p>.</p>
+                                <p>Escrowly’s crypto escrow dispute resolution team is more than capable of managing disputes and reviewing evidence submissions to achieve fair outcomes.</p>
+                                <h3>Why Escrowly Is the Future of Crypto Vehicle Transactions</h3>
 
-                                <h6>For Sellers</h6>
+
+
+                                
                                 <ul>
                                     <li>Assurance that the buyer’s payment is secured before shipping the vehicle.</li>
                                     <li>Protection against fraudulent checks and chargebacks.</li>
