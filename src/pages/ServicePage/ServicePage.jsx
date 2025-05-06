@@ -111,6 +111,8 @@ const ServicePage = () => (
                                     <li><strong>Crypto Influencers Flipping Domains</strong> Crypto X handles and domains are hot assets. But flipping them in Telegram groups is risky. Escrowly gives you the protection of a third-party service with instant crypto disbursement, making domain flipping much safer and scalable.</li>
                                     <li><strong>Cross-Border Transactions Between Strangers</strong> You are in Berlin, they are in Dubai. No PayPal, no credit cards - just crypto. Escrowly's domain name escrow enables both sides to transact globally and anonymously, while still enjoying professional-grade protection, transparency, and dispute resolution.</li>
                                 </ol>
+                                <h3>Why Domain Flippers Love Escrowly</h3>
+
                                 <p className="note">Note: Domain holding transactions require a minimum holding period of three months and a maximum of five years.</p>
                                 <p>Escrowly provides a trusted way to conduct domain transactions in the crypto space. Whether leasing or purchasing, our platform ensures fair, secure, and transparent deals—reducing risks in high-value domain transactions.</p>
                                 <Button 
