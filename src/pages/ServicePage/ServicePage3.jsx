@@ -88,30 +88,13 @@ const ServicePage3 = () => (
                                     <li><strong>Luxury & Collector Vehicles:</strong> Escrowly provides security for valuable transactions through its complementary payments system based on cryptocurrencies.</li>
                                     <li><strong>Electric Vehicles (EVs):</strong> Our organization follows the global transition toward electric energy. The service provided by Escrowly extends equal security protection across every EV transaction.</li>
                                 </ul>
+                                <p>No matter which vehicle you wish to acquire, from a classic Mustang to a Tesla Model X, our crypto vehicle escrow service handles the process with complete ease.</p>
+                                <h3>How to Use Escrowly for your Car Transactions in 7 Easy Steps!</h3>
+                                <p>Escrowly provides a smooth interface that welcomes experienced crypto users while making it simple for new users to start. Here is how it works:</p>
 
 
 
 
-                                <h6>Lease Only</h6>
-
-                                <ul>
-                                    <li>0.02% of the domain’s value (minimum $200) × holding period (in months).</li>
-                                </ul>
-
-                                <h3>Protect Yourself Against Automotive Fraud</h3>
-                                <p>To minimize the risk of fraud, follow these steps:</p>
-                                <ul>
-                                    <li>Check Seller Reviews: Many online marketplaces offer seller ratings and customer feedback. Read reviews to identify reputable sellers and avoid potential scams.</li>
-                                    <li>Use Secure Payment Methods: Not all payment providers offer buyer protection. Unlike traditional methods like PayPal, which may not cover disputes for vehicle purchases, Escrowly ensures funds are securely held until both parties fulfill their obligations.</li>
-                                    <li>Utilize a Trusted Escrow Service: Escrowly eliminates fraud by holding funds securely and allowing buyers to set inspection conditions. If the vehicle fails inspection, the buyer gets their money back.</li>
-                                </ul>
-                                <h3>Additional Motor Vehicle Services for Peace of Mind</h3>
-                                <h6>For Buyers</h6>
-                                <ul>
-                                    <li>Confidence that the car is exactly as described.</li>
-                                    <li>Full refund if the vehicle does not meet the agreed-upon conditions.</li>
-                                    <li>Secure cryptocurrency transactions, eliminating the risk of fraud.</li>
-                                </ul>
                                 <h6>For Sellers</h6>
                                 <ul>
                                     <li>Assurance that the buyer’s payment is secured before shipping the vehicle.</li>
