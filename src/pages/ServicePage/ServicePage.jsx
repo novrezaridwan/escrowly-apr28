@@ -15,12 +15,12 @@ import Innovate from "../../sections/Innovate/Innovate";
 const ServicePage = () => (
     <>
         <Helmet>
-            <title>Best Crypto Escrow - Escrowly</title>
-            <meta name="description" content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders." />
-            <meta name="keywords" content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate" />
+            <title>Domain Name Escrow with Crypto | Escrowly.com</title>
+            <meta name="description" content="Safely buy or sell premium domain names using USDT or USDC with Escrowly — the first fully crypto-native escrow platform registered with FinCEN." />
+            <meta name="keywords" content="domain name escrow, crypto domain escrow, USDT domain escrow, secure domain transfers, blockchain escrow for domains, Escrowly, domain flipping with crypto, domain escrow smart contract, domain broker escrow, stablecoin escrow, crypto escrow platform, FinCEN registered escrow" />
             <meta name="author" content="Escrowly Crypto Escrow Team" />
-            <meta property="og:title" content="Escrowly – Buy & Sell Online Safely with Crypto" />
-            <meta property="og:description" content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets." />
+            <meta property="og:title" content="Escrowly – Crypto Domain Escrow Made Simple" />
+            <meta property="og:description" content="Use Escrowly to securely escrow premium domain name sales with stablecoins like USDT and USDC. Trusted by brokers, flippers, and Web3 startups." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
             <meta property="og:url" content="https://escrowly.com" />
             <meta name="twitter:card" content="summary_large_image" />
@@ -83,6 +83,7 @@ const ServicePage = () => (
                                     <li>Greater Adoption: USDT and USDC are widely accepted across wallets, exchanges, and DeFi platforms, offering liquidity on demand.</li>
                                 </ol>
                                 <p>In a world where crypto payments are irreversible, stablecoins provide the clarity, speed, and control that make escrow for crypto not just safer, but smarter.</p>
+                                <p className="note">In a world where crypto payments are irreversible, stablecoins provide the clarity, speed, and control that make escrow for crypto not just safer, but smarter.</p>
                                 <h3>Broker Support for Complex Domain Sales</h3>
                                 <p>Does your deal involve a domain broker? Escrowly provides broker escrow services through which brokers can receive secure commission payments. Brokers can:</p>
                                 <ol>
@@ -112,9 +113,18 @@ const ServicePage = () => (
                                     <li><strong>Cross-Border Transactions Between Strangers</strong> You are in Berlin, they are in Dubai. No PayPal, no credit cards - just crypto. Escrowly's domain name escrow enables both sides to transact globally and anonymously, while still enjoying professional-grade protection, transparency, and dispute resolution.</li>
                                 </ol>
                                 <h3>Why Domain Flippers Love Escrowly</h3>
-
-                                <p className="note">Note: Domain holding transactions require a minimum holding period of three months and a maximum of five years.</p>
-                                <p>Escrowly provides a trusted way to conduct domain transactions in the crypto space. Whether leasing or purchasing, our platform ensures fair, secure, and transparent deals—reducing risks in high-value domain transactions.</p>
+                                <p>If you run a domain flipping business or digital branding agency, Escrowly provides:</p>
+                                <ol>
+                                    <li>A reliable crypto escrow platform to handle high volumes.</li>
+                                    <li>Fast turnaround with no banking delays.</li>
+                                    <li>Automated processes with our Escrowly API for seamless integration.</li>
+                                    <li>Bulletproof compliance with our FinCEN registration.</li>
+                                </ol>
+                                <h3>Escrowly API: For Businesses at Scale</h3>
+                                <p>You can integrate Escrowly directly into your platform using our developer-friendly API, allowing your users to benefit from secure crypto escrow for businesses in every domain deal. Whether you are running a domain marketplace, a SaaS solution, or a white-label crypto service, Escrowly’s API scales with you.</p>
+                                <h3>Escrowly - A Better Way to Trade Domain Names</h3>
+                                <p>Whether you're a solo entrepreneur buying your first domain or a crypto broker managing high-value transfers, Escrowly is your answer to safe, stable, and trustless transactions. Our decentralized escrow service bridges the gap between irreversible crypto payments and peace-of-mind exchanges.</p>
+                                <h6>Ditch the Risk. Escrow the smart way - with Escrowly.</h6>
                                 <Button 
                                     url="#get-started"
                                     text="Get Started Now"
