@@ -41,7 +41,7 @@ const ServicePage4 = () => (
                             title="Milestone Transactions - Secure Every Step of the Deal"
                             className="centered"
                         />
-                        <p className="service-page-description">When it comes to complex crypto transactions—especially those involving long-term deliverables or multi-phase services—trust, timing, and transparency become paramount. Milestone Transactions from Escrowly provide the necessary solution for such situations. The feature empowers all parties by allowing them to split a transaction into separate stages for payment releases that happen only after successful completion of each stage.</p>
+                        <p className="service-page-description">When it comes to complex crypto transactions especially those involving long-term deliverables or multi-phase services—trust, timing, and transparency become paramount. Milestone Transactions from Escrowly provide the necessary solution for such situations. The feature empowers all parties by allowing them to split a transaction into separate stages for payment releases that happen only after successful completion of each stage.</p>
                         <img className="service-page-image" src="/images/milestone-transactions-01.jpg" alt="Milestone Transactions via Escrowly" />
                         <div className="service-page-content row">
                             <div className="col col-left">
@@ -159,8 +159,9 @@ const ServicePage4 = () => (
                                     <li>Funds are held securely and disbursed step-by-step after verification</li>
                                 </ol>
                                 <p>To determine your milestone fee costs, you can use our all-inclusive Fee Calculator feature</p>
-
-
+                                <h3>The Future of Crypto Transactions is Milestone-Driven</h3>
+                                <p>As crypto becomes the go-to payment method for everything from software development to global asset purchases, the need for secure, structured, and fair payment systems has never been more critical. With the Milestone Transactions feature, Escrowly promotes transparent, protected, and secure transactions for all stages of an exchange - from domain acquisitions to project funding to application development.</p>
+                                <p>No more lump sum payments. No more ghosted developers. No more panic over irreversible crypto transfers.</p>
 
                                 <Button 
                                     url="#get-started"
