@@ -106,21 +106,17 @@ const ServicePage3 = () => (
                                 <h6>7. Disputes? We've Got You</h6>
                                 <p>Escrowly’s crypto escrow dispute resolution team is more than capable of managing disputes and reviewing evidence submissions to achieve fair outcomes.</p>
                                 <h3>Why Escrowly Is the Future of Crypto Vehicle Transactions</h3>
-
-
-
-                                
+                                <p>Escrowly isn’t just disrupting the status quo - it is reinventing it. We are the first and only fully crypto-native escrow platform, offering transparent, secure, and stablecoin-backed escrow services for car deals. Here is what makes us different:</p>
+                                <p>The company stands to transform the industry by completely restructuring its operation instead of only disrupting it. As an exclusive crypto-native escrow provider we deliver transparent and secure stablecoin-backed escrow solutions for automotive deal transactions. Here's what makes us different:</p>
                                 <ul>
-                                    <li>Assurance that the buyer’s payment is secured before shipping the vehicle.</li>
-                                    <li>Protection against fraudulent checks and chargebacks.</li>
-                                    <li>Fast, transparent transactions without unnecessary risks.</li>
+                                    <li>Say goodbye to traditional payment gatekeepers.</li>
+                                    <li>Stablecoins USDT and USDC serve as our sole acceptable currency since they prevent trading cost fluctuations and price volatility.</li>
+                                    <li>Escrowly provides regulatory assurance since it functions as a registered Money Services Business under U.S. financial regulations.</li>
+                                    <li>The transactions run smoothly across both international and national borders because of crypto payments.</li>
                                 </ul>
-
-                                <h3>Low Fees, Maximum Security</h3>
-                                <p>Escrowly offers a cost-effective escrow service that can be paid by the buyer, seller, or split between both parties.</p>
-
-                                <h3>Get Complete Confidence in Your Vehicle Transactions</h3>
-                                <p>Buying and selling a vehicle online involves large sums of money, making fraud prevention critical. Escrowly’s secure, transparent 5-step process ensures both buyers and sellers get exactly what was agreed upon. With additional services like Lien Payoff and Title Collection, Escrowly makes your car transaction smoother and more secure.</p>
+                                <p>Escrowly API enables businesses to integrate their automobile dealership platforms using crypto escrow solutions. The crypto escrow API solution from our platform provides complete coverage to its users.</p>
+                                <h3>Drive Into the Future - Securely</h3>
+                                <p>Crypto and car sales are a match made in blockchain heaven, but only when trust is built in. Escrowly brings transparency, accountability, and protection to every motor vehicle transaction. With a simple, secure, and stable escrow solution, you will never second-guess a crypto car deal again. Are you ready to shift gears? Then, choose Escrowly - the market leader for fully crypto-native escrow services for vehicle acquisitions and sales.</p>
 
                                 <Button 
                                     url="#get-started"
