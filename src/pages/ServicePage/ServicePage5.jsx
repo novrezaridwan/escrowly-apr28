@@ -104,19 +104,45 @@ const ServicePage5 = () => (
                                 <p>The secure payment process at Escrowly enables teams to obtain bulk software licenses at once. Your investment remains secure because you can release payments only after the vendor fulfills access delivery requirements.</p>
                                 <h6>5. Website Templates and Graphics</h6>
                                 <p>Through Escrowly built-in protection you can guarantee that you get complete functional digital assets during your purchase of WordPress themes, Shopify templates and graphic bundle transactions.</p>
-
-
-
+                                <h3>How It Works: Securing Your Digital Transactions with Escrowly</h3>
                                 <ul>
-                                    <li>Fraud Prevention – No payment is released until goods are received and verified.</li>
-                                    <li>Chargeback Protection – Eliminates the risk of payment reversals common in digital sales.</li>
-                                    <li>Buyer Security – Ensures that the digital item or online goods meet the agreed terms.</li>
-                                    <li>Seller Confidence – Guarantees payment once delivery is confirmed.</li>
-                                    <li>Versatile Transactions – Supports physical online goods and various digital assets like software, domains, and NFTs.</li>
-                                    <li>Crypto Payments Accepted – Conduct transactions securely with cryptocurrency.</li>
+                                    <li>Create an account on Escrowly.com and then start a new transaction under the “Digital Goods” option.</li>
+                                    <li>Next, you need to establish specific terms by describing the details of the product or service, delivery requirements, and the time of delivery.</li>
+                                    <li>The buyer transfers the agreed amount or funds through the USDC or USDT escrow service to the escrow account.</li>
+                                    <li>During Service Delivery, the seller provides the digital goods or services according to the pre-agreed terms.</li>
+                                    <li>The next step is the buyer inspection period. Here, the buyer checks the product. When everything meets expectations, the seller receives their funds.</li>
+                                    <li>Escrowly allows users to file disputes through the platform if any issues emerge.</li>
                                 </ul>
-                                <p>With Escrowly, you can trade online goods and digital assets with complete confidence. Whether you're a freelancer, a digital entrepreneur, or an online business, our secure escrow service ensures every transaction is fair and transparent. Start your secure transaction now and experience the safest way to buy and sell online!</p>
-                                
+                                <h6>Pro Tip:</h6>
+                                <p>Use our Fee Calculator tool to figure out escrow fees before payment without any unexpected surprises ahead.</p>
+                                <h3>Benefits of Using Escrowly for Digital Transactions</h3>
+                                <ul>
+                                    <li>Your money remains guarded until you are completely satisfied with the outcome of the transaction.</li>
+                                    <li>Escrow creates an equal trading environment between unknown users regardless of their first-time transactions.</li>
+                                    <li>The crypto escrow service at Escrowly protects the interests of both parties through transparent contract documents that establish clear milestones.</li>
+                                    <li>The use of crypto enables users to make simple and instant international transactions.</li>
+                                </ul>
+                                <p>The stable nature of stablecoins allows users to know the exact amount they will send or receive.</p>
+                                <h3>What Makes Escrowly Different?</h3>
+                                <p>Escrowly stands apart by offering these features:</p>
+                                <ul>
+                                    <li>First-to-market crypto-native.</li>
+                                    <li>Registered Money Services Business (MSB).</li>
+                                    <li>FinCEN-compliant.</li>
+                                    <li>The platform exclusively operates with USDT and USDC as supported cryptocurrencies.</li>
+                                    <li>Designed for the digital-first economy.</li>
+                                </ul>
+                                <p>No banks. No fiat. Just safe, efficient crypto escrow for online goods.</p>
+                                <h3>Tips for Safe Digital Transactions Using Escrow</h3>
+                                <ul>
+                                    <li>Make your deliverables clear. You should provide detail of your expectations precisely.</li>
+                                    <li>Customers should provide proof of delivery through signed confirmation receipts or access details.</li>
+                                    <li>Respond immediately because the inspection period will run its course.</li>
+                                    <li>All of your conversations must occur inside Escrowly's platform messaging software to simplify dispute resolution procedures.</li>
+                                    <li>As a precaution establish your rights regarding any potential disputes before entering transactions.</li>
+                                </ul>
+
+
                                 <Button 
                                     url="#get-started"
                                     text="Get Started Now"
