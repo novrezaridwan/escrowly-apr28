@@ -141,8 +141,9 @@ const ServicePage5 = () => (
                                     <li>All of your conversations must occur inside Escrowly's platform messaging software to simplify dispute resolution procedures.</li>
                                     <li>As a precaution establish your rights regarding any potential disputes before entering transactions.</li>
                                 </ul>
-
-
+                                <h3>Digital Transactions Are Here To Shape Our Future</h3>
+                                <p>Online and digital items face an expanding market demand which is increasing simultaneously with potential dangers. Through its crypto escrow service system, Escrowly eliminates risks involved when people trade assets with each other. Escrowly changes the way global digital commerce operates through its payment security using Stablecoins and advanced safeguard mechanisms.</p>
+                                <p>Are you ready to enjoy secure crypto transactions? Begin your journey today at Escrowly because with our secure crypto payment protection that remains both fair and seamless.</p>
                                 <Button 
                                     url="#get-started"
                                     text="Get Started Now"
