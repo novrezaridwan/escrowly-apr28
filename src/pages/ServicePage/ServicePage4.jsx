@@ -60,18 +60,20 @@ const ServicePage4 = () => (
                                 <p>Escrowly merges milestone contracts with crypto escrow features to provide users with unmatched security for their short-term work and extended partnerships.</p>
                                 <h3>Ideal Use Cases for Escrowly Milestone Escrow</h3>
                                 <p>Milestone transactions adapt effectively to numerous crypto business situations. Milestone payments deliver control over risk and delivery standards for developers creating dApps,  companies acquiring custom hardware, and international organizations using smart contract escrow.</p>
-                                <h6>1.Freelance Projects</h6>
+                                <h6>1. Freelance Projects</h6>
                                 <p>You can prevent the loss of crypto payments by implementing protection methods when working with remote contractors. Project stages should be divided into multiple payment milestones for design, followed by development, then testing, and delivery completion.</p>
                                 <h6>2. Software & App Development</h6>
                                 <p>Payment to developers can be made only when they finish delivering each functional segment. Blockchain escrow service provides an optimal solution for such.</p>
-                                <h6>3.Cross-border Equipment Procurement</h6>
+                                <h6>3. Cross-border Equipment Procurement</h6>
                                 <p>You can opt to split up your machinery, industrial, or electronic equipment payments into three parts: inspection stage, shipping period, and delivery end point.</p>
-                                <h6>4.Contractor Work</h6>
+                                <h6>4. Contractor Work</h6>
                                 <p>Milestone escrow allows you to make payments through our USDT escrow service for the completion of stages of installation work, construction, and engineering projects.</p>
-                                <h6>5.Crypto Escrow for Corporate Mergers</h6>
+                                <h6>5. Crypto Escrow for Corporate Mergers</h6>
                                 <p>Companies should segregate complex transaction phases such as mergers or acquisitions into review, approval cycles, and transfer completion.</p>
-                                <h6>6.High Value Worth Domain Names</h6>
+                                <h6>6. High Net-Worth Domain Names or Premium Domain Names</h6>
                                 <p>Domain Investors selling domain names to third parties who wanted to pay in few months or a year until the domain name is transferred to that party and all payments are completed.</p>
+                                <h3>How It Works: Escrowly Milestone Escrow</h3>
+
                                 <ol>
                                     <li><strong>Buyer and Seller Agree on Terms</strong> – Both parties define milestones and payment conditions.</li>
                                     <li><strong>Buyer Funds the Transaction</strong> – The agreed amount is securely held in escrow.</li>
