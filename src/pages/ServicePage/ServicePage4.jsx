@@ -150,15 +150,15 @@ const ServicePage4 = () => (
                                 <h6>3. Marketing Firm and a Crypto Exchange</h6>
                                 <p>A crypto exchange partners with a marketing firm to grow its presence. They agree to a 3-month campaign split into monthly performance milestones. With Escrowly's crypto milestone escrow, each month’s payout is only released upon KPIs being met, monitored through shared analytics reports.</p>
                                 <h3>How to Initiate Milestone Transactions on Escrowly:</h3>
-                                <ul>
-                                    <li>The deal remains unaffected by price variations</li>
-                                    <li>Sellers can confidently price services</li>
-                                    <li>The amount of investment remains clear to both buyers and sellers when they make a transaction</li>
-                                    <li>Brokers have fixed commission estimates</li>
-                                    <li>Businesses have cleaner financial records</li>
-                                    <li>Businesses have cleaner financial records</li>
-                                </ul>
-                                <p></p>
+                                <ol>
+                                    <li>The first thing you need to do is to open an account on Escrowly.com</li>
+                                    <li>Then, you should select the “Milestone Transaction” option when creating a new deal</li>
+                                    <li>The setup process for each milestone requires defining its title, payment amount, deadline, and deliverables</li>
+                                    <li>The parties involved agree and accept the escrow agreement between them</li>
+                                    <li>The buyer sends the entire funds as USDT or USDC tokens</li>
+                                    <li>Funds are held securely and disbursed step-by-step after verification</li>
+                                </ol>
+                                <p>To determine your milestone fee costs, you can use our all-inclusive Fee Calculator feature</p>
 
 
 
