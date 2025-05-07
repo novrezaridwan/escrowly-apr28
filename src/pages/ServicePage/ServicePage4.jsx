@@ -73,13 +73,13 @@ const ServicePage4 = () => (
                                 <h6>6. Crypto Escrow for High Net-Worth Domain Names or Premium Domain Names</h6>
                                 <p>Domain Investors selling domain names to third parties who wanted to pay in few months or a year until the domain name is transferred to that party and all payments are completed.</p>
                                 <h3>How It Works: Escrowly Milestone Escrow</h3>
-                                <p><strong>1. Create the Milestone Agreement</strong></p>
+                                <h6>1. Create the Milestone Agreement</h6>
                                 <p>The buyer and seller collaborate to establish project terms as they break the work down into separate observable stages. Every payment amount corresponds to a designated stage.</p>
-                                <p><strong>2. Deposit Funds in Escrow Wallet</strong></p>
+                                <h6>2. Deposit Funds in Escrow Wallet</h6>
                                 <p>The buyer makes a full payment in USDT or USDC which goes into Escrowly’s secure crypto escrow wallet. The escrow system protects the seller because it confirms that payment funds remain accessible.</p>
-                                <p><strong>3. Release Funds Upon Completion</strong></p>
+                                <h6>3. Release Funds Upon Completion</h6>
                                 <p>Escrowly executes the release of payments only following milestone completions that achieve seller agreement. The dispute resolution system run by Escrowly will intervene in the event of any disagreement.</p>
-                                <p><strong>4. Final Disbursement</strong></p>
+                                <h6>4. Final Disbursement</h6>
                                 <p>The final amount of funds will be dispersed after all agreed-upon milestones get accepted. The entire process rests under the protection of escrow smart contracts that operate via crypto technology.</p>
                                 <h3>Major Benefits of Milestone Transactions on Escrowly</h3>
                                 <p>The main advantages of milestone transactions available on Escrowly include:</p>
