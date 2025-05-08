@@ -93,15 +93,19 @@ const ServicePage6 = () => (
                                 </ul>
                                 <h3>Escrowly.com vs. Traditional Escrow</h3>
                                 <h6>Escrowly.com Features:</h6>
-                                <p><strong>Fiat Support:</strong>No</p>
-                                <p><strong>Crypto-Native:</strong>Yes</p>
-                                <p><strong>Stablecoin Use:</strong>USDT - USDC</p>
-                                <p><strong>Blockchain Transparency:</strong>Fully</p>
-                                <p><strong>Global Compatibility:</strong>Yes</p>
-                                <p><strong>Fast Settlement:</strong>Immediately</p>
-
-
-                                
+                                <p><strong>Crypto-Native:</strong> YES</p>
+                                <p><strong>Stablecoin Use:</strong> USDT - USDC</p>
+                                <p><strong>Blockchain Transparency:</strong> FULLY</p>
+                                <p><strong>Global Compatibility:</strong> YES</p>
+                                <p><strong>Fast Settlement:</strong> Immediately</p>
+                                <p><strong>Fiat Support:</strong> NO</p>
+                                <h6>Traditional Escrow Features:</h6>
+                                <p><strong>Crypto-Native:</strong> NO</p>
+                                <p><strong>Stablecoin Use:</strong>NO or LIMITED</p>
+                                <p><strong>Blockchain Transparency:</strong> NO</p>
+                                <p><strong>Global Compatibility:</strong> LIMITED</p>
+                                <p><strong>Fast Settlement:</strong> DELAYED</p>
+                                <p><strong>Fiat Support:</strong> YES</p>
                                 <h3>Testimonials</h3>
                                 <ul>
                                     <li><em>“Escrowly gave me peace of mind during a $250k equity deal in a DeFi protocol.” – Sandra, Venture Capitalist</em></li>
