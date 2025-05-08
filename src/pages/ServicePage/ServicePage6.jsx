@@ -91,19 +91,15 @@ const ServicePage6 = () => (
                                     <li>KYC/AML Compliance: Escrowly is registered with FinCEN as a Money Services Business, providing legitimacy and compliance assurance.</li>
                                     <li>Fully Crypto Ecosystem: No fiat, only USDT and USDC, eliminating volatility.</li>
                                 </ul>
-
-
-
-                                <h3>Why Use Escrowly for Stock & Investment Transactions?</h3>
+                                <h3>Testimonials</h3>
                                 <ul>
-                                    <li>Fraud Protection – Ensures that funds are only released when investment terms are met.</li>
-                                    <li>Regulated & Secure – Provides a legally compliant and transparent process for stock purchases and investments.</li>
-                                    <li>Investor Confidence – Buyers can verify assets before releasing payments.</li>
-                                    <li>Seller Security – Guarantees that sellers receive funds upon successful transaction completion.</li>
-                                    <li>Versatile Transactions – Suitable for stock purchases, startup investments, venture capital deals, and more.</li>
-                                    <li>Crypto Payments Accepted – Conduct secure investment transactions using cryptocurrency.</li>
+                                    <li>“Escrowly gave me peace of mind during a $250k equity deal in a DeFi protocol.” – Sandra, Venture Capitalist</li>
+                                    <li>“As a broker, I use Escrowly’s smart contract escrow to manage every investment round safely.” – Ahmed, Crypto Investment Broker</li>
+                                    <li>“Using USDC in a fully regulated platform like Escrowly was a game changer for my cross-border deals.” – Natalia, Angel Investor</li>
                                 </ul>
-                                <p>Whether you are an investor, business owner, or financial professional, Escrowly provides the safest way to conduct stock and investment transactions. Secure your assets and investments with confidence—get started today!</p>
+                                <h3>Frequently Asked Questions</h3>
+                                <p></p>
+                                
                                 
                                 <Button 
                                     url="#get-started"
