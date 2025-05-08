@@ -15,12 +15,12 @@ import Innovate from "../../sections/Innovate/Innovate";
 const ServicePage6 = () => (
     <>
         <Helmet>
-            <title>Best Crypto Escrow - Escrowly</title>
-            <meta name="description" content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders." />
-            <meta name="keywords" content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate" />
+            <title>Crypto Investment & Stock Escrow for Startups and Equity Deals | Escrowly.com</title>
+            <meta name="description" content="Safeguard your startup investments, pre IPO funding, and equity deals with Escrowly’s USDT & USDC crypto escrow platform. Protect capital with milestone based releases and global acceptance." />
+            <meta name="keywords" content="crypto investment escrow, stock escrow crypto, startup funding escrow, pre-IPO crypto escrow, equity investment crypto, milestone escrow service, tokenized equity escrow, DeFi investment escrow, cross-border crypto escrow, USDT escrow for investments, USDC equity escrow, secure blockchain investments, Escrowly escrow service" />
             <meta name="author" content="Escrowly Crypto Escrow Team" />
-            <meta property="og:title" content="Escrowly – Buy & Sell Online Safely with Crypto" />
-            <meta property="og:description" content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets." />
+            <meta property="og:title" content="Secure Crypto Escrow for Investments & Equity Deals | Escrowly.com" />
+            <meta property="og:description" content="Invest with confidence using Escrowly’s crypto-native escrow system. Perfect for venture capital, startup funding, DeFi, and tokenized equity transactions." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
             <meta property="og:url" content="https://escrowly.com" />
             <meta name="twitter:card" content="summary_large_image" />
@@ -31,18 +31,18 @@ const ServicePage6 = () => (
                     breadcrumbs={[
                         { title: "Home", url: "/" },
                         { title: "Escrowly Services", url: "/escrowly-services" },
-                        { title: "Stock & Investment Escrow   ", url: "/secure-domain" },
+                        { title: "Stock & Investment Escrow", url: "/secure-domain" },
                     ]}
                 />  
                 <section className="section-service-page">
                     <div className="container">
                         <SectionHeader 
-                            label="Stock & Investment Escrow  "
-                            title="Secure Stock & Investment Transactions with Escrowly"
+                            label="Stock & Investment Escrow"
+                            title="Secure Stock & Investment Transactions with Escrowly.com"
                             className="centered"
                         />
-                        <p className="service-page-description">Escrowly provides a trusted and transparent escrow service for stock and investment transactions. Whether you are buying shares, investing in a startup, or engaging in private equity deals, our escrow system ensures that funds and assets are securely held until all agreed-upon conditions are met.</p>
-                        <img className="service-page-image" src="/images/service-page-6.jpg" alt="" />
+                        <p className="service-page-description">High-stakes investing poses significant risks because even one wrong decision could result in losing thousands and possibly millions. Escrowly presents a fully crypto-native escrow platform that safeguards your capital during these investment choices: startup funding, pre-IPO investment and blockchain company equity acquisition. The platform achieves trust in worldwide investment deals by handling only Stablecoin transactions between USDT and USDC while eliminating volatility and reducing uncertainty and fraud risks.</p>
+                        <img className="service-page-image" src="/images/service-page-6.jpg" alt="Secure Stock & Investment Transactions with Escrowly" />
                         <div className="service-page-content row">
                             <div className="col col-left">
                                 <h3>What is Stock & Investment Escrow?</h3>
