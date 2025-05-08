@@ -97,10 +97,17 @@ const ServicePage6 = () => (
                                     <li>“As a broker, I use Escrowly’s smart contract escrow to manage every investment round safely.” – Ahmed, Crypto Investment Broker</li>
                                     <li>“Using USDC in a fully regulated platform like Escrowly was a game changer for my cross-border deals.” – Natalia, Angel Investor</li>
                                 </ul>
-                                <h3>Frequently Asked Questions</h3>
-                                <p></p>
-                                
-                                
+                                <h3>Some Frequently Asked Questions</h3>
+                                <p><strong>Q: Is Escrowly available for international transactions?</strong></p>
+                                <p>A: Yes! We offer secure crypto escrow for ICO and investment deals worldwide, supporting cross-border crypto escrow in stablecoins.</p>
+                                <p><strong>Q: How does Escrowly protect my crypto investment?</strong></p>
+                                <p>A: Funds are held in escrow smart contracts crypto or escrow wallets and only released upon verification of conditions.</p>
+                                <p><strong>Q: Can Escrowly integrate with my platform?</strong></p>
+                                <p>A: Yes! With Escrowly API, you can integrate secure escrow services into your website or investment portal easily.</p>
+                                <h3>Are You Ready to Secure Your Next Investment?</h3>
+                                <p>Whether you are investing in digital assets, startup equity, or facilitating a merger, Escrowly is your reliable partner for blockchain escrow service. We have revolutionized how capital flows in the crypto space, one secure transaction at a time.</p>
+                                <p>Sign up now to protect your next big investment, or contact our team for tailored brokerage and escrow solutions.</p>
+
                                 <Button 
                                     url="#get-started"
                                     text="Get Started Now"
