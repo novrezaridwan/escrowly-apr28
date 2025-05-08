@@ -42,20 +42,41 @@ const ServicePage6 = () => (
                             className="centered"
                         />
                         <p className="service-page-description">High-stakes investing poses significant risks because even one wrong decision could result in losing thousands and possibly millions. Escrowly presents a fully crypto-native escrow platform that safeguards your capital during these investment choices: startup funding, pre-IPO investment and blockchain company equity acquisition. The platform achieves trust in worldwide investment deals by handling only Stablecoin transactions between USDT and USDC while eliminating volatility and reducing uncertainty and fraud risks.</p>
-                        <img className="service-page-image" src="/images/service-page-6.jpg" alt="Secure Stock & Investment Transactions with Escrowly" />
+                        <img className="service-page-image" src="/images/stock-investment-escrow-01.jpg" alt="Secure Stock & Investment Transactions with Escrowly" />
                         <div className="service-page-content row">
                             <div className="col col-left">
                                 <h3>What is Stock & Investment Escrow?</h3>
-                                <p>Investing in stocks, private equity, or other financial instruments involves significant risk, including fraud and default. Escrowly acts as a neutral third party to safeguard both buyers and sellers, ensuring compliance with the transaction terms before releasing funds or shares.</p>
-                                <p>With Escrowly, investors and businesses can engage in secure transactions without the worry of disputes, unauthorized transfers, or unfulfilled agreements.</p>
-                                <h3>How It Works</h3>
+                                <p>Stock and investment escrow are a financial arrangement where an independent third-party (Escrowly) holds funds during an investment transaction. This crypto escrow service is designed to safeguard both investors and recipients, releasing funds only when agreed-upon milestones or terms are met. From seed funding rounds to cross-border investment opportunities, Escrowly ensures every party honors their end of the bargain.</p>
+                                <p>Whether you are dealing with tokenized equity, corporate shares, or blockchain-based investment products, Escrowly is your secure crypto escrow platform built to serve modern investment demands.</p>
+                                <h3>Why Use Escrowly for Stock & Investment Deals?</h3>
+                                <p>Escrowly isn’t just another conventional escrow. As a decentralized escrow service, our platform was built from the ground up with blockchain in mind. Here's why savvy investors and businesses choose Escrowly:</p>
+                                <h6>1. Crypto-Native Infrastructure</h6>
+                                <p>Escrowly was engineered specifically for secure crypto transactions. We don’t retrofit traditional systems to work with digital currencies—we created a purpose-built ecosystem for crypto escrow for businesses, investors, and entrepreneurs. Whether you're transferring USDT for startup equity or USDC for convertible notes, Escrowly ensures frictionless, secure operations.</p>
+                                <h6>2. Protection from Irreversible Crypto Payments</h6>
+                                <p>Crypto payments are irreversible, making fraud prevention crucial. Escrowly's crypto payment protection escrow holds the funds until every term is verified. This mitigates risk in a space where there are no chargebacks or second chances.</p>
+                                <h6>3. Milestone-Based Flexibility</h6>
+                                <p>Some investment deals unfold over stages. Escrowly supports milestone transactions, where funds are disbursed as each development phase is completed. Whether it's a prototype delivery or regulatory approval, Escrowly provides escrow smart contracts crypto functionality to release funds upon success.</p>
+                                <h6>4. Global Investment Compatibility</h6>
+                                <p>Get ready to invest from anywhere in the world. Escrowly supports cross-border crypto escrow, making it ideal for international VC firms, angel investors, or blockchain founders. Whether you're in Singapore or Silicon Valley, you can safely execute escrow for international business deals with ease.</p>
+                                <h3>Who Needs a Crypto Investment Escrow?</h3>
+                                <p>Escrowly is suitable for:</p>
                                 <ol>
-                                    <li>Buyer and Seller Agree on Terms – Both parties define transaction details, including investment terms, share transfers, and payment conditions.</li>
-                                    <li>Buyer Deposits Funds with Escrowly – The buyer securely deposits the investment amount into escrow.</li>
-                                    <li>Seller Transfers Shares or Assets – The seller provides the agreed-upon shares, securities, or investment agreements.</li>
-                                    <li>Buyer Reviews and Confirms – The buyer verifies the assets or shares meet the agreed-upon terms.</li>
-                                    <li>Escrowly Releases Funds to Seller – Once the buyer confirms, the seller receives the payment securely.</li>
+                                    <li>Private equity investors funding a blockchain startup</li>
+                                    <li>Broker-dealers managing investments in decentralized projects</li>
+                                    <li>Angel investors seeking protection while buying tokenized equity</li>
+                                    <li>Crypto hedge funds pooling capital for high-yield DeFi ventures</li>
+                                    <li>Startups and businesses raising capital through secure, verifiable processes</li>
                                 </ol>
+                                <p>We also serve those engaging in:</p>
+                                <ol>
+                                    <li>Escrow for corporate mergers</li>
+                                    <li>Escrow for professional sports contracts</li>
+                                    <li>Escrow for franchise business purchases</li>
+                                    <li>Escrow for business acquisitions</li>
+                                </ol>
+                                <h3>Use Cases for Investment Escrow</h3>
+
+
                                 <h3>Why Use Escrowly for Stock & Investment Transactions?</h3>
                                 <ul>
                                     <li>Fraud Protection – Ensures that funds are only released when investment terms are met.</li>
