@@ -51,13 +51,13 @@ const ServicePage8 = () => (
                                 <h3>Why Escrowly.com is a Game-Changer in Real Estate</h3>
                                 <p>Escrowly is not just another digital platform; it is the pioneer of fully crypto-native escrow services. Unlike conventional services that regard crypto as an afterthought, Escrowly was built for crypto by crypto experts. Here is why that matters for your next property deal:</p>
                                 <ol>
-                                    <li><strong>Establish Terms</strong> – Buyer and seller agree on transaction details, including contract terms and conditions.</li>
-                                    <li><strong>Secure Payment with Escrowly</strong> – The buyer deposits funds into Escrowly’s secure escrow account.</li>
-                                    <li><strong>Legal Processing & Inspections</strong> – Documentation is verified, and property inspections are completed.</li>
-                                    <li><strong>Final Approval & Closing</strong> – Once all terms are met, the buyer confirms the transaction.</li>
-                                    <li><strong>Funds Released by Escrowly</strong> – The payment is securely transferred to the seller, completing the transaction.</li>
+                                    <li><strong>Only USDT and USDC are accepted - no volatile cryptocurrencies</strong></li>
+                                    <li><strong>Registered with FinCEN and compliant as a Money Services Business</strong></li>
+                                    <li><strong>Lightning-fast fund releases upon contract fulfillment</strong></li>
+                                    <li><strong>Designed for crypto escrow for businesses and individual clients</strong></li>
+                                    <li><strong>Full support for escrow for real estate closings and land and property auctions</strong></li>
                                 </ol>
-                                <h3>Why Choose Escrowly for Real Estate?</h3>
+                                <h3>Types of Real Estate Transactions Supported</h3>
                                 <ul>
                                     <li>Fraud Protection – Payments are held securely and only released when all contractual conditions are satisfied.</li>
                                     <li>Secure Fund Holding – Escrowly acts as a trusted intermediary, keeping funds safe throughout the transaction process.</li>
