@@ -71,17 +71,22 @@ const ServicePage8 = () => (
                                 <p>Are you purchasing a franchise location or commercial real estate? Escrowly handles escrow for business acquisitions and property sales with ease and security.</p>
                                 <h3>Step-by-Step Breakdown of Crypto Escrow for Real Estate</h3>
                                 <p>Using Escrowly for real estate transactions is incredibly straightforward:</p>
-
-
                                 <ol>
                                     <li><strong>Initiate the Deal:</strong> The buyer and seller agree on terms, and a broker can also be added.</li>
-                                    <li>Secure Fund Holding – Escrowly acts as a trusted intermediary, keeping funds safe throughout the transaction process.</li>
-                                    <li>Transparency & Trust – Buyers and sellers can confidently complete transactions without fear of disputes or scams.</li>
-                                    <li>Legal & Contract Compliance – Escrowly ensures all documentation is properly processed, reducing the risk of legal complications.</li>
-                                    <li>Crypto-Friendly Transactions – In addition to traditional payment methods, Escrowly supports cryptocurrency payments for modern and secure transactions.</li>
+                                    <li><strong>Deposit Stablecoins:</strong>Buyer sends USDT or USDC to Escrowly's wallet.</li>
+                                    <li><strong>Verify & Complete Conditions:</strong>Title deeds, inspections, and legal steps are fulfilled.</li>
+                                    <li><strong>Funds Release:</strong>Escrowly releases funds to the seller once all steps are verified.</li>
+                                    <li><strong>Deal Done:</strong>Everyone walks away satisfied and secured by blockchain and trust.</li>
                                 </ol>
-                                <h3>Make Your Real Estate Transactions Hassle-Free with Escrowly</h3>
-                                <p>Whether you’re purchasing a home, selling commercial property, or investing in real estate, Escrowly provides a seamless and secure process. With Escrowly, you can eliminate uncertainty and conduct your transaction with confidence. Get started today and experience a smarter way to buy and sell real estate!</p>
+                                <p>This system is perfect for escrow for corporate mergers, land acquisition, and property transfers using crypto.</p>
+                                <h3>Escrowly for Real Estate Agents and Brokers</h3>
+                                <p>If you are a real estate agent, broker, or investment firm, Escrowly helps facilitate high-value deals through our escrow smart contracts crypto system. Brokers can now oversee deals without holding funds, ensuring full transparency and compliance.</p>
+                                <p>The Escrowly API also allows platforms and real estate marketplaces to embed crypto escrow services directly into their websites, opening up escrow for online marketplace transactions.</p>
+                                <h3>Say Goodbye to Volatility and Fraud</h3>
+                                <p>Traditional escrow services often come with unexpected delays, fees, and bureaucracy. Worse, using volatile coins like ETH or BTC can expose your funds to wild market fluctuations. With Escrowly, your transactions are handled in Stablecoins only (USDT and USDC), ensuring secure crypto escrow for ICO and property sales alike.</p>
+                                <p>Additionally, our platform is designed to prevent fraud, with features like:</p>
+
+
                                 
                                 <Button 
                                     url="#get-started"
