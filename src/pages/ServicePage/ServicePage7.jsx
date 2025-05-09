@@ -109,12 +109,31 @@ const ServicePage7 = () => (
                                 <h6>Stablecoin-Only</h6>
                                 <p>We use USDT and USDC exclusively to remove price volatility and protect both parties.</p>
                                 <h6>FinCEN-Registered</h6>
-                                <p>Escrowly is a fully registered Money Services Business (MSB) with FinCEN <a href="https://www.fincen.gov" target="_blank" rel="noopener noreferrer"> (fincen.gov) </a>, ensuring compliance and professionalism.</p>
+                                <p>Escrowly is a fully registered Money Services Business (MSB) with FinCEN (fincen.gov), ensuring compliance and professionalism.</p>
                                 <h6>Smart Contract Escrow</h6>
                                 <p>This crypto escrow service platform is fully auditable, automated, and has tamper-proof escrow smart contracts crypto features you can rely on.</p>
                                 <h6>Escrowly API for Businesses</h6>
                                 <p>You can seamlessly plug Escrowly into your luxury goods e-commerce store, crypto marketplace, or brokerage platform with our Escrowly API.</p>
-
+                                <h3>Best Practices When Using Crypto Escrow for Luxury Items</h3>
+                                <p>When you are dealing with high-value transactions, it pays to play smart. Here are some expert best practices to make the most of Escrowly:</p>
+                                <h6>1. Verify All Parties</h6>
+                                <p>Before engaging in any luxury crypto deal, you should ensure the buyer, seller, or broker is reputable. Escrowly’s platform reduces risk, but it is still a good idea to vet your partners.</p>
+                                <h6>2. Agree on Specific Terms</h6>
+                                <p>You should lay out your expectations clearly:</p>
+                                <ol>
+                                    <li>Condition of the item</li>
+                                    <li>Shipping method and carrier</li>
+                                    <li>Inspection period duration</li>
+                                    <li>Return/refund policies (if any)</li>
+                                    <li>Fees and who pays them</li>
+                                </ol>
+                                <p>These can be included in the custom terms section of the Escrowly agreement.</p>
+                                <h6>3. Use Approved Carriers</h6>
+                                <p>You must make sure to always ship high-value items via Escrowly-approved carriers with tracking, insurance, and delivery confirmation. It is the best way to back up your claims in case of disputes.</p>
+                                <h6>4. Always Use USDT or USDC</h6>
+                                <p>Escrowly doesn’t accept Bitcoin, Ethereum, or volatile altcoins. Using stablecoins ensures your luxury item isn’t subject to price swings or delays caused by network congestion.</p>
+                                <h6>5. Stick to the Inspection Period</h6>
+                                <p>Buyers should scrutinize items and confirm satisfaction within the agreed window. Escrowly releases funds automatically at the end of this period if no issues are reported.</p>
 
 
                                 
