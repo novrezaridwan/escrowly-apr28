@@ -69,14 +69,17 @@ const ServicePage8 = () => (
                                 <p>Escrowly is ideal for cross-border crypto escrow, removing currency exchange hassles and providing trust in international property deals where traditional banking fails.</p>
                                 <h6>5. Escrow for Franchise Business Purchases</h6>
                                 <p>Are you purchasing a franchise location or commercial real estate? Escrowly handles escrow for business acquisitions and property sales with ease and security.</p>
+                                <h3>Step-by-Step Breakdown of Crypto Escrow for Real Estate</h3>
+                                <p>Using Escrowly for real estate transactions is incredibly straightforward:</p>
 
-                                <ul>
-                                    <li>Fraud Protection – Payments are held securely and only released when all contractual conditions are satisfied.</li>
+
+                                <ol>
+                                    <li><strong>Initiate the Deal:</strong> The buyer and seller agree on terms, and a broker can also be added.</li>
                                     <li>Secure Fund Holding – Escrowly acts as a trusted intermediary, keeping funds safe throughout the transaction process.</li>
                                     <li>Transparency & Trust – Buyers and sellers can confidently complete transactions without fear of disputes or scams.</li>
                                     <li>Legal & Contract Compliance – Escrowly ensures all documentation is properly processed, reducing the risk of legal complications.</li>
                                     <li>Crypto-Friendly Transactions – In addition to traditional payment methods, Escrowly supports cryptocurrency payments for modern and secure transactions.</li>
-                                </ul>
+                                </ol>
                                 <h3>Make Your Real Estate Transactions Hassle-Free with Escrowly</h3>
                                 <p>Whether you’re purchasing a home, selling commercial property, or investing in real estate, Escrowly provides a seamless and secure process. With Escrowly, you can eliminate uncertainty and conduct your transaction with confidence. Get started today and experience a smarter way to buy and sell real estate!</p>
                                 
