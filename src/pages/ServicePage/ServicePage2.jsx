@@ -49,7 +49,7 @@ const ServicePage2 = () => (
                                 <h6>What is a Crypto Escrow Service?</h6>
                                 <p>A crypto escrow service is a secure mechanism built to safeguard all parties in crypto transactions. It involves a reliable third party or a smart contract that keeps the digital assets in escrow until the terms of the agreement are met. The main purpose of a crypto escrow service is to reduce the risks associated with fraudulent activities or non-fulfillment of contractual obligations.</p>
                                 <p>For example, if you want to buy some Bitcoin, the first phase of the <strong>crypto escrow service</strong> is to hold the funds from you (the buyer) in escrow. Once the vendor (the seller) produces the agreed-upon quantity of digital currencies, the crypto escrow service releases the payment. This mechanism guarantees that all parties are satisfied, creating a safe and reliable transaction environment.</p>
-                                <h4>Why do you need a Crypto Escrow Service?</h4>
+                                <h6>Why do you need a Crypto Escrow Service?</h6>
                                 <p></p>
                                 <p>The irreversible nature of blockchain transactions has birthed the need for <strong>crypto escrow services</strong>. Unlike conventional methods of payment, crypto transactions cannot be reversed once completed. This trait increases the demand for a crypto escrow service for high-value transactions, making sure that neither the buyer nor the seller can flee with the funds before meeting their end of the deal.</p>
                                 <p>The major roles of a crypto escrow service are:</p>
@@ -59,8 +59,7 @@ const ServicePage2 = () => (
                                     <li><strong>Trust Cultivation:</strong> Individuals and businesses that engage in digital assets are more confident when there is a crypto escrow service to protect their funds.</li>
                                 </ol>
                                 <p>For instance, freelancers are often known to accept cryptocurrencies as payment for their services. With the aid of a crypto escrow service, they can receive payment after they have delivered the work as per the agreed terms.</p>
-                                <h4>The Increasing Demand for Crypto Escrow Services</h4>
-                                <p></p>
+                                <h6>The Increasing Demand for Crypto Escrow Services</h6>
                                 <p>Crypto escrow services are gaining popularity thanks to the record-breaking adoption of cryptocurrencies across several industries. These are some of the reasons why industries are searching for a crypto escrow service:</p>
                                 <ol>
                                     <li><strong>Increasing Cryptocurrency Adoption:</strong> With most of the world employing cryptocurrencies for transactions, there is a significant demand for trust and security.</li>
@@ -71,8 +70,7 @@ const ServicePage2 = () => (
                                 <p>The use of crypto escrow services is prevalent in peer-to-peer (P2P) transactions, where parties exchange crypto directly. Without a crypto escrow service, the buyer stands a chance of losing money if the seller defaults on their promise, and vice versa. With the evolution of the crypto industry, crypto escrow services will be key players in safeguarding exchanges and building trust.</p>
                                 <h3>How Does a Crypto Escrow Service Work?</h3>
                                 <p>Blockchain transactions have their fair share of risks, especially when the parties of an exchange are unknown. A crypto escrow service serves as a ‘safe space’ that keeps the funds until the terms of an agreement are met. This mechanism offers security, trust, and openness, qualities that are highly sought after in every crypto transaction.</p>
-                                <h4>Who Are The Key Players in a Crypto Escrow Transaction?</h4>
-                                <p></p>
+                                <h6>Who Are The Key Players in a Crypto Escrow Transaction?</h6>
                                 <p>A <strong>crypto escrow service</strong> involves several shareholders, each of whom plays a major role in ensuring a safe and seamless transaction. They are:</p>
                                 <ol>
                                     <li><strong>Buyer</strong>: This entity is the one purchasing the cryptocurrency.</li>
@@ -80,8 +78,7 @@ const ServicePage2 = () => (
                                     <li><strong>Escrow Provider</strong>: A trusted entity, which can be either a third-party service or a smart contract, that keeps the funds until the conditions of the agreement are fulfilled.</li>
                                 </ol>
                                 <p>The relationship among these parties makes sure that the funds are only released when both the buyer and the seller keep to the stipulated conditions.</p>
-                                <h4>Step-by-Step Process of a Crypto Escrow Service</h4>
-                                <p></p>
+                                <h6>Step-by-Step Process of a Crypto Escrow Service</h6>
                                 <p>For a crypto escrow service to function properly, there must be an organized workflow to ensure security and transparency.</p>
                                 <ol>
                                     <li><strong>Mutual Agreement between Interested Parties:</strong> Both entities need to come to an agreement on the terms of the exchange, including the price, the timeframe, and other details that must be met before funds are transferred.</li>
@@ -92,11 +89,9 @@ const ServicePage2 = () => (
                                     <li><strong>Disbursement of Funds:</strong> Once both the buyer and the seller confirm that the terms of the contract are met, the escrow provider then releases the funds to the seller, completing the transaction.</li>
                                     <li><strong>Dispute Resolution:</strong> In the event of a disagreement, the escrow provider manages the situation by mediating and deciding the fair outcome based on the evidence provided.</li>
                                 </ol>
-                                <h4>The Role of Smart Contracts in a Crypto Escrow Service</h4>
-                                <p></p>
+                                <h6>The Role of Smart Contracts in a Crypto Escrow Service</h6>
                                 <p>Smart contracts are advancing crypto escrow services with automated transactions and eliminating the need for middlemen. Created with blockchain technology, smart contracts automatically implement agreements when the stipulated conditions are met.</p>
-                                <h4>How Do Smart Contracts Improve Crypto Escrow Services</h4>
-                                <p></p>
+                                <h6>How Do Smart Contracts Improve Crypto Escrow Services</h6>
                                 <ol>
                                     <li><strong>Trustless Exchanges:</strong> Since smart contracts automatically execute, users do not have to depend on a third party to process transfers.</li>
                                     <li><strong>Transparent:</strong> Smart contracts are built on the blockchain, leading them to be foolproof and publicly confirmable.</li>
