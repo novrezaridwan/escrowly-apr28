@@ -123,7 +123,7 @@ const ServicePage = () => (
                                 <p>You can integrate Escrowly directly into your platform using our developer-friendly API, allowing your users to benefit from secure crypto escrow for businesses in every domain deal. Whether you are running a domain marketplace, a SaaS solution, or a white-label crypto service, Escrowly’s API scales with you.</p>
                                 <h3>Escrowly - A Better Way to Trade Domain Names</h3>
                                 <p>Whether you're a solo entrepreneur buying your first domain or a crypto broker managing high-value transfers, Escrowly is your answer to safe, stable, and trustless transactions. Our decentralized escrow service bridges the gap between irreversible crypto payments and peace-of-mind exchanges.</p>
-                                <h6>Ditch the Risk. Escrow the smart way - with Escrowly.</h6>
+                                <h6>Ditch the Risk. Escrow the smart way - only with Escrowly.com</h6>
                                 <Button 
                                     url="#get-started"
                                     text="Get Started Now"

@@ -16,9 +16,9 @@ const Footer = () => {
                                 <img src="/img/logo.svg" alt="Escrowly Logo" />
                             </a>
                             <p>The Global Leader In Online Crypto Escrow.</p>
-                            <a href="tel:+4805550103" className="phone">
+                            <a href="tel:+13024448419" className="phone">
                                 <img src="/img/icon-phone.svg" alt="Phone Icon" />
-                                +(480) 555-0103
+                                +(302) 444-8419
                             </a>
                             <LanguageDropdown />
                         </div>
@@ -34,7 +34,7 @@ const Footer = () => {
                     <div className="col footer-col-3">
                         <ul className="footer-menu">
                             <li>
-                                <a href="/services">Escrowly Services</a>
+                                <a href="#">Escrowly Services</a>
                                 <ul>
                                     <li><Link to="/crypto-escrow-services">Crypto Escrow Services</Link></li>
                                     <li><Link to="/service-page">Domain Name Escrow</Link></li>
