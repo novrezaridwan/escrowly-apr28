@@ -18,7 +18,7 @@ const Footer = () => {
                             <p>The Global Leader In Online Crypto Escrow.</p>
                             <a href="tel:+13024448419" className="phone">
                                 <img src="/img/icon-phone.svg" alt="Phone Icon" />
-                                +(302) 444-8419
+                                +1 (302) 444-8419
                             </a>
                             <LanguageDropdown />
                         </div>
@@ -51,7 +51,7 @@ const Footer = () => {
                     <div className="col footer-col-4">
                         <ul className="footer-menu">
                             <li>
-                                <a href="#url">Support</a>
+                                <a href="#">Support</a>
                                 <ul>
                                     <li><Link to="/payment-options">Payment Options</Link></li>
                                     <li><Link to="/approved-carriers">Approved Carriers</Link></li>
@@ -65,7 +65,7 @@ const Footer = () => {
                     <div className="col footer-col-5">
                         <ul className="footer-menu">
                             <li>
-                                <a href="#url">Partners</a>
+                                <a href="#">Partners</a>
                                 <ul>
                                     <li><Link to="/get-started">Get Started</Link></li>
                                     <li><Link to="/our-partners">Our Partners</Link></li>
@@ -78,7 +78,7 @@ const Footer = () => {
                     <div className="col footer-col-6">
                         <ul className="footer-menu">
                             <li>
-                                <a href="#url">Policies</a>
+                                <a href="#">Policies</a>
                                 <ul>
                                     <li><Link to="/privacy-policy">Privacy Policy</Link></li>
                                     <li><Link to="/aml-kyc-policy">AML & KYC Policy</Link></li>
