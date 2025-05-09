@@ -85,8 +85,37 @@ const ServicePage8 = () => (
                                 <h3>Say Goodbye to Volatility and Fraud</h3>
                                 <p>Traditional escrow services often come with unexpected delays, fees, and bureaucracy. Worse, using volatile coins like ETH or BTC can expose your funds to wild market fluctuations. With Escrowly, your transactions are handled in Stablecoins only (USDT and USDC), ensuring secure crypto escrow for ICO and property sales alike.</p>
                                 <p>Additionally, our platform is designed to prevent fraud, with features like:</p>
-
-
+                                <ol>
+                                    <li>Identity Verification</li>
+                                    <li>Automated Smart Contract escrow</li>
+                                    <li>Dispute Resolution</li>
+                                    <li>Encrypted Transactions</li>
+                                    <li>Full Transparency with Blockchain Logs</li>
+                                </ol>
+                                <p>This makes it ideal for escrow for car dealership payments, precious metals, and especially real estate transactions where trust is critical.</p>
+                                <h3>Who Can Use Escrowly Real Estate Services?</h3>
+                                <p>Escrowly’s real estate escrow service is designed for:</p>
+                                <ul>
+                                    <li>a. Real Estate Investors</li>
+                                    <li>b. First-Time Buyers Using Crypto</li>
+                                    <li>c. Landlords Accepting Crypto Deposits</li>
+                                    <li>d. International Property Buyers</li>
+                                    <li>e. Real Estate Brokers and Agents</li>
+                                    <li>f. Escrow for Property Auctions and High-Value Goods</li>
+                                </ul>
+                                <p>Whether you are closing on a downtown apartment or purchasing farmland abroad, Escrowly simplifies the process.</p>
+                                <h3>The Future of Property Payments Is Crypto</h3>
+                                <p>In the coming years, more and more buyers will demand crypto payment protection escrow, and real estate professionals must adapt. Escrowly is ahead of the curve, supporting:</p>
+                                <ol>
+                                    <li>Escrow for Property Sales</li>
+                                    <li>Escrow for E-commerce Store Real Estate</li>
+                                    <li>Escrow for Machinery and Heavy Equipment Attached to Land</li>
+                                    <li>Escrow for Industrial Equipment Purchases Tied to Commercial Lots</li>
+                                </ol>
+                                <p>We are not just a payment processor; we are your partner in secure real estate crypto transactions.</p>
+                                <h3>Final Thoughts</h3>
+                                <p>As the first fully crypto-native escrow platform, Escrowly is setting new standards for trust, speed, and transparency in real estate transactions. With support for USDT, USDC, and a user-friendly interface, you can now buy or sell property from anywhere in the world without fear.</p>
+                                <p><strong>Say goodbye to wire delays, fiat complications, and middlemen. Say hello to Escrowly—the future of real estate, powered by crypto</strong></p>
                                 
                                 <Button 
                                     url="#get-started"
