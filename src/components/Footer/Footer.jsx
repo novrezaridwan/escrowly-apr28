@@ -17,7 +17,7 @@ const Footer = () => {
                             </a>
                             <p>The Global Leader In Online Crypto Escrow.</p>
                             <a href="tel:+13024448419" className="phone">
-                                <img src="/img/icon-phone.svg" alt="Phone Icon" />
+                                <img src="/img/icon-phone.svg" alt="Escrowly Phone Icon" />
                                 +1 (302) 444-8419
                             </a>
                             <LanguageDropdown />
