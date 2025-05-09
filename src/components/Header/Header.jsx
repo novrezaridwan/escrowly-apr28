@@ -229,7 +229,7 @@ const Header = ({ className }) => {
                             <li><Link to="/services">Escrowly Services</Link></li>
                             <li><Link to="/api-documentation">API Documentation</Link></li>
                         </ul>
-                        <a href="tel:+4805550103" className="phone"><img src="/img/icon-phone.svg" alt="" />+(480) 555-0103</a>
+                        <a href="tel:+13024448419" className="phone"><img src="/img/icon-phone.svg" alt="" />+1 (302) 444-8419</a>
                         <LanguageDropdown dark={className === "header-dark"} />
                         <ul className="menu-social-icons">
                             <li><a href="#instagram"><img src="/img/social-icon-instagram.svg" alt="" /></a></li>
