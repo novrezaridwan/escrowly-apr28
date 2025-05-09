@@ -48,18 +48,18 @@ const ServicePage5 = () => (
                                 <h3>What Are Online Goods and Digital Items?</h3>
                                 <p>Online goods and digital items describe all electronically delivered products and services that remain untouched by physical handling. These include:</p>
                                 <ol>
-                                    <li>Software and applications</li>
-                                    <li>Domain name sales</li>
-                                    <li>Website themes and templates</li>
-                                    <li>E-books and online publications</li>
-                                    <li>Digital art and graphics</li>
-                                    <li>Online courses and training materials</li>
-                                    <li>Virtual event tickets</li>
-                                    <li>Web hosting services</li>
-                                    <li>SEO, content writing, and marketing services</li>
-                                    <li>Cloud storage subscriptions</li>
-                                    <li>Membership access to private communities</li>
-                                    <li>We allow all ethical businesses and services</li>
+                                    <li><strong>Software and applications</strong></li>
+                                    <li><strong>Domain name sales</strong></li>
+                                    <li><strong>Website themes and templates</strong></li>
+                                    <li><strong>E-books and online publications</strong></li>
+                                    <li><strong>Digital art and graphics</strong></li>
+                                    <li><strong>Online courses and training materials</strong></li>
+                                    <li><strong>Virtual event tickets</strong></li>
+                                    <li><strong>Web hosting services</strong></li>
+                                    <li><strong>SEO, content writing, and marketing services</strong></li>
+                                    <li><strong>Cloud storage subscriptions</strong></li>
+                                    <li><strong>Membership access to private communities</strong></li>
+                                    <li><strong>We allow all ethical businesses and services</strong></li>
                                 </ol>
                                 <p>The intangible value of these items makes protected payment verification an absolute necessity</p>
                                 <h3>Why Crypto Escrow for Digital Transactions?</h3>
