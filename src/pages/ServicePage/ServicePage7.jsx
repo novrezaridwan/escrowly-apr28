@@ -104,15 +104,15 @@ const ServicePage7 = () => (
                                 </ul>
                                 <p>All you need is a crypto wallet and access to USDT or USDC.</p>
                                 <h3>Why Escrowly Is the #1 Choice for Luxury Crypto Transactions</h3>
-                                <h6>Crypto-First</h6>
+                                <h6>1. Crypto-First</h6>
                                 <p>Escrowly was built for blockchain from the ground up. It is not a legacy payment system tacked onto Web3.</p>
-                                <h6>Stablecoin-Only</h6>
+                                <h6>2. Stablecoin-Only</h6>
                                 <p>We use USDT and USDC exclusively to remove price volatility and protect both parties.</p>
-                                <h6>FinCEN-Registered</h6>
+                                <h6>3. FinCEN-Registered</h6>
                                 <p>Escrowly is a fully registered Money Services Business (MSB) with FinCEN (fincen.gov), ensuring compliance and professionalism.</p>
-                                <h6>Smart Contract Escrow</h6>
+                                <h6>4. Smart Contract Escrow</h6>
                                 <p>This crypto escrow service platform is fully auditable, automated, and has tamper-proof escrow smart contracts crypto features you can rely on.</p>
-                                <h6>Escrowly API for Businesses</h6>
+                                <h6>5. Escrowly API for Businesses</h6>
                                 <p>You can seamlessly plug Escrowly into your luxury goods e-commerce store, crypto marketplace, or brokerage platform with our Escrowly API.</p>
                                 <h3>Best Practices When Using Crypto Escrow for Luxury Items</h3>
                                 <p>When you are dealing with high-value transactions, it pays to play smart. Here are some expert best practices to make the most of Escrowly:</p>
