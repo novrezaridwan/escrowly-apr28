@@ -121,7 +121,7 @@ const ServicePage6 = () => (
                                 <p>A: Yes! With Escrowly API, you can integrate secure escrow services into your website or investment portal easily.</p>
                                 <h3>Are You Ready to Secure Your Next Investment?</h3>
                                 <p>Whether you are investing in digital assets, startup equity, or facilitating a merger, Escrowly is your reliable partner for blockchain escrow service. We have revolutionized how capital flows in the crypto space, one secure transaction at a time.</p>
-                                <p>Sign up now to protect your next big investment, or contact our team for tailored brokerage and escrow solutions.</p>
+                                <p>Open an account now to protect your next big investment, or contact our team for tailored brokerage and escrow solutions.</p>
 
                                 <Button 
                                     url="#get-started"
