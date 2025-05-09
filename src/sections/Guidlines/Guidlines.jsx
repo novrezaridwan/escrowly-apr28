@@ -52,8 +52,8 @@ const Guidlines = () => {
                             <GuideCard
                                 icon="/img/guide-icon-1.svg"
                                 imgSrc={["/images/guide-image-1.jpg", "/images/guide-image-2.jpg"]}
-                                title="Reserve Funds Securely"
-                                subtitle="Reserve Payment with Confidence"
+                                title="Buyer Guide"
+                                subtitle="Buy with Confidence"
                                 text="Securely set aside the agreed payment amount on Escrowly. This guarantees that both parties are committed to the transaction and provides peace of mind, knowing that the funds are safely held until the conditions are met"
                                 type="image"
                             />
@@ -72,8 +72,8 @@ const Guidlines = () => {
                             <GuideCard
                                 icon="/img/guide-icon-1.svg"
                                 imgSrc={["/images/buyer_image2.avif", "/images/buyer_image.avif"]}
-                                title="Reserve Funds Securely"
-                                subtitle="Reserve Payment with Confidence"
+                                title="Seller Guide"
+                                subtitle="Sell with Confidence"
                                 text="Securely set aside the agreed payment amount on Escrowly. This guarantees that both parties are committed to the transaction and provides peace of mind, knowing that the funds are safely held until the conditions are met"
                                 type="image"
                             />
@@ -92,8 +92,8 @@ const Guidlines = () => {
                             <GuideCard
                                 icon="/img/guide-icon-1.svg"
                                 imgSrc={["/images/Broker_image.avif", "/images/Broker_image2.avif"]}
-                                title="Reserve Funds Securely"
-                                subtitle="Reserve Payment with Confidence"
+                                title="Broker Guide"
+                                subtitle="Facilitates and safeguards deals"
                                 text="Securely set aside the agreed payment amount on Escrowly. This guarantees that both parties are committed to the transaction and provides peace of mind, knowing that the funds are safely held until the conditions are met"
                                 type="image"
                             />
