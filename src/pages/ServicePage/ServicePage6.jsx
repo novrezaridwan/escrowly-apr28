@@ -101,7 +101,7 @@ const ServicePage6 = () => (
                                 <p><strong>Fiat Support:</strong> NO</p>
                                 <h6>Traditional Escrow Features:</h6>
                                 <p><strong>Crypto-Native:</strong> NO</p>
-                                <p><strong>Stablecoin Use:</strong>NO or LIMITED</p>
+                                <p><strong>Stablecoin Use:</strong> NO or LIMITED</p>
                                 <p><strong>Blockchain Transparency:</strong> NO</p>
                                 <p><strong>Global Compatibility:</strong> LIMITED</p>
                                 <p><strong>Fast Settlement:</strong> DELAYED</p>
