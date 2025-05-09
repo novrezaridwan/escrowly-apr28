@@ -279,8 +279,8 @@ const HelpDesk = () => {
                                 </div>
                             </div>
                             <div className="help-desk-contacts">
-                                <span>Support Hours <img src="/img/icon-time.svg" alt="" /> Mon-Fri, 8am to 11pm, Pacific.</span>
-                                <span>USA and Canada (Toll Free) <img src="/img/icon-phone-outline.svg" alt="" /> +(480) 555-0103</span>
+                                <span>Support Hours <img src="/img/icon-time.svg" alt="Escrowly Support Hours" /> Mon-Fri, 8am to 11pm, Pacific.</span>
+                                <span>USA and Canada <img src="/img/icon-phone-outline.svg" alt="Escrowly Helpline" /> +(302) 444-8419</span>
                             </div>
                         </div>
                     </section> 
