@@ -161,7 +161,7 @@ const ServicePage4 = () => (
                                 <p>To determine your milestone fee costs, you can use our all-inclusive Fee Calculator feature</p>
                                 <h3>The Future of Crypto Transactions is Milestone-Driven</h3>
                                 <p>As crypto becomes the go-to payment method for everything from software development to global asset purchases, the need for secure, structured, and fair payment systems has never been more critical. With the Milestone Transactions feature, Escrowly promotes transparent, protected, and secure transactions for all stages of an exchange - from domain acquisitions to project funding to application development.</p>
-                                <p>No more lump sum payments. No more ghosted developers. No more panic over irreversible crypto transfers.</p>
+                                <h6>No more lump sum payments. No more ghosted developers. No more panic over irreversible crypto transfers. Escrowly.com is here to make crypto business transactions secure and simple!</h6>
 
                                 <Button 
                                     url="#get-started"

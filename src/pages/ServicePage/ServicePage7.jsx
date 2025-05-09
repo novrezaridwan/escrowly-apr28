@@ -156,7 +156,7 @@ const ServicePage7 = () => (
                                 <h3>Conclusion: Luxury Deserves Security</h3>
                                 <p>When you are buying or selling luxury items, there is no room for mistakes. Crypto adds convenience, but also risk. Escrowly eliminates that risk with a bulletproof system designed for high-value trust.</p>
                                 <p>Whether you are closing a personal deal or building an entire luxury brand around crypto payments, Escrowly is your partner in safe, reliable, and stable crypto escrow.</p>
-                                <p><strong>Are you ready to upgrade your luxury deals with a crypto escrow service that actually works? Open an account on Escrowly now and protect your next high-end transaction with confidence!</strong></p>
+                                <h6>Are you ready to upgrade your luxury deals with a crypto escrow service that actually works? Open an account with Escrowly now and protect your next high-end transaction with confidence!</h6>
 
                                 <Button 
                                     url="#get-started"

@@ -116,7 +116,8 @@ const ServicePage3 = () => (
                                 </ul>
                                 <p>Escrowly API enables businesses to integrate their automobile dealership platforms using crypto escrow solutions. The crypto escrow API solution from our platform provides complete coverage to its users.</p>
                                 <h3>Drive Into the Future - Securely</h3>
-                                <p>Crypto and car sales are a match made in blockchain heaven, but only when trust is built in. Escrowly brings transparency, accountability, and protection to every motor vehicle transaction. With a simple, secure, and stable escrow solution, you will never second-guess a crypto car deal again. Are you ready to shift gears? Then, choose Escrowly - the market leader for fully crypto-native escrow services for vehicle acquisitions and sales.</p>
+                                <p>Crypto and car sales are a match made in blockchain heaven, but only when trust is built in. Escrowly brings transparency, accountability, and protection to every motor vehicle transaction. With a simple, secure, and stable escrow solution, you will never second-guess a crypto car deal again.</p>
+                                <h6>Are you ready to shift gears? Then, choose Escrowly.com - the market leader for fully crypto-native escrow services for vehicle acquisitions and sales.</h6>
 
                                 <Button 
                                     url="#get-started"
