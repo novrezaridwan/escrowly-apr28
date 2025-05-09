@@ -54,7 +54,7 @@ const ServicePage4 = () => (
                                 <ul>
                                     <li><strong>Better accountability:</strong> The payment process requires sellers to fulfill each defined stage before receiving compensation.</li>
                                     <li><strong>Improved buyer confidence:</strong> Payments remain totally unavailable before completion.</li>
-                                    <li><strong>Dispute prevention: Contact</strong> issues during project development become easier to address at every stage rather than waiting until project completion.</li>
+                                    <li><strong>Dispute prevention:</strong> Contact issues during project development become easier to address at every stage rather than waiting until project completion.</li>
                                     <li><strong>Efficient project management:</strong> The process of project management becomes more efficient through this approach by dividing complex deals into smaller segments.</li>
                                 </ul>
                                 <p>Escrowly merges milestone contracts with crypto escrow features to provide users with unmatched security for their short-term work and extended partnerships.</p>
@@ -92,7 +92,7 @@ const ServicePage4 = () => (
                                 </ol>
                                 <h3>Milestone Escrow for Brokers and Third Parties</h3>
                                 <p>The role of brokers and middlemen remains essential in multiple crypto deals - from corporate partnerships to escrow for crypto exchanges. The milestone service at Escrowly enables brokers to facilitate deals with various phases with its secure transparent protocols.</p>
-                                <p>Each milestone includes:</p>
+                                <p><strong>Each milestone includes:</strong></p>
                                 <ul>
                                     <li>Clearly defined deliverables</li>
                                     <li>Time-stamped agreements</li>
