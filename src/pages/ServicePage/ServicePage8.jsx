@@ -58,6 +58,18 @@ const ServicePage8 = () => (
                                     <li><strong>Full support for escrow for real estate closings and land and property auctions</strong></li>
                                 </ol>
                                 <h3>Types of Real Estate Transactions Supported</h3>
+                                <p>Whether you are investing in commercial buildings or renting out property abroad, Escrowly’s crypto escrow platform supports a wide range of use cases:</p>
+                                <h6>1. Escrow for Real Estate Closings</h6>
+                                <p>When you are closing on a home or office property, Escrowly ensures secure crypto transactions between buyer and seller. Funds are held safely until inspection periods, contracts, and documentation are completed.</p>
+                                <h6>2. Escrow for Rental Property Deposits</h6>
+                                <p>Tenants and landlords can use Escrowly to hold rental deposits. It eliminates disputes and ensures funds are only released when lease agreements are met.</p>
+                                <h6>3. Escrow for Land and Property Auctions</h6>
+                                <p>Crypto investors in auctions can rely on Escrowly to provide proof of funds and secure payment transfers when they win bids on properties.</p>
+                                <h6>4. Escrow for International Real Estate</h6>
+                                <p>Escrowly is ideal for cross-border crypto escrow, removing currency exchange hassles and providing trust in international property deals where traditional banking fails.</p>
+                                <h6>5. Escrow for Franchise Business Purchases</h6>
+                                <p>Are you purchasing a franchise location or commercial real estate? Escrowly handles escrow for business acquisitions and property sales with ease and security.</p>
+
                                 <ul>
                                     <li>Fraud Protection – Payments are held securely and only released when all contractual conditions are satisfied.</li>
                                     <li>Secure Fund Holding – Escrowly acts as a trusted intermediary, keeping funds safe throughout the transaction process.</li>
