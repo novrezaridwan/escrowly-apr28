@@ -31,7 +31,7 @@ const ServicePage2 = () => (
                     breadcrumbs={[
                         { title: "Home", url: "/" },
                         { title: "Escrowly Services", url: "/services" },
-                        { title: "Crypto Escrow Services", url: "/secure-domain" },
+                        { title: "Crypto Escrow Services", url: "#" },
                     ]}
                 />  
                 <section className="section-service-page">
@@ -42,13 +42,11 @@ const ServicePage2 = () => (
                             className="centered"
                         />
                         <p className="service-page-description">In recent times, the adoption of cryptocurrencies has grown at an incredible rate, revolutionizing how transactions are conducted. However, the decentralized nature of crypto-based transactions has the tendency to accommodate scams and other fraudulent activities. This is where a crypto escrow service comes into the equation. This unbiased third party acts as a reliable middleman, ensuring that the pre-determined terms and conditions between the buyers and sellers are met.</p>
-                        <img className="service-page-image" src="/images/service-page-2.jpg" alt="Crypto Escrow Services by Escrowly.com" />
+                        <img className="service-page-image" src="/images/what-is-crypto-escrow-services-01.jpg" alt="Crypto Escrow Services by Escrowly.com" />
                         <div className="service-page-content row">
                             <div className="col col-left">
                                 <h3>Introduction to Crypto Escrow Services</h3>
-                                <p></p>
-                                <h4>What is a Crypto Escrow Service?</h4>
-                                <p></p>
+                                <h6>What is a Crypto Escrow Service?</h6>
                                 <p>A crypto escrow service is a secure mechanism built to safeguard all parties in crypto transactions. It involves a reliable third party or a smart contract that keeps the digital assets in escrow until the terms of the agreement are met. The main purpose of a crypto escrow service is to reduce the risks associated with fraudulent activities or non-fulfillment of contractual obligations.</p>
                                 <p>For example, if you want to buy some Bitcoin, the first phase of the <strong>crypto escrow service</strong> is to hold the funds from you (the buyer) in escrow. Once the vendor (the seller) produces the agreed-upon quantity of digital currencies, the crypto escrow service releases the payment. This mechanism guarantees that all parties are satisfied, creating a safe and reliable transaction environment.</p>
                                 <h4>Why do you need a Crypto Escrow Service?</h4>
