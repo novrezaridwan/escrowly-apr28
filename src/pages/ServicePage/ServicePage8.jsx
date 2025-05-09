@@ -115,7 +115,7 @@ const ServicePage8 = () => (
                                 <p>We are not just a payment processor; we are your partner in secure real estate crypto transactions.</p>
                                 <h3>Final Thoughts</h3>
                                 <p>As the first fully crypto-native escrow platform, Escrowly is setting new standards for trust, speed, and transparency in real estate transactions. With support for USDT, USDC, and a user-friendly interface, you can now buy or sell property from anywhere in the world without fear.</p>
-                                <h6>Say goodbye to wire delays, fiat complications, and middlemen. Say hello to Escrowly—the future of real estate, powered by crypto</h6>
+                                <h6>Say goodbye to wire delays, fiat complications, and middlemen. Say hello to Escrowly - the future of real estate, powered by crypto</h6>
                                 
                                 <Button 
                                     url="#get-started"
