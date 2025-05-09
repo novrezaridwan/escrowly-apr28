@@ -73,10 +73,10 @@ const ServicePage8 = () => (
                                 <p>Using Escrowly for real estate transactions is incredibly straightforward:</p>
                                 <ol>
                                     <li><strong>Initiate the Deal:</strong> The buyer and seller agree on terms, and a broker can also be added.</li>
-                                    <li><strong>Deposit Stablecoins:</strong>Buyer sends USDT or USDC to Escrowly's wallet.</li>
-                                    <li><strong>Verify & Complete Conditions:</strong>Title deeds, inspections, and legal steps are fulfilled.</li>
-                                    <li><strong>Funds Release:</strong>Escrowly releases funds to the seller once all steps are verified.</li>
-                                    <li><strong>Deal Done:</strong>Everyone walks away satisfied and secured by blockchain and trust.</li>
+                                    <li><strong>Deposit Stablecoins:</strong> Buyer sends USDT or USDC to Escrowly's wallet.</li>
+                                    <li><strong>Verify & Complete Conditions:</strong> Title deeds, inspections, and legal steps are fulfilled.</li>
+                                    <li><strong>Funds Release:</strong> Escrowly releases funds to the seller once all steps are verified.</li>
+                                    <li><strong>Deal Done:</strong> Everyone walks away satisfied and secured by blockchain and trust.</li>
                                 </ol>
                                 <p>This system is perfect for escrow for corporate mergers, land acquisition, and property transfers using crypto.</p>
                                 <h3>Escrowly for Real Estate Agents and Brokers</h3>
@@ -96,12 +96,12 @@ const ServicePage8 = () => (
                                 <h3>Who Can Use Escrowly Real Estate Services?</h3>
                                 <p>Escrowly’s real estate escrow service is designed for:</p>
                                 <ul>
-                                    <li>a. Real Estate Investors</li>
-                                    <li>b. First-Time Buyers Using Crypto</li>
-                                    <li>c. Landlords Accepting Crypto Deposits</li>
-                                    <li>d. International Property Buyers</li>
-                                    <li>e. Real Estate Brokers and Agents</li>
-                                    <li>f. Escrow for Property Auctions and High-Value Goods</li>
+                                    <li>Real Estate Investors</li>
+                                    <li>First-Time Buyers Using Crypto</li>
+                                    <li>Landlords Accepting Crypto Deposits</li>
+                                    <li>International Property Buyers</li>
+                                    <li>Real Estate Brokers and Agents</li>
+                                    <li>Escrow for Property Auctions and High-Value Goods</li>
                                 </ul>
                                 <p>Whether you are closing on a downtown apartment or purchasing farmland abroad, Escrowly simplifies the process.</p>
                                 <h3>The Future of Property Payments Is Crypto</h3>
@@ -115,7 +115,7 @@ const ServicePage8 = () => (
                                 <p>We are not just a payment processor; we are your partner in secure real estate crypto transactions.</p>
                                 <h3>Final Thoughts</h3>
                                 <p>As the first fully crypto-native escrow platform, Escrowly is setting new standards for trust, speed, and transparency in real estate transactions. With support for USDT, USDC, and a user-friendly interface, you can now buy or sell property from anywhere in the world without fear.</p>
-                                <p><strong>Say goodbye to wire delays, fiat complications, and middlemen. Say hello to Escrowly—the future of real estate, powered by crypto</strong></p>
+                                <h6>Say goodbye to wire delays, fiat complications, and middlemen. Say hello to Escrowly—the future of real estate, powered by crypto</h6>
                                 
                                 <Button 
                                     url="#get-started"
