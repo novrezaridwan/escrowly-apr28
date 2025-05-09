@@ -156,7 +156,7 @@ const ServicePage2 = () => (
                                 </ol>
                                 <p>Even though automated escrow services offer numerous advantages, they present specific security risks to users. There is a possibility that smart contracts can be hacked when their programming code contains insecure points that hackers can abuse. Furthermore, there is no way to modify smart contracts while they remain immutable. Therefore, these unalterable contracts can produce unintended consequences because of faulty coding.</p>
                                 <h4>Benefits of Automated Smart Contract-Based Escrow Services</h4>
-                                <p>How to Select an Appropriate Crypto Escrow Service</p>
+                                <p><strong>How to Select an Appropriate Crypto Escrow Service?</strong></p>
                                 <p>Choosing a crypto escrow service depends on its technological capabilities, the magnitude of the transaction, and how secure users feel.</p>
                                 <p>Breakthroughs in the crypto industry will create innovative escrow solutions, such as integrated AI dispute resolution systems, advanced security features, and modern regulatory compliance. Users who understand the crypto escrow service options can select the most suitable one to achieve secure digital transactions and the need for transparency in the digital economy.</p>
                                 <ul>
