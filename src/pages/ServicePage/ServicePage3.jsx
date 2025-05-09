@@ -30,8 +30,8 @@ const ServicePage3 = () => (
                 <Breadcrumbs 
                     breadcrumbs={[
                         { title: "Home", url: "/" },
-                        { title: "Escrowly Services", url: "/escrowly-services" },
-                        { title: "Motor Vehicle Escrow  ", url: "/secure-domain" },
+                        { title: "Escrowly Services", url: "/services" },
+                        { title: "Motor Vehicle Escrow", url: "#" },
                     ]}
                 />  
                 <section className="section-service-page">

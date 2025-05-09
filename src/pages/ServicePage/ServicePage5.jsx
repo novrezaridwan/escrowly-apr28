@@ -30,14 +30,14 @@ const ServicePage5 = () => (
                 <Breadcrumbs 
                     breadcrumbs={[
                         { title: "Home", url: "/" },
-                        { title: "Escrowly Services", url: "/escrowly-services" },
-                        { title: "Online Goods & Digital Items  ", url: "/secure-domain" },
+                        { title: "Escrowly Services", url: "/services" },
+                        { title: "Online Goods & Digital Items", url: "#" },
                     ]}
                 />  
                 <section className="section-service-page">
                     <div className="container">
                         <SectionHeader 
-                            label="Online Goods & Digital Items "
+                            label="Online Goods & Digital Items"
                             title="Online Goods & Digital Items with Escrowly"
                             className="centered"
                         />
