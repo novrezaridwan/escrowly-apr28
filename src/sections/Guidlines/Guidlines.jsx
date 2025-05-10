@@ -54,7 +54,7 @@ const Guidlines = () => {
                                 imgSrc={["/images/guide-image-1.jpg", "/images/guide-image-2.jpg"]}
                                 title="Buyer Guide"
                                 subtitle="Buy with Confidence"
-                                text="Escrowly enables buyers to trade safely using its secure crypto escrow service. Your funds are safe in escrow while you wait to receive and accept the product or service, which gives you peace of mind throughout the process."
+                                text="Escrowly.com enables buyers to trade safely using its secure crypto escrow service. Your funds are safe in escrow while you wait to receive and accept the product or service, which gives you peace of mind throughout the process."
                                 type="image"
                             />
                             <GuideCard
@@ -62,7 +62,7 @@ const Guidlines = () => {
                                 imgSrc={["/images/guide-image-3.jpg"]}
                                 title="Inspect and Confirm Satisfaction"
                                 subtitle="Verify and Confirm Quality"
-                                text="Escrowly gives you time to examine your purchase before disbursing funds. During this period, use this opportunity to ensure that the goods or services are as per your expectations. Approve payment only when you are more than satisfied with the quality being delivered."
+                                text="Escrowly.com gives you time to examine your purchase before disbursing funds. During this period, use this opportunity to ensure that the goods or services are as per your expectations. Approve payment only when you are more than satisfied with the quality being delivered."
                                 type="image"
                             />
                         </div>
@@ -74,15 +74,15 @@ const Guidlines = () => {
                                 imgSrc={["/images/buyer_image2.avif", "/images/buyer_image.avif"]}
                                 title="Seller Guide"
                                 subtitle="Sell with Confidence"
-                                text="Securely set aside the agreed payment amount on Escrowly. This guarantees that both parties are committed to the transaction and provides peace of mind, knowing that the funds are safely held until the conditions are met"
+                                text="Escrowly.com gives sellers the power to transact safely by holding buyer funds in escrow until all specified requirements are met. This guarantees payment, fraud prevention, and a reliable experience from initial offer to final delivery."
                                 type="image"
                             />
                             <GuideCard
                                 icon="/img/guide-icon-2.svg"
                                 imgSrc={["/images/guide-image-3.jpg"]}
-                                title="Inspect and Confirm Satisfaction"
-                                subtitle="Verify and Confirm Quality"
-                                text="Once you receive the product or service, carefully inspect it to ensure it meets the agreed-upon standards. Only after confirming that everything is satisfactory, the payment is released to the seller, ensuring both parties are protected"
+                                title="Ensure About Specifications of Products or Services"
+                                subtitle="Safeguards your Reputation"
+                                text="Before shipping or delivering goods or services, ensure they are up to the specifications agreed upon. This step safeguards your reputation and negates the possibility of disputes, making it possible for escrow processes to continue uninterrupted and funds to be disbursed smoothly."
                                 type="image"
                             />
                         </div>
@@ -93,8 +93,8 @@ const Guidlines = () => {
                                 icon="/img/guide-icon-1.svg"
                                 imgSrc={["/images/Broker_image.avif", "/images/Broker_image2.avif"]}
                                 title="Broker Guide"
-                                subtitle="Facilitates and safeguards deals"
-                                text="Securely set aside the agreed payment amount on Escrowly. This guarantees that both parties are committed to the transaction and provides peace of mind, knowing that the funds are safely held until the conditions are met"
+                                subtitle="Facilitates and Safeguards Deals"
+                                text="Escrowly.com enables brokers to conduct, track, and complete transactions safely. The use of escrow protects the interests of the two parties while making sure that terms are fulfilled before payment is released."
                                 type="image"
                             />
                             <GuideCard
@@ -102,7 +102,7 @@ const Guidlines = () => {
                                 imgSrc={["/images/guide-image-3.jpg"]}
                                 title="Inspect and Confirm Satisfaction"
                                 subtitle="Verify and Confirm Quality"
-                                text="Once you receive the product or service, carefully inspect it to ensure it meets the agreed-upon standards. Only after confirming that everything is satisfactory, the payment is released to the seller, ensuring both parties are protected"
+                                text="Brokers should ensure that goods or services meet the standards agreed upon before approving release. Confirming quality safeguards all participants and maintains faith established in Escrowly’s secure crypto escrow transactions process."
                                 type="image"
                             />
                         </div>
