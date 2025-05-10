@@ -9,12 +9,12 @@ import Guidlines from "../sections/Guidlines/Guidlines";
 const HomePage = () => (
     <>
         <Helmet>
-            <title>Escrowly - How it Works</title>
-            <meta name="description" content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders." />
-            <meta name="keywords" content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate" />
-            <meta name="author" content="Escrowly Crypto Escrow Team" />
-            <meta property="og:title" content="Escrowly – Buy & Sell Online Safely with Crypto" />
-            <meta property="og:description" content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets." />
+            <title>Buyer, Seller & Broker Protection | Escrowly.com Guidelines for Safe Crypto</title>
+            <meta name="description" content="Learn how Escrowly protects buyers, sellers, and brokers in every crypto escrow transaction. Follow our secure transaction guidelines for identity verification, inspection periods, and fraud prevention." />
+            <meta name="keywords" content="crypto escrow guidelines, secure crypto transactions, buyer protection, seller escrow, broker transaction safety, Escrowly guide, safe crypto deals, identity verification, dispute prevention, inspection period" />
+            <meta name="author" content="Escrowly.com Crypto Escrow Team" />
+            <meta property="og:title" content="Escrowly.com Secure Transaction Guide for Buyers, Sellers & Brokers" />
+            <meta property="og:description" content="Follow Escrowly’s guidelines to ensure safe and secure crypto escrow transactions. Protect funds, confirm quality, and build trust in every deal." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
             <meta property="og:url" content="https://escrowly.com" />
             <meta name="twitter:card" content="summary_large_image" />

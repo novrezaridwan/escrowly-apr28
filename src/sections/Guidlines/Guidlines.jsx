@@ -20,7 +20,7 @@ const Guidlines = () => {
                     />
                 </div>
                 <div className="col">
-                    <p>Follow these simple guidelines to ensure a smooth, secure, and trustworthy experience for both buyers and sellers throughout the transaction process</p>
+                    <p>In an effort to make every transaction on Escrowly safe and easy, we have laid out clear guidelines for buyers, sellers, and brokers. By doing things such as setting clear terms, confirming the identities of all participants in a transaction, and putting in place inspection periods, you contribute to upholding the integrity, transparency, and trust upon which our crypto-native platform is based.</p>
                 </div>
             </div>
             
