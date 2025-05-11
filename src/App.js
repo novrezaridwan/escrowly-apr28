@@ -1,5 +1,10 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, useLocation } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  useLocation,
+} from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
@@ -26,7 +31,8 @@ import HelpDesk from "./pages/HelpDesk/HelpDesk";
 import HelpDeskSingle from "./pages/HelpDeskSingle/HelpDeskSingle";
 import OurPartners from "./pages/OurPartners";
 import GetStarted from "./pages/GetStarted";
-import PartnersEnquiry from "./pages/PartnersEnquiry";
+import PartnersEnquiry from "./pages/PartnersEnquiry/PartnersEnquiry";
+import PartnerApplicationForm from "./pages/PartnerApplicationForm/PartnerApplicationForm";
 import ApiGuide from "./pages/ApiGuide";
 import EscrowlyPay from "./pages/EscrowlyPay/EscrowlyPay";
 import EscrowlyOffer from "./pages/EscrowlyOffer/EscrowlyOffer";
@@ -43,16 +49,18 @@ import RiskDisclosure from "./pages/RiskDisclosure";
 import TermsAndConditions from "./pages/TermsAndConditions";
 import WhatIsEscrowly from "./pages/WhatIsEscrowly/WhatIsEscrowly";
 import AllowedGoodsAndServices from "./pages/WhatIsEscrowly/AllowedGoodAndServices";
-import Benefits from "./pages/WhatIsEscrowly/Benefits"
+import Benefits from "./pages/WhatIsEscrowly/Benefits";
 import BuyerSellerBrokerProtection from "./pages/WhatIsEscrowly/BuyerSellerBrokerProtection";
-import CurrencyOptions from "./pages/WhatIsEscrowly/CurrencyOptions"
-import DisbursementsMethods from "./pages/WhatIsEscrowly/DisbursementsMethods"
+import CurrencyOptions from "./pages/WhatIsEscrowly/CurrencyOptions";
+import DisbursementsMethods from "./pages/WhatIsEscrowly/DisbursementsMethods";
 import Disputes from "./pages/WhatIsEscrowly/Disputes";
 import FraudPrevention from "./pages/WhatIsEscrowly/FraudPrevention";
 import HowItWorksBroker from "./pages/WhatIsEscrowly/HowItWorksBroker";
 import InspectionPeriod from "./pages/WhatIsEscrowly/InspectionPeriod";
 import PaymentOptions from "./pages/WhatIsEscrowly/PaymentOptions";
 import Security from "./pages/WhatIsEscrowly/Security";
+import EscrowlyApi from "./pages/EscrowlyApi/EscrowlyApi";
+import EscrowlyApiGuide from "./pages/EscrowlyApiGuide/EscrowlyApiGuide";
 function App() {
   return (
     <Router>
@@ -68,7 +76,9 @@ function MainLayout() {
 
   return (
     <div className="App">
-      {!hideHeaderFooter && <Header className={isLight ? "header-light" : "header-dark"} />}
+      {!hideHeaderFooter && (
+        <Header className={isLight ? "header-light" : "header-dark"} />
+      )}
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -94,8 +104,14 @@ function MainLayout() {
         <Route path="/our-partners" element={<OurPartners />} />
         <Route path="/get-started" element={<GetStarted />} />
         <Route path="/partners-enquiry" element={<PartnersEnquiry />} />
+        <Route path="/api-guide-2" element={<EscrowlyApiGuide />} />
+        <Route
+          path="/partners-aplication-form"
+          element={<PartnerApplicationForm />}
+        />
         <Route path="/api-guide" element={<ApiGuide />} />
         <Route path="/escrowly-pay" element={<EscrowlyPay />} />
+        <Route path="/escrowly-api" element={<EscrowlyApi />} />
         <Route path="/escrowly-offer" element={<EscrowlyOffer />} />
         <Route path="/escrowly-buttons" element={<EscrowlyButtons />} />
         <Route path="/payment-options" element={<PaymentOptions />} />
@@ -104,22 +120,36 @@ function MainLayout() {
         <Route path="/report-a-bug" element={<ReportABug />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
         <Route path="/aml-kyc-policy" element={<AMLKYCPolicy />} />
-        <Route path="/regulatory-compliance" element={<RegulatoryCompliance />} />
-        <Route path="/legal-security-policy" element={<LegalSecurityPolicy />} />
+        <Route
+          path="/regulatory-compliance"
+          element={<RegulatoryCompliance />}
+        />
+        <Route
+          path="/legal-security-policy"
+          element={<LegalSecurityPolicy />}
+        />
         <Route path="/risk-disclosure" element={<RiskDisclosure />} />
         <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
         <Route path="/what-is-escrowly" element={<WhatIsEscrowly />} />
 
-        <Route path="/allowed-goods-and-services" element={<AllowedGoodsAndServices />} />
+        <Route
+          path="/allowed-goods-and-services"
+          element={<AllowedGoodsAndServices />}
+        />
         <Route path="/currency-options" element={<CurrencyOptions />} />
-        <Route path="/disbursements-methods" element={<DisbursementsMethods />} />
+        <Route
+          path="/disbursements-methods"
+          element={<DisbursementsMethods />}
+        />
         <Route path="/benefits" element={<Benefits />} />
-        <Route path="/buyer-seller-broker-protection" element={<BuyerSellerBrokerProtection />} />
+        <Route
+          path="/buyer-seller-broker-protection"
+          element={<BuyerSellerBrokerProtection />}
+        />
         <Route path="/how-it-works-broker" element={<HowItWorksBroker />} />
         <Route path="/security" element={<Security />} />
         <Route path="/inspection-period" element={<InspectionPeriod />} />
         <Route path="/disputes" element={<Disputes />} />
-       
 
         <Route path="*" element={<NotFound />} />
       </Routes>

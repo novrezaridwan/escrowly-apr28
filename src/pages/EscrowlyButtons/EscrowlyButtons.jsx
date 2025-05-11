@@ -1,111 +1,193 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import './EscrowlyButtons.scss';
+import "./EscrowlyButtons.scss";
 import { Helmet } from "react-helmet-async";
 import Breadcrumbs from "../../components/Breadcrumbs/Breadcrumbs";
-import SectionHeader from "../../components/SectionHeader/SectionHeader";
-import FeeCalculator from "../../components/FeeCalculator/FeeCalculator";
-import Faq from "../../sections/Faq/Faq";
-import Innovate from "../../sections/Innovate/Innovate";
+import Jumbotron from "../../components/Jumbotron/Jumbotron";
+import imgContent from "../../assets/img/escrowly-button.svg";
+import imgSetLight from "../../assets/icons/ecsrowly-sets-light.svg";
+import imgSetDark from "../../assets/icons/ecsrowly-sets-dark.svg";
+import { Icon } from "@iconify/react";
 
 const EscrowlyButtons = () => {
-    return (
-        <>
-            <Helmet>
-                <title>Escrowly Buttons - Easy Payment Integration | Escrowly</title>
-                <meta name="description" content="Add secure escrow payment buttons to your website with Escrowly Buttons. Simple, customizable, and secure payment integration for any website." />
-                <meta name="keywords" content="escrow buttons, payment buttons, Escrowly Buttons, secure checkout, payment integration, website buttons, escrow integration, secure payments, checkout buttons, payment processing" />
-                <meta name="author" content="Escrowly Crypto Escrow Team" />
-                <meta property="og:title" content="Escrowly Buttons – Easy Payment Integration" />
-                <meta property="og:description" content="Add secure escrow payment buttons to your website in minutes. Our customizable buttons make it easy to accept secure payments." />
-                <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com/escrowly-buttons" />
-                <meta name="twitter:card" content="summary_large_image" />
-            </Helmet>
-            <div>
-                <main className="main-content">
-                    <Breadcrumbs
-                        breadcrumbs={[
-                            { title: "Home", url: "/" },
-                            { title: "Business", url: "/business" },
-                            { title: "Escrowly Buttons", url: "/escrowly-buttons" },
-                        ]}
-                    />
+  const dataCard = [
+    {
+      icon: "mingcute:safe-lock-fill",
+      title: "Trusted Transactions",
+      desc: "Escrowly's crypto escrow and non-crypto escrow services fully protect both sellers and buyers during all transactions.",
+    },
+    {
+      icon: "mdi:gear",
+      title: "Streamlined Checkout",
+      desc: "Our solution enables fast integration through plug-and-play API setup and quick buttons that require no developer assistance.",
+    },
+    {
+      icon: "streamline:desktop-code-solid",
+      title: "Easy Integration",
+      desc: "Adding the Escrowly Button to your products, blog pages, or service listings requires only a quick pasting of a basic code block. Join the train of escrow-secured payments today.",
+    },
+    {
+      icon: "material-symbols:target",
+      title: "Flexible for Your Business",
+      desc: "Our service supports the exclusive exchange of digital items, freelance services, domain names, physical objects, and many other items. Users ranging from sole entrepreneurs to growing marketplaces will find solutions with the Escrowly Button framework.",
+    },
+  ];
 
-                    <section className="section-escrowly-buttons">
-                        <div className="container">
-                            <div className="row">
-                                <div className="col col-left">
-                                    <SectionHeader
-                                        label="Integration"
-                                        title="Escrowly Buttons"
-                                        className=""
-                                    />
-                                    <div className="blog-article-content">
-                                        <p>Escrowly Buttons provide a simple and effective way to add secure escrow payment functionality to any website. With just a few lines of code, you can integrate customizable payment buttons that enable secure transactions while maintaining your website's design and user experience.</p>
-                                        
-                                        <h3>How Escrowly Buttons Work</h3>
-                                        <p>Our button integration process is designed for simplicity and security:</p>
-                                        <ol>
-                                            <li>1. Generate Button – Create a custom payment button in our dashboard</li>
-                                            <li>2. Copy Code – Get the HTML/JavaScript code for your button</li>
-                                            <li>3. Paste & Customize – Add the button to your website and customize its appearance</li>
-                                            <li>4. Start Accepting Payments – Your button is ready to process secure transactions</li>
-                                        </ol>
+  const dataEscrowlyButton = [
+    {
+      icon: "ant-design:dollar-circle-filled",
+      title: "Buy Now",
+      desc: "Fast, one-click purchases at preset prices",
+    },
+    {
+      icon: "cil:envelope-letter",
+      title: "Make an Offer",
+      desc: "Allows you negotiate about the sales price",
+    },
+    {
+      icon: "healthicons:money-bag",
+      title: "Both Options",
+      desc: "Users can purchase directly or present an offer",
+    },
+  ];
+  return (
+    <>
+      <Helmet>
+        <title>Escrowly Buttons - Easy Payment Integration | Escrowly</title>
+        <meta
+          name="description"
+          content="Add secure escrow payment buttons to your website with Escrowly Buttons. Simple, customizable, and secure payment integration for any website."
+        />
+        <meta
+          name="keywords"
+          content="escrow buttons, payment buttons, Escrowly Buttons, secure checkout, payment integration, website buttons, escrow integration, secure payments, checkout buttons, payment processing"
+        />
+        <meta name="author" content="Escrowly Crypto Escrow Team" />
+        <meta
+          property="og:title"
+          content="Escrowly Buttons – Easy Payment Integration"
+        />
+        <meta
+          property="og:description"
+          content="Add secure escrow payment buttons to your website in minutes. Our customizable buttons make it easy to accept secure payments."
+        />
+        <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
+        <meta
+          property="og:url"
+          content="https://escrowly.com/escrowly-buttons"
+        />
+        <meta name="twitter:card" content="summary_large_image" />
+      </Helmet>
+      <div>
+        <main className="main-content">
+          <Breadcrumbs
+            breadcrumbs={[
+              { title: "Home", url: "/" },
+              { title: "Developer", url: "/developer" },
+              { title: "Escrowly Buttons", url: "/escrowly-buttons" },
+            ]}
+          />
 
-                                        <blockquote>Escrowly Buttons make secure payments accessible to everyone. Whether you're running an e-commerce store, a service-based business, or a marketplace, our buttons provide a simple way to accept secure escrow payments.</blockquote>
-
-                                        <h4>Key Features of Escrowly Buttons</h4>
-                                        <p>Escrowly Buttons offer a range of features to enhance your payment integration:</p>
-                                        <ul>
-                                            <li>Easy Integration: Add buttons with just a few lines of code</li>
-                                            <li>Customizable Design: Match buttons to your website's style</li>
-                                            <li>Multiple Payment Options: Support for various cryptocurrencies and payment methods</li>
-                                            <li>Mobile Responsive: Works perfectly on all devices</li>
-                                            <li>Secure Transactions: All payments are protected by escrow</li>
-                                            <li>Analytics Dashboard: Track button performance and transactions</li>
-                                        </ul>
-
-                                        <h6>Get Started with Escrowly Buttons</h6>
-                                        <p>Adding secure payment functionality to your website has never been easier. With Escrowly Buttons, you can start accepting secure escrow payments in minutes, without any complex integration or development work.</p>
-                                        <p>Ready to add secure payment buttons to your website? Start using Escrowly Buttons today and provide your customers with a safe and convenient way to pay.</p>
-                                    </div>
-                                </div>
-                                <div className="col col-right">
-                                    <h3>Calculate Your Transaction Fees</h3>
-                                    <p className="mb-40">Enter the transaction amount to estimate the escrow fee</p>
-                                    <FeeCalculator />
-                                    <h3 className="links-nav-title">Button Resources</h3>
-                                    <div className="links-nav">
-                                        <Link className="active" to="/escrowly-buttons">
-                                            Overview
-                                        </Link>
-                                        <Link to="/button-creation">
-                                            Button Creation
-                                        </Link>
-                                        <Link to="/customization">
-                                            Customization
-                                        </Link>
-                                        <Link to="/integration-guide">
-                                            Integration Guide
-                                        </Link>
-                                        <Link to="/security-features">
-                                            Security Features
-                                        </Link>
-                                        <Link to="/faq">
-                                            FAQ
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
+          <Jumbotron
+            title="Escrowly"
+            titleItalic="Button"
+            desc="Create a personalized escrow button for your webpage, shop, or listings."
+            imgContent={imgContent}
+            labelPrimary="Open Account"
+            labelSecondary="Contact Sales"
+          />
+          <section className="section-escrowly-button">
+            <div className="container section">
+              <div className="row items-center justify-center">
+                <div className="col">
+                  <h3 className="text-center">What is Escrowly Button?</h3>
+                  <p className="text-center w-50 mx-auto">
+                    The Escrowly Button acts a smart embeddable functionality
+                    for adding secure payment features directly to your website
+                    content, product listings, and online stores. Through simple
+                    user interface activation, buyers and sellers can carry out
+                    secure escrow-based transactions that safeguard every
+                    participant.
+                  </p>
+                  <div class="box-card">
+                    <div class="benefit-row">
+                      {dataEscrowlyButton.map((item, index) => (
+                        <div class="benefit-item" key={index}>
+                          <Icon icon={item.icon} />
+                          <p class="title">{item.title}</p>
+                          <p class="desc">{item.desc}</p>
                         </div>
-                    </section>
-                    <Faq />
-                    <Innovate />
-                </main>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-        </>
-    );
-}
+            <div className="container section">
+              <div className="row items-center sm-direction-column-reverse">
+                <div className="col">
+                  <h3 className="text-left">Why Use Escrowly Button?</h3>
+                  <div className="flex flex-col gap-3 mt-20">
+                    {dataCard.map((item, index) => (
+                      <div className="flex card-pay gap-3" key={index}>
+                        <Icon icon={item.icon} />
+                        <div className="flex flex-col">
+                          <p className="title">{item.title}</p>
+                          <p className="desc">{item.desc}</p>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+                <div className="col">
+                  <img
+                    src="/images/escrowly-pay.jpg"
+                    alt="Escrowly Users"
+                    className="img-content"
+                  />
+                </div>
+              </div>
+            </div>
+            <div className="container section">
+              <div className="row items-center sm-direction-column">
+                <div className="col">
+                  <img
+                    src="/images/escrowly-pay.jpg"
+                    alt="Escrowly Users"
+                    className="img-content"
+                  />
+                </div>
+                <div className="col">
+                  <h3 className="text-left">Who is Escrowly Button For?</h3>
+                  <p className="text-left">
+                    Anyone can use the Escrowly Button to provide secure
+                    cryptocurrency or conventional payment solutions through
+                    escrow directly from their own platform. It is ideal for
+                    eCommerce store owners, digital product sellers, domain name
+                    traders, freelancers and agencies, online marketplaces, etc.
+                    By integrating the Escrowly Button, you can eliminate
+                    payment obstacles, create trust between parties, and
+                    safeguard everyone from fraud and disputes.
+                  </p>
+                  <div className="flex gap-6 flex-row flex-wrap items-center justify-center">
+                    <img
+                      src={imgSetLight}
+                      alt="Escrowly"
+                      className="img-seat"
+                    />
+                    <img src={imgSetDark} alt="Escrowly" className="img-seat" />
+                    {/* <div className="img-seat">
+                    </div>
+                    <div className="img-seat">
+                    </div> */}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </main>
+      </div>
+    </>
+  );
+};
 
-export default EscrowlyButtons; 
+export default EscrowlyButtons;
