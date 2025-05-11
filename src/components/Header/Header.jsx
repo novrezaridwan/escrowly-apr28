@@ -219,18 +219,13 @@ const Header = ({ className }) => {
               <Link to="/about-us">Developer</Link>
               <ul className="sub-menu">
                 <li>
-                  <Link to="/api-guide">
+                  <Link to="/api-guide-2">
                     API Integration<span>Learn about Escrowly API</span>
                   </Link>
                 </li>
                 <li>
                   <Link to="/api-documentation">
                     API Documentation<span>Build by coders for coders</span>
-                  </Link>
-                </li>
-                <li>
-                  <Link to="/api-guide-2">
-                    API Guide<span>Build by coders for coders</span>
                   </Link>
                 </li>
                 <li>
