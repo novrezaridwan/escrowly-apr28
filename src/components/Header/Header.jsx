@@ -117,7 +117,7 @@ const Header = ({ className }) => {
               </ul>
             </li>
             <li className="has-sub-menu">
-              <Link to="/about-us">Broker</Link>
+              <Link>Broker</Link>
               <ul className="sub-menu">
                 <li>
                   <Link to="/escrowly-broker">
