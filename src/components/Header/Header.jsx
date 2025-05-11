@@ -160,7 +160,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link>
+                  <Link to="/partners-aplication-form">
                     Become a Partner<span>Grow your business and revenue</span>
                   </Link>
                 </li>
