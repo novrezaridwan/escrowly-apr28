@@ -272,8 +272,8 @@ const Header = ({ className }) => {
               <ul className="sub-menu">
                 <li>
                   <Link to="/partners-aplication-form">
-                    Partner Signup{" "}
-                    <span>Simplifying payments with low fees</span>
+                    Partner Application{" "}
+                    <span>Apply to save on payments</span>
                   </Link>
                 </li>
                 <li>
