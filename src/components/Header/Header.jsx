@@ -193,7 +193,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/api-guide-2">
+                  <Link to="/escrowly-api">
                     Escrowly API
                     <span>Get all benefits of Escrowly via API</span>
                   </Link>
@@ -220,7 +220,7 @@ const Header = ({ className }) => {
               <ul className="sub-menu">
                 <li>
                   <Link to="/api-guide-2">
-                    API Integration<span>Learn about Escrowly API</span>
+                    API Guide<span>Guide to Escrowly API</span>
                   </Link>
                 </li>
                 <li>
@@ -247,7 +247,7 @@ const Header = ({ className }) => {
                 <li>
                   <Link to="/escrowly-api">
                     Escrowly API
-                    <span>Add Escrowly buttons to your website</span>
+                    <span>Learn about Escrowly API</span>
                   </Link>
                 </li>
                 <li className="bordered">
