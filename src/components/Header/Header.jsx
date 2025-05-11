@@ -193,7 +193,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/api-guide">
+                  <Link to="/api-guide-2">
                     Escrowly API
                     <span>Get all benefits of Escrowly via API</span>
                   </Link>
