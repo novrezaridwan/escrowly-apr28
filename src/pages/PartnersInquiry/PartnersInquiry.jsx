@@ -4,7 +4,7 @@ import Breadcrumbs from "../../components/Breadcrumbs/Breadcrumbs";
 import Input from "../../components/Input/Input";
 import DropdownCustom from "../../components/DropdownCustom/DropdownCustom";
 import Textarea from "../../components/Textarea/Textarea";
-import "./PartnersEnquiry.scss";
+import "./PartnersInquiry.scss";
 import imgAustralia from "../../assets/country/australia.svg";
 import imgCanada from "../../assets/country/canada.svg";
 import imgChina from "../../assets/country/china.svg";
@@ -83,7 +83,7 @@ const dataVolume = [
   },
 ];
 
-const PartnersEnquiry = () => (
+const PartnersInquiry = () => (
   <>
     <Helmet>
       <title>Best Crypto Escrow - Escrowly</title>
@@ -114,7 +114,7 @@ const PartnersEnquiry = () => (
           breadcrumbs={[
             { title: "Home", url: "/" },
             { title: "Partners", url: "/our-partners" },
-            { title: "Partners Enquiry", url: "/partners-enquiry" },
+            { title: "Partners Inquiry", url: "/partners-inquiry" },
           ]}
         />
 
@@ -225,4 +225,4 @@ const PartnersEnquiry = () => (
   </>
 );
 
-export default PartnersEnquiry;
+export default PartnersInquiry;

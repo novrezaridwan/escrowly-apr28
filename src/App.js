@@ -31,9 +31,8 @@ import HelpDesk from "./pages/HelpDesk/HelpDesk";
 import HelpDeskSingle from "./pages/HelpDeskSingle/HelpDeskSingle";
 import OurPartners from "./pages/OurPartners";
 import GetStarted from "./pages/GetStarted";
-import PartnersEnquiry from "./pages/PartnersEnquiry/PartnersEnquiry";
+import PartnersInquiry from "./pages/PartnersInquiry/PartnersInquiry";
 import PartnerApplicationForm from "./pages/PartnerApplicationForm/PartnerApplicationForm";
-import ApiGuide from "./pages/ApiGuide";
 import EscrowlyPay from "./pages/EscrowlyPay/EscrowlyPay";
 import EscrowlyOffer from "./pages/EscrowlyOffer/EscrowlyOffer";
 import EscrowlyButtons from "./pages/EscrowlyButtons/EscrowlyButtons";
@@ -103,13 +102,12 @@ function MainLayout() {
         <Route path="/help-desk-single" element={<HelpDeskSingle />} />
         <Route path="/our-partners" element={<OurPartners />} />
         <Route path="/get-started" element={<GetStarted />} />
-        <Route path="/partners-enquiry" element={<PartnersEnquiry />} />
-        <Route path="/api-guide-2" element={<EscrowlyApiGuide />} />
+        <Route path="/partners-inquiry" element={<PartnersInquiry />} />
+        <Route path="/api-guide" element={<EscrowlyApiGuide />} />
         <Route
-          path="/partners-aplication-form"
+          path="/partners-application-form"
           element={<PartnerApplicationForm />}
         />
-        <Route path="/api-guide" element={<ApiGuide />} />
         <Route path="/escrowly-pay" element={<EscrowlyPay />} />
         <Route path="/escrowly-api" element={<EscrowlyApi />} />
         <Route path="/escrowly-offer" element={<EscrowlyOffer />} />

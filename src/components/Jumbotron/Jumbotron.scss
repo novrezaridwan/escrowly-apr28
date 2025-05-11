@@ -3,7 +3,20 @@
   position: relative;
   height: 520px;
   width: 100%;
-  background-color: #0d2350;
+  // background-color: #0d2350;
+  // background: linear-gradient(
+  //   to bottom,
+  //   #020417 0%,
+  //   #15287a 82%,
+  //   #0d1835 95%,
+  //   #ffffff 100%
+  // );
+  background: linear-gradient(
+    180deg,
+    rgb(2, 4, 24) 51%,
+    #0c112d 72%,
+    rgb(43, 47, 86) 100%
+  );
   overflow: hidden;
   display: flex;
   .flex {
@@ -32,7 +45,7 @@
       font-size: 56px;
       font-weight: 700;
       color: $surface-0;
-      letter-spacing: -4px;
+      letter-spacing: -2px;
       text-align: left;
     }
     .desc {
@@ -89,7 +102,8 @@
     right: -10%;
     width: 500px;
     height: 800px;
-    background-color: #192e59;
+    // background-color: #192e59;
+    background-color: rgba($color: #ffffff, $alpha: 0.05);
     transform: rotate(30deg);
   }
   &::after {
@@ -99,7 +113,8 @@
     position: absolute;
     width: 500px;
     height: 800px;
-    background-color: #253861;
+    // background-color: #253861;
+    background-color: rgba($color: #ffffff, $alpha: 0.05);
     transform: rotate(30deg);
   }
 }

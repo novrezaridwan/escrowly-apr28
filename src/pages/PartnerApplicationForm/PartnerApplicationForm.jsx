@@ -73,7 +73,7 @@ const dataJobLevel = [
   },
 ];
 
-const PartnersEnquiry = () => (
+const PartnersInquiry = () => (
   <>
     <Helmet>
       <title>Best Crypto Escrow - Escrowly</title>
@@ -104,7 +104,7 @@ const PartnersEnquiry = () => (
           breadcrumbs={[
             { title: "Home", url: "/" },
             { title: "Partners", url: "/our-partners" },
-            { title: "Partners Enquiry", url: "/partners-enquiry" },
+            { title: "Partners Application Form", url: "/partners-inquiry" },
           ]}
         />
 
@@ -230,4 +230,4 @@ const PartnersEnquiry = () => (
   </>
 );
 
-export default PartnersEnquiry;
+export default PartnersInquiry;

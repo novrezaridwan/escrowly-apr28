@@ -117,7 +117,7 @@ const Header = ({ className }) => {
               </ul>
             </li>
             <li className="has-sub-menu">
-              <Link>Broker</Link>
+              <Link to="/about-us">Broker</Link>
               <ul className="sub-menu">
                 <li>
                   <Link to="/escrowly-broker">
@@ -125,7 +125,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/sign-in">
+                  <Link to="/broker">
                     Become a Broker<span>Act as a trusted third party</span>
                   </Link>
                 </li>
@@ -160,7 +160,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/partners-aplication-form">
+                  <Link>
                     Become a Partner<span>Grow your business and revenue</span>
                   </Link>
                 </li>
@@ -193,7 +193,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/escrowly-api">
+                  <Link to="/api-guide">
                     Escrowly API
                     <span>Get all benefits of Escrowly via API</span>
                   </Link>
@@ -219,8 +219,8 @@ const Header = ({ className }) => {
               <Link to="/about-us">Developer</Link>
               <ul className="sub-menu">
                 <li>
-                  <Link to="/api-guide-2">
-                    API Guide<span>Guide to Escrowly API</span>
+                  <Link to="/api-guide">
+                    API Integration<span>Learn about Escrowly API</span>
                   </Link>
                 </li>
                 <li>
@@ -247,7 +247,7 @@ const Header = ({ className }) => {
                 <li>
                   <Link to="/escrowly-api">
                     Escrowly API
-                    <span>Learn about Escrowly API</span>
+                    <span>Add Escrowly buttons to your website</span>
                   </Link>
                 </li>
                 <li className="bordered">
@@ -271,9 +271,9 @@ const Header = ({ className }) => {
               <Link to="/our-partners">Partners</Link>
               <ul className="sub-menu">
                 <li>
-                  <Link to="/partners-aplication-form">
-                    Partner Application{" "}
-                    <span>Apply to save on payments</span>
+                  <Link to="/partners-application-form">
+                    Partner Signup{" "}
+                    <span>Simplifying payments with low fees</span>
                   </Link>
                 </li>
                 <li>
@@ -283,7 +283,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/partners-enquiry">
+                  <Link to="/partners-inquiry">
                     Partners Inquiry{" "}
                     <span>For partnership inquiries contact us</span>
                   </Link>
