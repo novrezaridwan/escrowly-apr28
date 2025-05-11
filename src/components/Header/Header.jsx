@@ -125,7 +125,7 @@ const Header = ({ className }) => {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/broker">
+                  <Link to="/sign-in">
                     Become a Broker<span>Act as a trusted third party</span>
                   </Link>
                 </li>
