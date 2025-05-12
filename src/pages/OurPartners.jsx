@@ -12,7 +12,7 @@ const OurPartners = () => (
             <meta property="og:title" content="Escrowly.com – Secure Crypto Escrow for Safe Transactions" />
             <meta property="og:description" content="Escrowly ensures safe crypto transactions for digital goods, services, and high-value assets. Join the trusted platform for secure escrow services in the crypto world." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-            <meta property="og:url" content="https://escrowly.com" />
+            <meta property="og:url" content="https://escrowly.com/our-partners" />
             <meta name="twitter:card" content="summary_large_image" />
         </Helmet>
         <div>

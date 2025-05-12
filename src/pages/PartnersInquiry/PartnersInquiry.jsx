@@ -105,7 +105,7 @@ const PartnersInquiry = () => (
         content="Submit your inquiry to partner with Escrowly and offer secure crypto escrow services. We’ll get back to you shortly to discuss collaboration opportunities."
       />
       <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-      <meta property="og:url" content="https://escrowly.com" />
+      <meta property="og:url" content="https://escrowly.com/partners-inquiry" />
       <meta name="twitter:card" content="summary_large_image" />
     </Helmet>
     <div>
