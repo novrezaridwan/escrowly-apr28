@@ -26,55 +26,55 @@ const FeesTransactions = function () {
       amount: "$1 - $500",
       standard: "3.5%",
       concierge: "$10",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$500.01 - $5,000",
       standard: "2.5%",
       concierge: "$15",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$5000.01 - $10,000",
       standard: "2.2%",
       concierge: "$75",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$10,000.01 - $100,000",
       standard: "1.8%",
       concierge: "$150",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$100,000.01 - $500,000",
       standard: "1.5%",
       concierge: "$600",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$500,000.01 - $1,000,000",
       standard: "1.0%",
       concierge: "$2000",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$1,000,000.01 - $5,000,000",
       standard: "0.7%",
       concierge: "$4,500",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$5,000,000.01 - $10,000,000",
       standard: "0.4%",
       concierge: "$7,500",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
     {
       amount: "$10,000,000+",
       standard: "0.2%",
       concierge: "Custom Quote",
-      noCharges: "No Charges",
+      noCharges: "$0",
     },
   ];
 
@@ -112,7 +112,7 @@ const FeesTransactions = function () {
                 <div className="td">Transaction Amount (Crypto Amount)</div>
                 <div className="td">Fee Percentage</div>
                 <div className="td">Minimum Fee</div>
-                <div className="td">No Charges</div>
+                <div className="td">Concierge Charges</div>
               </div>
               {transactionData.map((row, index) => (
                 <div className="tr" key={index}>
@@ -160,7 +160,7 @@ const FeesTransactions = function () {
                 <div className="td">Transaction Amount (Crypto Amount)</div>
                 <div className="td">Fee Percentage</div>
                 <div className="td">Minimum Fee</div>
-                <div className="td">No Charges</div>
+                <div className="td">Concierge Charges</div>
               </div>
               {transactionData.map((row, index) => (
                 <div className="tr" key={index}>
