@@ -186,9 +186,9 @@ const FeesTransactions = function () {
           )}
         </div>
         <div className="blog-article-content max-w-full">
-          <h3>
+          <h2>
             Instantly Estimate Escrow Fees for Your Secure Crypto Transactions
-          </h3>
+          </h2>
           <p>
             Escrowly.com enables users to evaluate the cost of our crypto escrow
             service, client can get cost estimates before starting their secure crypto
