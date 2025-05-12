@@ -48,26 +48,26 @@ const OurVision = () => {
                             // }}
                             slidesPerView={"auto"}
                         >
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-7.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-6.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-5.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-4.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-3.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-9.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-16.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-2.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-7.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-6.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-5.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-4.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-3.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-9.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-16.svg" alt="" /></div></SwiperSlide>
-                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-2.svg" alt="" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-7.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-6.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-5.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-4.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-3.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-9.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-16.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-2.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-7.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-6.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-5.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-4.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-3.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-8.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-9.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-16.svg" alt="Escrowly Data" /></div></SwiperSlide>
+                                <SwiperSlide style={{ width: '51.38px' }}><div className="item"><img src="/img/coin-2.svg" alt="Escrowly Data" /></div></SwiperSlide>
                         </Swiper>
                     </div>
                 </div>
