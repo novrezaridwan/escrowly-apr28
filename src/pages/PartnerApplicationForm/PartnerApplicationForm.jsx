@@ -192,7 +192,7 @@ const PartnersInquiry = () => (
                   <label className="font-medium text-sm text-primary">
                     Your Company Website
                   </label>
-                  <Input type="text" placeholder=" http://www." />
+                  <Input type="text" placeholder="www.yoursite.com" />
                 </div>
               </div>
             </div>
