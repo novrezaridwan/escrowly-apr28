@@ -173,7 +173,7 @@ const HelpDesk = () => {
                 <meta property="og:title" content="24/7 Crypto Escrow Support & Live Chat Help | Escrowly.com" />
                 <meta property="og:description" content="Reach out to Escrowly’s dedicated support team for live chat, 24/7 assistance, and fast help with your escrow transactions. We’re here to assist you every step of the way." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/help-desk" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

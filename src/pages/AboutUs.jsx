@@ -19,7 +19,7 @@ const AboutUs = () => (
             <meta property="og:title" content="Escrowly.com | The World’s First Fully Crypto-Native Escrow Platform" />
             <meta property="og:description" content="Find out how Escrowly.com protects crypto transactions with stablecoin escrow, compliance, and trustless smart contracts. Built for businesses, freelancers, and marketplaces." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-            <meta property="og:url" content="https://escrowly.com" />
+            <meta property="og:url" content="https://escrowly.com/about-us" />
             <meta name="twitter:card" content="summary_large_image" />
         </Helmet>
         <div>

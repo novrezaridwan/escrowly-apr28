@@ -16,7 +16,7 @@ const HomePage = () => (
             <meta property="og:title" content="Estimate Your Crypto Escrow Fees | Escrowly.com" />
             <meta property="og:description" content="Quickly calculate how much your secure crypto escrow will cost. Escrowly's transparent fee calculator helps you plan transactions with confidence." />
             <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-            <meta property="og:url" content="https://escrowly.com" />
+            <meta property="og:url" content="https://escrowly.com/fee-calculator" />
             <meta name="twitter:card" content="summary_large_image" />
         </Helmet>    
         <div>
