@@ -75,29 +75,18 @@ const dataJobLevel = [
 
 const PartnersInquiry = () => (
   <>
-    <Helmet>
-      <title>Best Crypto Escrow - Escrowly</title>
-      <meta
-        name="description"
-        content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders."
-      />
-      <meta
-        name="keywords"
-        content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate"
-      />
-      <meta name="author" content="Escrowly Crypto Escrow Team" />
-      <meta
-        property="og:title"
-        content="Escrowly – Buy & Sell Online Safely with Crypto"
-      />
-      <meta
-        property="og:description"
-        content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets."
-      />
-      <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-      <meta property="og:url" content="https://escrowly.com" />
-      <meta name="twitter:card" content="summary_large_image" />
-    </Helmet>
+<Helmet>
+    <title>Become an Escrowly Partner | Crypto Escrow Broker & Affiliate Application</title>
+    <meta name="description" content="Apply to become an official Escrowly partner. Join our crypto escrow network as a broker or affiliate and earn by helping users transact safely in digital deals." />
+    <meta name="keywords" content="Escrowly partner signup, crypto escrow affiliate, become a broker, partner with Escrowly, crypto escrow referral, escrow commission program, secure transaction partner, crypto escrow application" />
+    <meta name="author" content="Escrowly Crypto Escrow Team" />
+    <meta property="og:title" content="Partner with Escrowly | Earn as a Crypto Escrow Broker or Affiliate" />
+    <meta property="og:description" content="Join the Escrowly partner program to help users complete safe crypto transactions. Apply today to become a broker or affiliate and start earning." />
+    <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
+    <meta property="og:url" content="https://escrowly.com/partner-signup" />
+    <meta name="twitter:card" content="summary_large_image" />
+</Helmet>
+
     <div>
       <main className="main-content">
         <Breadcrumbs
