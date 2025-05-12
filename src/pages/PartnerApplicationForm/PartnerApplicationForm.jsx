@@ -93,7 +93,7 @@ const PartnersInquiry = () => (
           breadcrumbs={[
             { title: "Home", url: "/" },
             { title: "Partners", url: "/our-partners" },
-            { title: "Partners Application Form", url: "/partners-inquiry" },
+            { title: "Partners Application Form", url: "" },
           ]}
         />
 
