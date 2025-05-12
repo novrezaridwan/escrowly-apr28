@@ -85,9 +85,9 @@ const HowItWorksBroker = () => {
                                         </ul>
                                         <h3>Seamless Broker Protection</h3>
                                         <p>As a decentralized escrow service, Escrowly holds funds in USDT or USDC, providing crypto payment protection during every stage of the transaction. You, the broker, stay in control-able to monitor progress, enforce deal terms, and resolve disputes through our advanced dashboard.</p>
-
-
                                         <h3>Why Use Escrowly.com as a Broker?</h3>
+                                        <p>Escrowly operates by implementing smart contract escrow alongside Stablecoins, which aims to remove fraud and reduce market uncertainty while simplifying the handling of complicated negotiations. The crypto escrow platform provides secure protection for every type of brokerage deal, including escrow for car sales, escrow for business acquisitions, and escrow for industrial equipment transactions.</p>
+                                        <p><strong>Broker benefits include:</strong></p>
                                         <ul>
                                             <li>The platform allows you to serve as a trustworthy bridge between crypto buyers and sellers.</li>
                                             <li>Escrowly facilitates financial agreements for escrow for industrial equipment purchases, escrow for jewelry or luxury watches, and escrow for contractor services.</li>
