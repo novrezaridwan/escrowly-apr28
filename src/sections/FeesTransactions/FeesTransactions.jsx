@@ -215,7 +215,7 @@ const FeesTransactions = function () {
             transaction. You can make these arrangements with complete
             transparency.
           </p>
-          <h3>We Currently Support</h3>
+          <h3>Crypto Curency We Currently Support:</h3>
           <p>Supporting stablecoins for crypto escrow.</p>
           <ul>
             <li><strong>USDT (Tether)</strong></li>
