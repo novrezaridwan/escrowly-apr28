@@ -26,7 +26,7 @@ const EscrowlyPay = () => {
     },
     {
       icon: "mingcute:safe-lock-fill",
-      title: "Safe and secure",
+      title: "Safe and secure ",
       desc: "Through Escrowly Pay, you can secure funds for digital purchases, professional services, and collectible sales securely",
     },
   ];
