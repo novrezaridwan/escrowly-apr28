@@ -86,23 +86,23 @@ const dataVolume = [
 const PartnersInquiry = () => (
   <>
     <Helmet>
-      <title>Best Crypto Escrow - Escrowly</title>
+      <title>New Partner Inquiries | Partner with Escrowly for Secure Crypto Transactions</title>
       <meta
         name="description"
-        content="Secure your crypto transactions with Escrowly, the trusted escrow service for crypto traders."
+        content="Thank you for your interest in partnering with Escrowly. Fill out the form to start your partnership and help users with secure crypto escrow transactions."
       />
       <meta
         name="keywords"
-        content="secure crypto escrow, secure transactions, Escrowly, Bitcoin escrow, Ethereum escrow, crypto escrow service, smart contract escrow, blockchain escrow service, crypto escrow for businesses, USDT escrow service, escrow wallet for crypto, secure P2P crypto escrow, escrow for digital items, escrow for domain names, escrow for real estate"
+        content="Escrowly partner inquiries, become a partner, secure crypto escrow partnership, partner with Escrowly, crypto transaction partners, Escrowly business inquiries"
       />
       <meta name="author" content="Escrowly Crypto Escrow Team" />
       <meta
         property="og:title"
-        content="Escrowly – Buy & Sell Online Safely with Crypto"
+        content="Partner with Escrowly.com | Secure Crypto Escrow Partnership Inquiry"
       />
       <meta
         property="og:description"
-        content="Buy and sell online with confidence using Escrowly. Our secure crypto escrow service ensures safe transactions for digital goods, services, and high-value assets."
+        content="Submit your inquiry to partner with Escrowly and offer secure crypto escrow services. We’ll get back to you shortly to discuss collaboration opportunities."
       />
       <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
       <meta property="og:url" content="https://escrowly.com" />
@@ -181,7 +181,7 @@ const PartnersInquiry = () => (
                 <label className="font-medium text-sm text-primary">
                   Your Company Website
                 </label>
-                <Input type="text" placeholder=" http://www." />
+                <Input type="text" placeholder="www.website.com" />
               </div>
               <div className="flex flex-col gap-2">
                 <label className="font-medium text-sm text-primary">
