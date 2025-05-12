@@ -76,14 +76,14 @@ const dataJobLevel = [
 const PartnersInquiry = () => (
   <>
 <Helmet>
-    <title>Become an Escrowly Partner | Crypto Escrow Broker & Affiliate Application</title>
-    <meta name="description" content="Apply to become an official Escrowly partner. Join our crypto escrow network as a broker or affiliate and earn by helping users transact safely in digital deals." />
-    <meta name="keywords" content="Escrowly partner signup, crypto escrow affiliate, become a broker, partner with Escrowly, crypto escrow referral, escrow commission program, secure transaction partner, crypto escrow application" />
+    <title>Crypto Escrow Partner Application | Become an Escrowly.com Partner</title>
+    <meta name="description" content="Apply to become an official Escrowly partner. Join our crypto escrow network as a partner and earn by helping users transact safely in digital deals." />
+    <meta name="keywords" content="Escrowly partner signup, crypto escrow affiliate, become a partner with Escrowly, crypto escrow referral, escrow commission program, secure transaction partner, crypto escrow application" />
     <meta name="author" content="Escrowly Crypto Escrow Team" />
-    <meta property="og:title" content="Partner with Escrowly | Earn as a Crypto Escrow Broker or Affiliate" />
-    <meta property="og:description" content="Join the Escrowly partner program to help users complete safe crypto transactions. Apply today to become a broker or affiliate and start earning." />
+    <meta property="og:title" content="Partner with Escrowly.com | Earn as a Crypto Escrow Partner or Affiliate" />
+    <meta property="og:description" content="Join the Escrowly.com partner program to help users complete safe crypto transactions. Apply today to become a partner or affiliate and start earning." />
     <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-    <meta property="og:url" content="https://escrowly.com/partner-signup" />
+    <meta property="og:url" content="https://escrowly.com/partners-application-form" />
     <meta name="twitter:card" content="summary_large_image" />
 </Helmet>
 
@@ -208,7 +208,7 @@ const PartnersInquiry = () => (
               <label for="privacypolicy">
                 By clicking 'Submit', you agree to be contacted by Escrowly
                 about partnership opportunities and accept our{" "}
-                <a href="https://www.gogle.com">Privacy policy.</a>
+                <a href="/privacy-policy">Privacy policy.</a>
               </label>
             </div>
             <button className="btn-submit">Submit</button>
