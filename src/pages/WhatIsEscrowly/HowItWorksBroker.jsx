@@ -89,11 +89,16 @@ const HowItWorksBroker = () => {
                                         <p>Escrowly operates by implementing smart contract escrow alongside Stablecoins, which aims to remove fraud and reduce market uncertainty while simplifying the handling of complicated negotiations. The crypto escrow platform provides secure protection for every type of brokerage deal, including escrow for car sales, escrow for business acquisitions, and escrow for industrial equipment transactions.</p>
                                         <p><strong>Broker benefits include:</strong></p>
                                         <ul>
-                                            <li>The platform allows you to serve as a trustworthy bridge between crypto buyers and sellers.</li>
-                                            <li>Escrowly facilitates financial agreements for escrow for industrial equipment purchases, escrow for jewelry or luxury watches, and escrow for contractor services.</li>
-                                            <li>The platform uses crypto-specific features, unlike traditional fiat currency systems.</li>
+                                            <li>The platform allows you to serve as a trustworthy bridge between crypto buyers and sellers</li>
+                                            <li>Escrowly guarantees brokers will receive their commission after the successful completion of the deal</li>
+                                            <li>Transparent tracking of escrow status for all parties</li>
+                                            <li>Personalized smart contracts that meet your transaction terms</li>
+                                            <li>Escrowly facilitates financial agreements for escrow for industrial equipment purchases, escrow for jewelry or luxury watches, and escrow for contractor services etc</li>
+                                            <li>The platform uses crypto-specific features, unlike traditional fiat currency systems</li>
                                             <li>Crypto payment protection escrow features constitute an authentic service to client’s</li>
+                                            <li>A system exists to resolve disputes that arise between parties in conflicts</li>
                                         </ul>
+                                        <p>The decentralized nature of our escrow service helps maintain the status of the trusted middleman, which blockchain logic actively enforces.</p>
                                         <p>Brokers can now secure their trades at Escrowly - A secure P2P crypto escrow platform - that honors their position, safeguards money, and offers the best crypto escrow services.</p>
                                         <h6>Get Started as a Broker with Escrowly!</h6>
                                     </div>
