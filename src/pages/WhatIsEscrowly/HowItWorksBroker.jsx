@@ -43,11 +43,14 @@ const HowItWorksBroker = () => {
                                     />
                                     <div className="blog-article-content">
                                         <h3>Facilitate Crypto Deals. Earn Trust. Get Paid.</h3>
-                                        <p>People constantly rely on brokers to bring stability to the world of crypto deals, which is in a state of constant uncertainty. You can feel protected as well as obtain compensation through Escrowly whether you guide secure P2P crypto escrow transactions, handle cross-border crypto escrow services, or arrange high-value crypto deals between buyers and sellers.</p>
+                                        <p>Escrowly Broker is designed for professionals who facilitate deals between buyers and sellers while ensuring peace of mind through our secure crypto escrow service. Whether you’re managing large-scale transactions, complex negotiations, or multi-party deals, our platform gives you the control and transparency you need.</p>
                                         <p>The pioneering crypto-only escrow platform Escrowly.com delivers an easy method for brokers to handle transactions that combine USDT and USDC, which are the most secure and reliable digital assets.</p>
                                         <blockquote>The broker can create a “Confidential Transaction” assuring the Buyer and Seller are not visible to each other, The Broker will be handling from Start to Finish the whole process of the transactions that means full confidentiality on the deals making the broker a super broker to manage and control the deal</blockquote>
                                         <img className="w-full h-auto my-4 rounded-lg" src="/images/how-work-broker.webp" alt="Escrowly Broker Services"/>
                                         <p>Either you are brokering domain name deals, digital items? Online Art etc, Escrowly.com is your perfect partner in making it easily to close the deal!</p>
+                                        <h3>Secure Crypto Escrow Services for Brokers, Agents & Middlemen</h3>
+                                        <p>The fast-digital economy depends heavily on brokers who link buyers with sellers in valuable transactions. Crypto payments introduce elevated risks to transactions and decrease the capability to establish trust between parties.</p>
+                                        <p>That’s where Escrowly comes in. The completely crypto-native escrow platform Escrowly provides brokers with secure transactions, together with transparent and guaranteed safety for all participants who conduct business using only USDT and USDC.</p>
                                         <p>Here’s how it works:</p>
                                         <h3>Step 1: Set Up the Deal</h3>
                                         <p>By finding your way to your Escrowly dashboard, you can initiate an exchange. All you need to do is enter the following transaction details:</p>
