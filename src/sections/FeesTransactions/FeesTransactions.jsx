@@ -256,9 +256,7 @@ const FeesTransactions = function () {
             <li>Escrow for Domain Name Marketplaces</li>
             <li>Escrow for Digital items & Games and many more.</li>
           </ul>
-          <p className="tagline">
-            <strong>Plan Smarter. Trade Safer. Only Pay What's Fair</strong>
-          </p>
+          <h6>Plan Smarter. Trade Safer. Only Pay What's Fair</h6>
         </div>
       </div>
     </section>
