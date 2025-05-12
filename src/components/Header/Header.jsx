@@ -120,12 +120,12 @@ const Header = ({ className }) => {
               <Link to="/about-us">Broker</Link>
               <ul className="sub-menu">
                 <li>
-                  <Link to="/escrowly-broker">
+                  <Link to="/how-it-works-broker">
                     Learn more<span>Learn how Escrowly broker works</span>
                   </Link>
                 </li>
                 <li>
-                  <Link to="/broker">
+                  <Link to="/sign-in">
                     Become a Broker<span>Act as a trusted third party</span>
                   </Link>
                 </li>
