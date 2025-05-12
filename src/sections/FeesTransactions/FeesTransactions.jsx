@@ -220,10 +220,10 @@ const FeesTransactions = function () {
             transparency.
           </p>
           <h3>We Currently Support</h3>
-          <p>Supporting USDT and USDC stablecoins for crypto escrow.</p>
+          <p>Supporting stablecoins for crypto escrow.</p>
           <ul>
-            <li>USDT (Tether)</li>
-            <li>USDC (USD Coin)</li>
+            <li><strong>USDT (Tether)</strong></li>
+            <li><strong>USDC (USD Coin)</strong></li>
           </ul>
           <p>No fiat. No volatility. Just stable, reliable crypto escrow.</p>
           <h3>Example Scenarios</h3>
@@ -260,9 +260,7 @@ const FeesTransactions = function () {
             <li>Escrow for Domain Name Marketplaces</li>
             <li>Escrow for Digital items & Games and many more.</li>
           </ul>
-          <p className="tagline">
-            <strong>Plan Smarter. Trade Safer. Only Pay What's Fair</strong>
-          </p>
+          <p className="tagline"><strong>Plan Smarter. Trade Safer. Only Pay What's Fair</strong></p>
         </div>
       </div>
     </section>
