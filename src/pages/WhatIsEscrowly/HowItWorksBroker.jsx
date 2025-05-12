@@ -99,8 +99,8 @@ const HowItWorksBroker = () => {
                                             <li>A system exists to resolve disputes that arise between parties in conflicts</li>
                                         </ul>
                                         <p>The decentralized nature of our escrow service helps maintain the status of the trusted middleman, which blockchain logic actively enforces.</p>
-                                        <p>Brokers can now secure their trades at Escrowly - A secure P2P crypto escrow platform - that honors their position, safeguards money, and offers the best crypto escrow services.</p>
-                                        <h6>Get Started as a Broker with Escrowly!</h6>
+                                        <p>Brokers can now secure their trades at Escrowly - we’re the first fully crypto-based escrow platform, registered with FinCEN and designed to protect all parties, especially intermediaries, with airtight, secure P2P crypto escrow protocols that honor their position, safeguards money, and offers the best crypto escrow services.</p>
+                                        <h6>Set the terms. Lock the funds. Close with confidence - Get Started as a Broker with Escrowly!</h6>
                                     </div>
                                 </div>
                                 <div className="col col-right">
