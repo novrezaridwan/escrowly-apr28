@@ -221,8 +221,8 @@ const FeesTransactions = function () {
             <li><strong>USDT (Tether)</strong></li>
             <li><strong>USDC (USD Coin)</strong></li>
           </ul>
-          <h6>Example Scenarios</h6>
-          <ul>
+          <h6>Example Scenarios:</h6>
+          <ol>
             <li>
               Escrow for International Business Deals: <strong>$50,000</strong>{" "}
               in USDT → Estimated fee: <strong>$900</strong>
@@ -235,7 +235,7 @@ const FeesTransactions = function () {
               Escrow for Real Estate Closing: <strong>$250,000</strong> in USDT
               → Estimated fee: <strong>$3,750</strong>
             </li>
-          </ul>
+          </ol>
           <p>
             The calculator will allow you to simulate transaction processes and
             plan for future costs.
