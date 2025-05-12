@@ -196,7 +196,7 @@ const FeesTransactions = function () {
             system, Escrowly provides real-time estimates of payment costs that
             eliminate secret costs or unexpected charges.
           </p>
-          <h3>How Escrow Fees Work</h3>
+          <h3>How Escrowly Fees Work</h3>
           <p>
             Escrowly requires customers to pay a fee when using its services for
             secure crypto transactions. This fee covers:
