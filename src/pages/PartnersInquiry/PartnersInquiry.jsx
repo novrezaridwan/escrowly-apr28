@@ -181,7 +181,7 @@ const PartnersInquiry = () => (
                 <label className="font-medium text-sm text-primary">
                   Your Company Website
                 </label>
-                <Input type="text" placeholder="www.website.com" />
+                <Input type="text" placeholder="e.g www.escrowly.com" />
               </div>
               <div className="flex flex-col gap-2">
                 <label className="font-medium text-sm text-primary">
