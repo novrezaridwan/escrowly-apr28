@@ -19,7 +19,7 @@ const ApprovedCarriers = () => {
                 <meta property="og:title" content="Escrowly.com | Verified Carriers for Secure Escrow Deliveries" />
                 <meta property="og:description" content="Connect smart contract escrow with trusted physical delivery. Escrowly’s approved carriers ensure insured, trackable logistics for all high-value crypto-linked transactions." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/approved-carriers" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

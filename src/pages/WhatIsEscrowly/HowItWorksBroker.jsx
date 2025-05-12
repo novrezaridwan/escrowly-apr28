@@ -19,7 +19,7 @@ const HowItWorksBroker = () => {
                 <meta property="og:title" content="Broker Crypto Deals Securely with Escrowly.com | Smart Contract Escrow" />
                 <meta property="og:description" content="Learn how brokers can facilitate crypto transactions securely using Escrowly. Lock funds, oversee deals, and earn commission automatically – all with stablecoins and smart contracts." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/how-it-works-broker" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

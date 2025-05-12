@@ -20,7 +20,7 @@ const Benefits = () => {
                 <meta property="og:title" content="Benefits of Escrowly | Trusted Crypto Escrow Platform" />
                 <meta property="og:description" content="Realize why thousands trust Escrowly for their crypto escrow needs. From automated payouts to business escrow, Escrowly.com delivers unmatched security and efficiency." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/benefits" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

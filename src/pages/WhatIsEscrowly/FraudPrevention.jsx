@@ -19,7 +19,7 @@ const FraudPrevention = () => {
                 <meta property="og:title" content="Escrowly.com | Prevent Crypto Payment Fraud with Secure Escrow" />
                 <meta property="og:description" content="Escrowly.com safeguards every transaction with verified users, automated smart contracts, and a transparent dispute resolution system. Trust crypto escrow done right." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/fraud-prevention" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

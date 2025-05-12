@@ -19,7 +19,7 @@ const PaymentOptions = () => {
                 <meta property="og:title" content="Escrowly.com | Secure Crypto Escrow for Payments & More" />
                 <meta property="og:description" content="Escrowly.com is your trusted platform for secure crypto escrow transactions. Handling freelance payments to enterprise deals, protect your assets with our trusted smart contract system." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/payment-options" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

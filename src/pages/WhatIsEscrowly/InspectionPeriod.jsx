@@ -19,7 +19,7 @@ const InspectionPeriod = () => {
                 <meta property="og:title" content="Verify Before You Pay – Escrowly Inspection Period for Crypto Escrow" />
                 <meta property="og:description" content="With Escrowly.com, inspect before approving payment. Our smart contract escrow gives buyers time to verify delivery before releasing funds - perfect for secure crypto deals." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/inspection-period" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

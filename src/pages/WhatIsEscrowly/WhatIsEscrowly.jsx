@@ -20,7 +20,7 @@ const WhatIsEscrowly = () => {
                 <meta property="og:title" content="Escrowly.com – Secure Crypto Escrow for Digital and Real World Transactions" />
                 <meta property="og:description" content="Buy, Sell, and Broker with peace of mind using Escrowly.com – the most trusted platform for secure crypto escrow services." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/what-is-escrowly" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

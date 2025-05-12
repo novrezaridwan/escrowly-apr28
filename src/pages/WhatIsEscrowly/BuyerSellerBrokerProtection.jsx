@@ -19,7 +19,7 @@ const BuyerSellerBrokerProtection = () => {
                 <meta property="og:title" content="Crypto Transaction Safety for Buyers, Sellers & Brokers | Escrowly.com" />
                 <meta property="og:description" content="Escrowly ensures secure crypto payments for buyers, sellers, and brokers through smart contract escrow and stablecoins settlement — No Fraud!, No Chargebacks!" />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/buyer-seller-broker-protection" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

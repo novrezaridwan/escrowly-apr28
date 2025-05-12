@@ -19,7 +19,7 @@ const Disputes = () => {
                 <meta property="og:title" content="Escrowly.com | Fast & Fair Dispute Resolution for Crypto Escrow" />
                 <meta property="og:description" content="Resolve crypto escrow disputes fairly with Escrowly. Our transparent process uses smart contracts and expert reviews to ensure justice for all parties." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/disputes" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

@@ -19,7 +19,7 @@ const Security = () => {
                 <meta property="og:title" content="Escrowly.com | Secure Blockchain-Based Crypto Escrow" />
                 <meta property="og:description" content="Experience unmatched crypto escrow security with Escrowly’s blockchain-powered platform. All transactions are encrypted, auditable, and stablecoin backed for trust and peace of mind." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/security" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

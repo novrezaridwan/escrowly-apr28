@@ -19,7 +19,7 @@ const CurrencyOptions = () => {
                 <meta property="og:title" content="Crypto Escrow Currency Options | Escrowly.com" />
                 <meta property="og:description" content="Escrowly.com supports top cryptocurrencies like USDT, USDC, ETH, and BTC for super fast, secure, and global escrow transactions. Use our API for perfect automation." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/currency-options" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

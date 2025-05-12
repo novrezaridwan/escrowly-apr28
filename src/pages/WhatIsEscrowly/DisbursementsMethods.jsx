@@ -19,7 +19,7 @@ const DisbursementsMethods = () => {
                 <meta property="og:title" content="Escrowly.com | Secure Crypto Disbursement via Smart Contracts" />
                 <meta property="og:description" content="From freelancers to enterprise payouts, Escrowly automates crypto disbursements using smart contract escrow and real-time settlement – no banks, no delays." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/disbursements-methods" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>

@@ -20,7 +20,7 @@ const AllowedGoodsAndServices = () => {
                 <meta property="og:title" content="Trade Goods & Services Securely with Crypto Escrow | Escrowly.com" />
                 <meta property="og:description" content="From $10 to $100 million+, Escrowly.com lets you securely trade crypto, property, domains, cars, services, and more across 100+ sectors using trusted crypto escrow." />
                 <meta property="og:image" content="https://escrowly.com/og-image.jpg" />
-                <meta property="og:url" content="https://escrowly.com" />
+                <meta property="og:url" content="https://escrowly.com/allowed-goods-and-services" />
                 <meta name="twitter:card" content="summary_large_image" />
             </Helmet>
             <div>
