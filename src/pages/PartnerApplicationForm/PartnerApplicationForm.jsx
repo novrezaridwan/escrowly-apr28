@@ -206,10 +206,10 @@ const PartnersInquiry = () => (
             </div>
             <div className="flex gap-2 mt-4 custom-checkbox">
               <input type="checkbox" id="privacypolicy" name="privacypolicy" />
-              <label htmlFor="privacypolicy">
+              <label for="privacypolicy">
                 By clicking 'Submit', you agree to be contacted by Escrowly
                 about partnership opportunities and accept our{" "}
-                <Link to="/privacy-policy">Privacy Policy</Link>
+                <Link to="/privacy-policy">Privacy Policyxxxxx</Link>
               </label>
             </div>
             <button className="btn-submit">Submit</button>
