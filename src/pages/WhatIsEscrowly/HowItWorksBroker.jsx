@@ -71,7 +71,7 @@ const HowItWorksBroker = () => {
                                         <img className="w-full h-auto my-4 rounded-lg" src="/images/how-work-broker2.webp" alt="Escrowly About How Broker Works"/>
                                         <h3>Transparent to Buyers and Sellers</h3>
                                         <p>The Broker commission can be paid by the Buyer or Seller and are shown to both buyers and sellers and things are completely transparent to both buyers and sellers, we also have another option where broker selects "Confidential Transaction".</p>
-                                        <h3>Confidential Transaction – Broker Controlled</h3>
+                                        <h3>What is Confidential Transaction?</h3>
                                         <p>In a confidential transaction by Broker, the financial terms (purchase price, escrowly fee, and broker commission) are not displayed to the Buyer or Seller. The Broker commission can be paid by the Buyer, Seller, or can be split between the Buyer and Seller. Also, the Escrowly fee can be paid by the Buyer, Broker, or split 50/50 between the Buyer and Broker.</p>
                                         <h3>Commission Transparency and Smart Control</h3>
                                         <p>Brokers can securely receive commissions once deals close successfully. Thanks to escrow smart contracts crypto solutions, payments are automated and trustless—no delays, no reversals, no surprises. Our broker escrow setup is ideal for:</p>
