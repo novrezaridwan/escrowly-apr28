@@ -223,15 +223,15 @@ const FeesTransactions = function () {
           </ul>
           <h6>Example Scenarios:</h6>
             <p>
-              1- Escrow for International Business Deals: <strong>$50,000</strong>{" "}
+              1 - Escrow for International Business Deals: <strong>$50,000</strong>{" "}
               in USDT → Estimated fee: <strong>$900</strong>
             </p>
             <p>
-              2- Escrow for Art and Collectables: <strong>$10,000</strong> in USDC
+              2 - Escrow for Art and Collectables: <strong>$10,000</strong> in USDC
               → Estimated fee: <strong>$220</strong>
             </p>
             <p>
-              3- Escrow for Real Estate Closing: <strong>$250,000</strong> in USDT
+              3 - Escrow for Real Estate Closing: <strong>$250,000</strong> in USDT
               → Estimated fee: <strong>$3,750</strong>
             </p>
           <p>
