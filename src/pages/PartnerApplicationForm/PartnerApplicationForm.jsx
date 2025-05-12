@@ -208,7 +208,7 @@ const PartnersInquiry = () => (
               <label for="privacypolicy">
                 By clicking 'Submit', you agree to be contacted by Escrowly
                 about partnership opportunities and accept our{" "}
-                <a href="/privacy-policy">Privacy policy.</a>
+                <Link to="/privacy-policy">Privacy Policy</Link>
               </label>
             </div>
             <button className="btn-submit">Submit</button>
