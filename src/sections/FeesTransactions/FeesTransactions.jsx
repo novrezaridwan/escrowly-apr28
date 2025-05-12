@@ -221,7 +221,7 @@ const FeesTransactions = function () {
             <li><strong>USDT (Tether)</strong></li>
             <li><strong>USDC (USD Coin)</strong></li>
           </ul>
-          <h3>Example Scenarios</h3>
+          <h6>Example Scenarios</h6>
           <ul>
             <li>
               Escrow for International Business Deals: <strong>$50,000</strong>{" "}
