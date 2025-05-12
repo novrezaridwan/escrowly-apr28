@@ -222,20 +222,18 @@ const FeesTransactions = function () {
             <li><strong>USDC (USD Coin)</strong></li>
           </ul>
           <h6>Example Scenarios:</h6>
-          <ol>
-            <li>
-              Escrow for International Business Deals: <strong>$50,000</strong>{" "}
+            <p>
+              1- Escrow for International Business Deals: <strong>$50,000</strong>{" "}
               in USDT → Estimated fee: <strong>$900</strong>
-            </li>
-            <li>
-              Escrow for Art and Collectables: <strong>$10,000</strong> in USDC
+            </p>
+            <p>
+              2- Escrow for Art and Collectables: <strong>$10,000</strong> in USDC
               → Estimated fee: <strong>$220</strong>
-            </li>
-            <li>
-              Escrow for Real Estate Closing: <strong>$250,000</strong> in USDT
+            </p>
+            <p>
+              3- Escrow for Real Estate Closing: <strong>$250,000</strong> in USDT
               → Estimated fee: <strong>$3,750</strong>
-            </li>
-          </ol>
+            </p>
           <p>
             The calculator will allow you to simulate transaction processes and
             plan for future costs.
