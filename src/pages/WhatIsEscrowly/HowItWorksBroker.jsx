@@ -69,6 +69,8 @@ const HowItWorksBroker = () => {
                                         <h3>Step 4: Funds are Disbursed & Commission is Paid</h3>
                                         <p>Both the buyer and the seller confirm the transaction, or you, as the verified broker, verify the agreement for the contract to disburse payments to the seller and send your commission automatically. No chasing clients. No manual splits. Every commercial deal features automatic trust mechanisms.</p>
                                         <img className="w-full h-auto my-4 rounded-lg" src="/images/how-work-broker2.webp" alt="Escrowly About How Broker Works"/>
+                                        <h3>Confidential Transaction – Broker Controlled</h3>
+                                        <p>In a confidential transaction by Broker, the financial terms (purchase price, escrowly fee, and broker commission) are not displayed to the Buyer or Seller. The Broker commission can be paid by the Buyer, Seller, or can be split between the Buyer and Seller. Also, the Escrowly fee can be paid by the Buyer, Broker, or split 50/50 between the Buyer and Broker.</p>
                                         <h3>Why Use Escrowly.com as a Broker?</h3>
                                         <ul>
                                             <li>The platform allows you to serve as a trustworthy bridge between crypto buyers and sellers.</li>
